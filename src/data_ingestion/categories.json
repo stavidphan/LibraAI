@@ -1,0 +1,354 @@
+[
+    {
+        "count": 466,
+        "display_value": "Du ký",
+        "query_value": 4933,
+        "url_key": "du-ky",
+        "url_path": "/du-ky/c4933"
+    },
+    {
+        "count": 2562,
+        "display_value": "Light novel",
+        "query_value": 7358,
+        "url_key": "light-novel",
+        "url_path": "/light-novel/c7358"
+    },
+    {
+        "count": 1076,
+        "display_value": "Phê Bình - Lý Luận Văn Học",
+        "query_value": 5244,
+        "url_key": "phe-binh-ly-luan-van-hoc",
+        "url_path": "/phe-binh-ly-luan-van-hoc/c5244"
+    },
+    {
+        "count": 4774,
+        "display_value": "Phóng sự - Ký sự - Bút ký",
+        "query_value": 5245,
+        "url_key": "phong-su-ky-su",
+        "url_path": "/phong-su-ky-su/c5245"
+    },
+    {
+        "count": 5723,
+        "display_value": "Tác phẩm kinh điển",
+        "query_value": 842,
+        "url_key": "tac-pham-kinh-dien",
+        "url_path": "/tac-pham-kinh-dien/c842"
+    },
+    {
+        "count": 1114,
+        "display_value": "Thơ",
+        "query_value": 446,
+        "url_key": "tho",
+        "url_path": "/tho/c446"
+    },
+    {
+        "count": 3378,
+        "display_value": "Tiểu sử - Hồi ký",
+        "query_value": 843,
+        "url_key": "tieu-su-hoi-ky",
+        "url_path": "/tieu-su-hoi-ky/c843"
+    },
+    {
+        "count": 10023,
+        "display_value": "Tiểu Thuyết",
+        "query_value": 844,
+        "url_key": "tieu-thuyet",
+        "url_path": "/tieu-thuyet/c844"
+    },
+    {
+        "count": 743,
+        "display_value": "Tranh Truyện",
+        "query_value": 8973,
+        "url_key": "tranh-truyen",
+        "url_path": "/tranh-truyen/c8973"
+    },
+    {
+        "count": 298,
+        "display_value": "Truyện cổ tích - Ngụ ngôn",
+        "query_value": 10079,
+        "url_key": "truyen-co-tich-ngu-ngon",
+        "url_path": "/truyen-co-tich-ngu-ngon/c10079"
+    },
+    {
+        "count": 174,
+        "display_value": "Truyện cười",
+        "query_value": 444,
+        "url_key": "truyen-cuoi",
+        "url_path": "/truyen-cuoi/c444"
+    },
+    {
+        "count": 3981,
+        "display_value": "Truyện dài",
+        "query_value": 6750,
+        "url_key": "truyen-dai",
+        "url_path": "/truyen-dai/c6750"
+    },
+    {
+        "count": 1981,
+        "display_value": "Truyện đam mỹ",
+        "query_value": 1367,
+        "url_key": "truyen-dam-my",
+        "url_path": "/truyen-dam-my/c1367"
+    },
+    {
+        "count": 2035,
+        "display_value": "Truyện Giả tưởng - Huyền Bí - Phiêu Lưu",
+        "query_value": 840,
+        "url_key": "truyen-gia-tuong-huyen-bi-phieu-luu",
+        "url_path": "/truyen-gia-tuong-huyen-bi-phieu-luu/c840"
+    },
+    {
+        "count": 75,
+        "display_value": "Truyện kiếm hiệp",
+        "query_value": 639,
+        "url_key": "kiem-hiep-vo-hiep",
+        "url_path": "/kiem-hiep-vo-hiep/c639"
+    },
+    {
+        "count": 942,
+        "display_value": "Truyện kinh dị",
+        "query_value": 665,
+        "url_key": "truyen-kinh-di",
+        "url_path": "/truyen-kinh-di/c665"
+    },
+    {
+        "count": 8227,
+        "display_value": "Truyện ngắn - Tản văn - Tạp Văn",
+        "logo": "https://salt.tikicdn.com/cache/w100/ts/category/f0/de/c7/b099ef3717561ef0867cee2c4910bfb3.png",
+        "query_value": 845,
+        "url_key": "truyen-ngan-tan-van-tap-van",
+        "url_path": "/truyen-ngan-tan-van-tap-van/c845"
+    },
+    {
+        "count": 1366,
+        "display_value": "Truyện ngôn tình",
+        "query_value": 1521,
+        "url_key": "ngon-tinh",
+        "url_path": "/ngon-tinh/c1521"
+    },
+    {
+        "count": 3455,
+        "display_value": "Truyện trinh thám",
+        "query_value": 664,
+        "url_key": "trinh-tham",
+        "url_path": "/trinh-tham/c664"
+    },
+    {
+        "count": 96,
+        "display_value": "Ca Dao - Tục Ngữ - Thành ngữ",
+        "query_value": 26904,
+        "url_key": "ca-dao-tuc-ngu-thanh-ngu",
+        "url_path": "/ca-dao-tuc-ngu-thanh-ngu/c26904"
+    },
+    {
+        "count": 96,
+        "display_value": "Sách ảnh",
+        "query_value": 26902,
+        "url_key": "sach-anh",
+        "url_path": "/sach-anh/c26902"
+    },
+    {
+        "count": 5473,
+        "display_value": "Bài học kinh doanh",
+        "query_value": 847,
+        "url_key": "bai-hoc-kinh-doanh",
+        "url_path": "/bai-hoc-kinh-doanh/c847"
+    },
+    {
+        "count": 1347,
+        "display_value": "Sách doanh nhân",
+        "query_value": 483,
+        "url_key": "sach-doanh-nhan",
+        "url_path": "/sach-doanh-nhan/c483"
+    },
+    {
+        "count": 1545,
+        "display_value": "Sách khởi nghiệp",
+        "query_value": 372,
+        "url_key": "sach-khoi-nghiep",
+        "url_path": "/sach-khoi-nghiep/c372"
+    },
+    {
+        "count": 1609,
+        "display_value": "Sách kinh tế học",
+        "query_value": 593,
+        "url_key": "sach-kinh-te-hoc",
+        "url_path": "/sach-kinh-te-hoc/c593"
+    },
+    {
+        "count": 5293,
+        "display_value": "Sách kỹ năng làm việc",
+        "query_value": 385,
+        "url_key": "sach-ky-nang-lam-viec",
+        "url_path": "/sach-ky-nang-lam-viec/c385"
+    },
+    {
+        "count": 4449,
+        "display_value": "Sách Marketing - Bán hàng ",
+        "query_value": 848,
+        "url_key": "sach-marketing-ban-hang",
+        "url_path": "/sach-marketing-ban-hang/c848"
+    },
+    {
+        "count": 3157,
+        "display_value": "Sách quản trị, lãnh đạo",
+        "query_value": 849,
+        "url_key": "sach-quan-tri-lanh-dao",
+        "url_path": "/sach-quan-tri-lanh-dao/c849"
+    },
+    {
+        "count": 576,
+        "display_value": "Sách quản trị nhân lực",
+        "query_value": 4144,
+        "url_key": "sach-quan-tri-nhan-luc",
+        "url_path": "/sach-quan-tri-nhan-luc/c4144"
+    },
+    {
+        "count": 2460,
+        "display_value": "Sách tài chính",
+        "query_value": 67904,
+        "url_key": "sach-tai-chinh",
+        "url_path": "/sach-tai-chinh/c67904"
+    },
+    {
+        "count": 4275,
+        "display_value": "Đạo đức - Kỹ năng sống",
+        "query_value": 852,
+        "url_key": "bai-hoc-dao-duc",
+        "url_path": "/bai-hoc-dao-duc/c852"
+    },
+    {
+        "count": 11819,
+        "display_value": "Kiến thức - Bách khoa",
+        "query_value": 853,
+        "url_key": "kien-thuc-ky-nang",
+        "url_path": "/kien-thuc-ky-nang/c853"
+    },
+    {
+        "count": 4589,
+        "display_value": "Tô màu - Luyện chữ  ",
+        "query_value": 856,
+        "url_key": "to-mau-luyen-chu",
+        "url_path": "/to-mau-luyen-chu/c856"
+    },
+    {
+        "count": 763,
+        "display_value": "Truyện cổ tích",
+        "query_value": 1753,
+        "url_key": "truyen-co-tich",
+        "url_path": "/truyen-co-tich/c1753"
+    },
+    {
+        "count": 3070,
+        "display_value": "Truyện kể cho bé",
+        "query_value": 854,
+        "url_key": "truyen-ke-cho-be",
+        "url_path": "/truyen-ke-cho-be/c854"
+    },
+    {
+        "count": 1841,
+        "display_value": "Truyện tranh Ehon",
+        "query_value": 6040,
+        "url_key": "ehon-nhat-ban",
+        "url_path": "/ehon-nhat-ban/c6040"
+    },
+    {
+        "count": 6706,
+        "display_value": "Truyện tranh thiếu nhi",
+        "query_value": 855,
+        "url_key": "truyen-tranh-thieu-nhi",
+        "url_path": "/truyen-tranh-thieu-nhi/c855"
+    },
+    {
+        "count": 5000,
+        "display_value": "Văn học thiếu nhi",
+        "query_value": 1754,
+        "url_key": "van-hoc-thieu-nhi",
+        "url_path": "/van-hoc-thieu-nhi/c1754"
+    },
+    {
+        "count": 537,
+        "display_value": "Sách chuyển động -Tương tác",
+        "query_value": 67953,
+        "url_key": "sach-chuyen-dong-tuong-tac",
+        "url_path": "/sach-chuyen-dong-tuong-tac/c67953"
+    },
+    {
+        "count": 29789,
+        "display_value": "Sách tư duy - Kỹ năng sống",
+        "logo": "https://salt.tikicdn.com/cache/w100/ts/category/33/f4/5b/049d91f3ede87f206498aa3e30d27eb0.png",
+        "query_value": 871,
+        "url_key": "sach-ky-nang-song",
+        "url_path": "/sach-ky-nang-song/c871"
+    },
+    {
+        "count": 1869,
+        "display_value": "Sách hướng nghiệp",
+        "query_value": 716,
+        "url_key": "sach-huong-nghiep",
+        "url_path": "/sach-huong-nghiep/c716"
+    },
+    {
+        "count": 8536,
+        "display_value": "Sách kỹ năng mềm",
+        "query_value": 67929,
+        "url_key": "sach-ky-nang-mem",
+        "url_path": "/sach-ky-nang-mem/c67929"
+    },
+    {
+        "count": 788,
+        "display_value": "Sách tâm lý học",
+        "query_value": 67945,
+        "url_key": "sach-tam-ly-hoc",
+        "url_path": "/sach-tam-ly-hoc/c67945"
+    },
+    {
+        "count": 324,
+        "display_value": "Sách Thai Giáo",
+        "query_value": 6138,
+        "url_key": "sach-thai-giao",
+        "url_path": "/sach-thai-giao/c6138"
+    },
+    {
+        "count": 1729,
+        "display_value": "Sách Kiến Thức - Kỹ Năng Cho Trẻ",
+        "query_value": 3271,
+        "url_key": "sach-ky-nang-cho-be",
+        "url_path": "/sach-ky-nang-cho-be/c3271"
+    },
+    {
+        "count": 4601,
+        "display_value": "Cẩm nang làm cha mẹ",
+        "query_value": 3320,
+        "url_key": "cam-nang-lam-cha-me",
+        "url_path": "/cam-nang-lam-cha-me/c3320"
+    },
+    {
+        "count": 558,
+        "display_value": "Sách Dinh Dưỡng - Sức Khỏe Cho Bé",
+        "query_value": 3272,
+        "url_key": "sach-dinh-duong-suc-khoe-cho-be",
+        "url_path": "/sach-dinh-duong-suc-khoe-cho-be/c3272"
+    },
+    {
+        "count": 52,
+        "display_value": "Giáo dục tuổi teen",
+        "query_value": 68020,
+        "url_key": "giao-duc-tuoi-teen",
+        "url_path": "/giao-duc-tuoi-teen/c68020"
+    },
+    {
+        "count": 641,
+        "display_value": "Phương pháp giáo dục trẻ",
+        "query_value": 68021,
+        "url_key": "phuong-phap-giao-duc-tre",
+        "url_path": "/phuong-phap-giao-duc-tre/c68021"
+    },
+    {
+        "count": 872,
+        "display_value": "Sách Giáo Khoa Cấp 1",
+        "query_value": 16660,
+        "url_key": "sach-giao-khoa-cap-1",
+        "url_path": "/sach-giao-khoa-cap-1/c16660"
+    }
+]

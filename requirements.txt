@@ -1,0 +1,24 @@
+aiohttp
+configparser
+future
+
+# Basic modules
+gensim
+pipmaster
+pydantic
+python-dotenv
+
+setuptools
+tenacity
+
+# LLM packages
+tiktoken
+
+# Extra libraries are installed when needed using pipmaster
+scipy==1.12.0
+nest_asyncio
+fastapi
+uvicorn
+tabulate
+httpx
+pandas
