@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>LibraAI</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Added Logo -->
+    <div class="logo-container">
+        <svg class="book-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#e0e0e0" stroke-width="2">
+            <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
+            <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
+        </svg>
+        <span class="logo-text">LibraAI</span>
+    </div>
+    
+    <div class="messages-wrapper">
+        <div class="chat-container">
+            <div class="messages" id="messages"></div>
+            <div class="input-area mobile-input-area">
+                <div class="input-row">
+                    <textarea id="userInput" placeholder="How can I help you?..."></textarea>
+                </div>
+                <div class="controls-row">
+                    <div class="mode-selector">
+                        <button id="modeSelectButton" class="mode-select-button">
+                            <span id="selectedModeText">Hybrid</span>
+                            <svg class="dropdown-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#e0e0e0" stroke-width="2">
+                                <path d="M7 10l5 5 5-5z"/>
+                            </svg>
+                        </button>
+                        <ul id="modeOptions" class="mode-options">
+                            <li data-value="hybrid" class="mode-option selected">Hybrid </li>
+                            <li data-value="local" class="mode-option">Local </li>
+                            <li data-value="global" class="mode-option">Global </li>
+                            <li data-value="naive" class="mode-option">Naive </li>
+                        </ul>
+                    </div>
+                    <button id="sendButton" type="button">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

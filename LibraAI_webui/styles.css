@@ -1,0 +1,544 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1F2123;
+    color: #e0e0e0;
+    font-family: "Roboto", Arial, sans-serif;
+    font-weight: 200;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+.messages-wrapper {
+    width: 100%;
+    min-height: 100vh;
+    padding-bottom: 80px;
+    padding-top: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    position: relative;
+}
+
+.messages {
+    width: 100%;
+    flex-grow: 1;
+    position: static;
+    padding-top: 50px;
+    padding-bottom: 90px;
+}
+
+.messages::-webkit-scrollbar {
+    width: 6px;
+}
+
+.messages::-webkit-scrollbar-track {
+    background: #1a1a1a;
+    border-radius: 10px;
+}
+
+.messages::-webkit-scrollbar-thumb {
+    background: #444;
+    border-radius: 10px;
+    border: 1px solid #1a1a1a;
+}
+
+.messages::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.messages::after {
+    display: none;
+}
+
+.messages div {
+    margin: 5px 0;
+    padding: 12px 18px; 
+    border-radius: 12px;
+    color: #e0e0e0;
+    font-family: "Roboto", Arial, sans-serif;
+    font-weight: 300;
+    word-wrap: break-word;
+    line-height: 1.5;
+}
+
+.messages div.user-message {
+    background-color: #3a3a3a;
+    min-width: 50px;
+    max-width: 80%;
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    text-align: left;
+}
+
+/* Style for bot-message */
+.messages div.bot-message {
+    border: none;
+    padding-left: 0px;
+    animation: fadeIn 0.3s ease-in;
+}
+
+/* Animation for bot-message */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(5px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.messages div.bot-message ul {
+    padding-left: 0;
+    margin: 8px 0;
+}
+
+.messages div.bot-message ul li {
+    list-style-type: none;
+    margin: 3px 0;
+    padding-left: 10px;
+    position: relative;
+}
+
+/* Add bullet point (-) for <ul> items without icon */
+.messages div.bot-message ul li:not(.has-icon)::before {
+    content: "-";
+    position: absolute;
+    left: 0;
+    color: #e0e0e0;
+    font-weight: 400;
+}
+
+/* Handle <ol> lists in bot-message */
+.messages div.bot-message ol {
+    padding-left: 0;
+    margin: 8px 0;
+}
+
+.messages div.bot-message ol li {
+    list-style-position: outside;
+    margin: 3px 0 3px 20px;
+    padding-left: 10px; /* Distance between number and text */
+}
+
+/* Handle nested lists */
+.messages div.bot-message ul ul,
+.messages div.bot-message ul ol,
+.messages div.bot-message ol ul,
+.messages div.bot-message ol ol {
+    padding-left: 0px;
+    margin: 3px 0;
+}
+
+.messages div.bot-message ul ul li,
+.messages div.bot-message ul ol li,
+.messages div.bot-message ol ul li,
+.messages div.bot-message ol ol li {
+    margin: 3px 0;
+    padding-left: 10px;
+}
+
+.messages div.bot-message ul ul li,
+.messages div.bot-message ol ul li {
+    list-style-type: none;
+    padding-left: 15px; /* Distance between '-' and text */
+    position: relative;
+}
+
+.messages div.bot-message ul ul li:not(.has-icon)::before,
+.messages div.bot-message ol ul li:not(.has-icon)::before {
+    content: "-";
+    position: absolute;
+    left: 0;
+    color: #e0e0e0;
+    font-weight: 400;
+}
+
+.messages div.bot-message ul ol li,
+.messages div.bot-message ol ol li {
+    list-style-position: outside;
+    margin: 3px 0 3px 20px;
+    padding-left: 0;
+}
+
+/* Handle links in bot-message */
+.messages div.bot-message a {
+    color: #418bd4;
+    text-decoration: none;
+    font-weight: 400;
+    transition: color 0.2s ease;
+}
+
+.messages div.bot-message a:hover {
+    color: #63B8FF;
+    text-decoration: underline;
+}
+
+.input-background-overlay {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    background-color: #1a1a1a;
+    z-index: 90;
+}
+
+.input-area {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 2px 6px 6px 6px;
+    background-color: #2a2a2a;
+    border-radius: 25px;
+    border: 0.1px solid #686666;
+    flex-shrink: 0;
+    position: fixed;
+    bottom: 0;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    max-width: 800px;
+    z-index: 100;
+    touch-action: none;
+}
+
+.input-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0px;
+}
+
+.controls-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding-left: 8px;
+}
+
+#userInput {
+    flex: 1;
+    padding: 20px 15px 0px 15px;
+    border: none;
+    background-color: transparent;
+    color: #e0e0e0;
+    font-size: 16px;
+    outline: none;
+    font-family: "Roboto", Arial, sans-serif;
+    border-radius: 0;
+    resize: none;
+    min-height: 30px; 
+    height: auto;
+    line-height: 1.4;
+    overflow: hidden;
+}
+
+#userInput::placeholder {
+    color: #a0a0a0;
+    font-family: "Roboto", Arial, sans-serif;
+    font-weight: 200;
+    line-height: 1.4;
+}
+
+#sendButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    margin-left: auto;
+    border-radius: 50%;
+    transition: background-color 0.2s ease;
+}
+
+/* Style for send button when disabled */
+#sendButton:disabled,
+#sendButton.disabled {
+    opacity: 0.5;
+}
+
+#sendButton svg {
+    transition: transform 0.2s ease;
+}
+
+#sendButton:hover:not(:disabled):not(.disabled) {
+    background-color: #444;
+}
+
+#sendButton:hover:not(:disabled):not(.disabled) svg {
+    transform: scale(1.3);
+}
+
+.new-chat-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #2a2a2a;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #e0e0e0;
+    font-family: "Inter", Arial, sans-serif;
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
+.new-chat-button .new-chat-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.new-chat-button .new-chat-text {
+    display: none;
+    margin-left: 8px;
+    font-size: 14px;
+}
+
+.new-chat-button:hover {
+    border-radius: 20px;
+    width: 120px;
+    background-color: #3a3a3a;
+}
+
+.new-chat-button:hover .new-chat-text {
+    display: inline;
+}
+
+.logo-container {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    display: flex;
+    align-items: center;
+    z-index: 110;
+    padding: 8px 12px;
+    background-color: #2a2a2a;
+    border-radius: 10px;
+}
+
+.book-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+}
+
+.logo-text {
+    font-family: "Inter", Arial, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #e0e0e0;
+}
+
+
+.mode-selector {
+    position: relative;
+    padding-bottom: 7px;
+    padding-left: 6px;
+}
+
+.mode-select-button {
+    display: flex;
+    align-items: center;
+    background-color: #2d2c2c;
+    border: 1px solid #686666;
+    border-radius:15px;
+    padding: 8px;
+    color: #e0e0e0;
+    font-size: 14px;
+    font-family: "Roboto", Arial, sans-serif;
+    cursor: pointer;
+    width: 80px;
+    height: 36px;
+    transition: background-color 0.2s;
+}
+
+.mode-select-button:hover {
+    background-color: #444;
+}
+
+.mode-select-button .dropdown-arrow {
+    margin-left: auto;
+}
+
+.mode-options {
+    display: none;
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    background-color: #2a2a2a;
+    border-radius: 8px;
+    list-style: none;
+    margin: 0 0 5px 0;
+    padding: 5px 0;
+    width: 82px;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 120;
+    border: 0.5px solid #686666;
+}
+
+.mode-options.show {
+    display: block;
+}
+
+.mode-option {
+    padding: 8px 12px;
+    color: #e0e0e0;
+    font-size: 14px;
+    font-family: "Roboto", Arial, sans-serif;
+    cursor: pointer;
+}
+
+.mode-option:hover {
+    background-color: #3a3a3a;
+}
+
+.mode-option.selected::after {
+    content: "✔";
+    margin-left: auto;
+    color: #a0a0a0;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+    .logo-container {
+        top: 8px;
+        left: 10px;
+        padding: 5px 8px;
+    }
+
+    .book-icon { 
+        width: 18px;
+        height: 20px;
+    }
+
+    .logo-text {
+        font-size: 14px;
+    }
+
+    .new-chat-button {
+        top: 10px;
+        right: 10px;
+        width: 36px;
+        height: 36px;
+    }
+
+    .new-chat-button .new-chat-icon {
+        width: 18px;
+        height: 18px;
+    }
+
+    .new-chat-button:hover {
+        width: 100px;
+    }
+
+    .new-chat-button .new-chat-text {
+        font-size: 12px;
+    }
+
+    .messages {
+        padding-top: 60px;
+        padding-bottom: 80px;
+        padding-left: 5px;
+        padding-right: 10px;
+    }
+
+    .messages div.bot-message {
+        padding: 10px 10px;
+    }
+
+    .messages div.bot-message p {
+        margin: 0px 0;
+    }
+
+    .messages div.bot-message ul,
+    .messages div.bot-message ol {
+        padding-left: 14px;
+        margin: 6px 0;
+    }
+
+    .messages div.bot-message ul li,
+    .messages div.bot-message ol li {
+        margin: 2px 0;
+        padding-left: 0px;
+    }
+
+    .messages div.bot-message ul ul,
+    .messages div.bot-message ul ol,
+    .messages div.bot-message ol ul,
+    .messages div.bot-message ol ol {
+        padding-left: 10px;
+        margin: 2px 0;
+    }
+
+    .input-area {
+        padding: 2px 6px 6px 6px;
+        border-radius: 20px;
+        bottom: 0;
+        width: 95%;
+        max-width: 320px;
+        max-width: none; 
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+
+    .mobile-input-area {
+        /* Ensure fixed on mobile even when virtual keyboard appears */
+        position: fixed !important;
+        bottom: 0 !important;
+        z-index: 1000;
+    }
+
+    #userInput {
+        padding: 15px 10px 0px 10px;
+        font-size: 16px;
+        min-height: 25px;
+    }
+
+    .mode-select-button {
+        width: 70px;
+        height: 32px;
+        padding: 6px;
+        font-size: 12px;
+    }
+
+    .mode-options {
+        width: 70px;
+    }
+
+    .mode-option {
+        padding: 6px 10px;
+        font-size: 12px;
+    }
+
+    #sendButton {
+        width: 32px;
+        height: 32px;
+    }
+}
