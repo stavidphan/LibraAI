@@ -1,4 +1,5 @@
-# LibraAI: Intelligent Book Chatbot with LightRAG & Ollama
+# LibraAI: A Lightweight Conversational AI System for
+Book Consultation in E-Commerce
 
 Author: Phan Thanh Duy, Nguyen Truong Son and Dinh Bao Minh
 
@@ -80,7 +81,7 @@ The overall LibraAI workflow:
      
 ---
 
-## System Flow
+## References
 [1]	Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, and Chao Huang, ”LightRAG: Simple and Fast Retrieval-Augmented Generation”
 [2] Minh DinhBao, Viet DangAnh and Loc NguyenThe, “Xây dựng Đồ thị tri thức Thương mại điện tử Tiếng Việt dựa trên Trích xuất thông tin ngữ nghĩa với BERT”, The 26th National Conference on Electronics, Communications and Information Technology, 2023.
 
