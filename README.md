@@ -1,5 +1,4 @@
-# LibraAI: A Lightweight Conversational AI System for
-Book Consultation in E-Commerce
+# LibraAI: A Lightweight Conversational AI System for Book Consultation in E-Commerce
 
 Author: Phan Thanh Duy, Nguyen Truong Son and Dinh Bao Minh
 
