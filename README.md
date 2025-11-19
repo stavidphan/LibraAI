@@ -1,7 +1,5 @@
 # LibraAI: A Lightweight Conversational AI System for Book Consultation in E-Commerce
 
-Author: Phan Thanh Duy, Nguyen Truong Son and Dinh Bao Minh
-
 LibraAI is an AI-powered chatbot that automatically crawls book information from **Tiki** on a scheduled basis and builds an intelligent knowledge base.  
 Users can then query LibraAI in natural language to explore book details and receive suggestions to make better purchasing decisions.
 
@@ -82,5 +80,4 @@ The overall LibraAI workflow:
 
 ## References
 [1]	Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, and Chao Huang, ”LightRAG: Simple and Fast Retrieval-Augmented Generation”
-[2] Minh DinhBao, Viet DangAnh and Loc NguyenThe, “Xây dựng Đồ thị tri thức Thương mại điện tử Tiếng Việt dựa trên Trích xuất thông tin ngữ nghĩa với BERT”, The 26th National Conference on Electronics, Communications and Information Technology, 2023.
 
