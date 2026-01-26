@@ -1,0 +1,2312 @@
+{
+  "hybrid": {
+    "532f9ee765a9d3a314d90fcfc671bf09": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\"], \"low_level_keywords\": [\"du k\\u00fd\", \"<100,000 VND\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào hiện đang có giá dưới 100,000 VND?"
+    },
+    "c605b571d383a9809b14f77c2b1593c5": {
+      "return": "Theo thông tin mới nhất tôi có:\n\n- \"Tây Du Ký Tập 1 -Mỹ Hầu Vương Xuất Thế - Vanlangbooks\" hiện đang được bán với giá 20000 VND trên Tiki.\n\nKhông có sách Tây Du Ký nào khác trong danh sách có giá dưới 100,000 VND.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào hiện đang có giá dưới 100,000 VND?"
+    },
+    "92a375c1d816ae360971addc6eeec7c0": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\", \"has discount\"], \"low_level_keywords\": [\"\\u0110\\u1eebng Ch\\u1ebft \\u1ede \\u1ea2 R\\u1eadp X\\u00ea \\u00dat\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Đừng Chết Ở Ả Rập Xê Út' hiện giá bao nhiêu và có giảm giá không?"
+    },
+    "af3095d306de69f415d660ba5e7cdbb8": {
+      "return": "Cuốn sách \"Đừng Chết Ở Ả Rập Xê Út\" đang được bán với giá 70,000 VND tại Tiki. Hiện tại, nó đang có giảm giá 29% so với giá gốc 99,000 VND.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Đừng Chết Ở Ả Rập Xê Út' hiện giá bao nhiêu và có giảm giá không?"
+    },
+    "bd3b9ef9c11aa998b908628ffaa2c973": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\", \"sold by\"], \"low_level_keywords\": [\"du k\\u00fd\", \"<100,000 VND\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Trong các sách du ký dưới 100,000 VND, cuốn nào có số lượng bán cao nhất?"
+    },
+    "e3695953094d5ddf6cebc1128eea5c74": {
+      "return": "Dựa trên thông tin hiện có, trong các sách thuộc thể loại Du Ký và giá thấp hơn hoặc bằng 100.000 VND, không có cuốn cụ thể được đề cập. Tuy nhiên, nếu bạn quan tâm đến sách \"Tây Du Ký Tập 1 - Mỹ Hầu Vương Xuất Thế - Vanlangbooks\" thuộc thể loại Truyện kiếm hiệp với giá 20.000 VND và đã bán được 7 bản, đây có thể là cuốn gần nhất đáp ứng điều kiện của bạn.\n\nNếu bạn cần thông tin chi tiết hơn hoặc sách khác trong danh mục du ký phù hợp, vui lòng cung cấp thêm để tôi có thể tìm kiếm chính xác hơn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Trong các sách du ký dưới 100,000 VND, cuốn nào có số lượng bán cao nhất?"
+    },
+    "8ae096e6c36f77ac5233c8a90ecc0964": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\", \"has discount\"], \"low_level_keywords\": [\"\\u0110i B\\u1ed9 Xuy\\u00ean Vi\\u1ec7t V\\u1edbi C\\u00e2y \\u0110\\u00e0n Guitar\", \"C\\u00f4 \\u0110\\u01a1n Tr\\u00ean Everest\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá hiện tại và mức giảm giá của 'Đi Bộ Xuyên Việt Với Cây Đàn Guitar' với 'Cô Đơn Trên Everest'."
+    },
+    "dfa2cc93209fd1cfd00a302537cc944f": {
+      "return": "Dựa trên thông tin được cung cấp, chúng ta có thể so sánh giá hiện tại và mức giảm giá giữa hai cuốn sách:\n\n### 'Đi Bộ Xuyên Việt Với Cây Đàn Guitar'\n- **Giá hiện tại**: 73,160 VND (theo mô tả trong ví dụ)\n- **Giá gốc**: 124,000 VND\n- **Mức giảm giá**: 41%\n- **Đánh giá khách hàng**: 4.7 sao\n\n### 'Cô Đơn Trên Everest'\n- **Có hai bản khác nhau**:\n  - **Bản tái bản năm 2022** (tên chính thức: \"Cô Đơn Trên Everest (Tái bản 2022)\"):\n    - **Giá hiện tại**: 105,000 VND\n    - **Giá gốc**: 150,000 VND\n    - **Mức giảm giá**: 30%\n    - **Đánh giá khách hàng**: 5.0 sao\n    \n  - **Bản \"Du ký\"** (tên chính thức: \"Cô Đơn Trên Everest (Du Ký)\"):\n    - **Giá hiện tại**: 88,200 VND\n    - **Giá gốc**: 126,000 VND\n    - **Mức giảm giá**: 30%\n    - **Đánh giá khách hàng**: 4.8 sao\n\n### So sánh:\n- 'Cô Đơn Trên Everest (Tái bản 2022)' có mức giá hiện tại cao hơn so với 'Đi Bộ Xuyên Việt Với Cây Đàn Guitar' nhưng giảm giá tương đương (30%).\n- 'Cô Đơn Trên Everest (Du Ký)' cũng giảm 30%, nhưng giá hiện tại thấp hơn nhiều so với 'Đi Bộ Xuyên Việt Với Cây Đàn Guitar'.\n\n### Tóm tắt:\n- **'Đi Bộ Xuyên Việt Với Cây Đàn Guitar'** có mức giá hiện tại cao hơn và mức giảm tương đối lớn (41%).\n- **'Cô Đơn Trên Everest' (cả hai bản)** cũng có mức giảm 30%, nhưng với mức giá hiện tại thấp hơn so với 'Đi Bộ Xuyên Việt Với Cây Đàn Guitar'.\n\nNhư vậy, nếu bạn đang tìm kiếm một lựa chọn với mức giá phải chăng hơn và cùng mức giảm giá tương đương, \"Cô Đơn Trên Everest (Du Ký)\" có thể là lựa chọn phù hợp.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá hiện tại và mức giảm giá của 'Đi Bộ Xuyên Việt Với Cây Đàn Guitar' với 'Cô Đơn Trên Everest'."
+    },
+    "cc4ed8edb07bab72b0f62122468b1711": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\", \"published by\", \"has rating\"], \"low_level_keywords\": [\"du k\\u00fd\", \"100,000 VND\", \"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n Th\\u1ebf Gi\\u1edbi\", \"4.5\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có cuốn du ký nào dưới 100,000 VND của Nhà Xuất Bản Thế Giới với rating trên 4.5 không?"
+    },
+    "e7ff773a2ce1715f0844d7bcdf117204": {
+      "return": "Dựa trên thông tin mới nhất, có một cuốn du ký của Nhà Xuất Bản Thế Giới thỏa mãn các tiêu chí bạn đưa ra:\n\n- \"Những bí ẩn trên thế giới chưa được giải đáp (Bìa cứng) - Tái bản\"\n- Dưới 100,000 VND: Giá bán là 107,000 VND\n- Rating trên 4.5 sao: Có rating 5.0 sao\n\nNội dung chi tiết về cuốn sách này:\n\"Title: Những bí ẩn trên thế giới chưa được giải đáp (Bìa cứng) - Tái bản  \nAuthor: Nguyễn Văn Huân  \nPublisher: Nhà Xuất Bản Dân Trí  \nCategory: Du ký  \nSeller: Tiki Trading  \nLink: https://tiki.vn/product-p270442383.html?spid=270442386  \nCurrent Price: 107,000 VND  \nRating: 5.0 stars  \nQuantity Sold: 11\"\n\nNếu bạn quan tâm đến cuốn này, có thể xem thêm chi tiết tại link [tại đây](https://tiki.vn/product-p270442383.html?spid=270442386).",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có cuốn du ký nào dưới 100,000 VND của Nhà Xuất Bản Thế Giới với rating trên 4.5 không?"
+    },
+    "d4239825a41150edf3dc1408f6751c7b": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has discount\"], \"low_level_keywords\": []}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách nào trong danh sách đang giảm giá trên 50%?"
+    },
+    "653d00e3df33d0313a0d30cd81773512": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has discount\"], \"low_level_keywords\": [\"Tr\\u00ean \\u0110\\u1ec9nh Namsan Ng\\u1eafm M\\u1eb7t Tr\\u1eddi\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Trên Đỉnh Namsan Ngắm Mặt Trời' có mức giảm giá bao nhiêu?"
+    },
+    "00381a1ced0a7e9f4429cfd343a8b084": {
+      "return": "Cuốn sách 'Trên Đỉnh Namsan Ngắm Mặt Trời' đang được bán với mức giảm giá 63%. Hiện tại, nó có giá là 36.800 VND, so với giá gốc 99.000 VND.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Trên Đỉnh Namsan Ngắm Mặt Trời' có mức giảm giá bao nhiêu?"
+    },
+    "57b9b748d75a13fc6420a7bbfb589127": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has discount\", \"has rating\"], \"low_level_keywords\": [\"Gi\\u1ea3m gi\\u00e1 tr\\u00ean 40%\", \"\\u0111\\u00e1nh gi\\u00e1 trung b\\u00ecnh cao nh\\u1ea5t\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Trong các sách giảm giá trên 40%, cuốn nào có đánh giá trung bình cao nhất?"
+    },
+    "f40b62dda0b3091f4a6d7c0481c16f5c": {
+      "return": "Dựa trên thông tin bạn cung cấp, cuốn sách giảm giá hơn 40% và có đánh giá trung bình cao nhất là:\n\n\"Đi Rong Trên Những Múi Giờ\" của Nguyễn Hữu Tài. \n\nThông tin chi tiết:\n- Giảm giá: 41%\n- Đánh giá trung bình: 4.8 sao\n- Giá hiện tại: 64,311 VND\n- Nhà xuất bản: Nhà Xuất Bản Thế Giới\n\nCuốn sách này kể về hành trình khám phá các quốc gia trên ba châu lục của một người Mỹ gốc Việt, với nhiều trải nghiệm và góc nhìn độc đáo.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Trong các sách giảm giá trên 40%, cuốn nào có đánh giá trung bình cao nhất?"
+    },
+    "2786a3f1bad7519a69ef840cb6e5ee90": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has sold quantity\"], \"low_level_keywords\": [\"Du K\\u00fd\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh mức giảm giá của 3 cuốn du ký bán chạy nhất trong danh sách."
+    },
+    "a92ef2918a395345b288579982232d96": {
+      "return": "Dựa trên thông tin cung cấp, ba cuốn du ký bán chạy nhất và mức giảm giá của chúng là:\n\n1. \"Cô Đơn Trên Everest (Du Ký)\" - Mức giảm giá: 30%\n2. \"Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An\" - Mức giảm giá: 30%\n3. \"Tuyển Tập Du Ký( Tặng kèm sổ tay)\" - Mức giảm giá: 4%\n\nTóm lại, cả hai cuốn \"Cô Đơn Trên Everest (Du Ký)\" và \"Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An\" đều có mức giảm giá cao nhất là 30%. Trong khi đó, \"Tuyển Tập Du Ký( Tặng kèm sổ tay)\" có mức giảm giá thấp hơn đáng kể ở 4%.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh mức giảm giá của 3 cuốn du ký bán chạy nhất trong danh sách."
+    },
+    "48b0f8a68739f5321ce19a09df5b8ab3": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"has discount\"], \"low_level_keywords\": [\"Cu\\u1ed1n s\\u00e1ch gi\\u1ea3m gi\\u00e1 m\\u1ea1nh nh\\u1ea5t c\\u1ee7a t\\u00e1c gi\\u1ea3 Di Li\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách giảm giá mạnh nhất của tác giả Di Li là gì và giá hiện tại bao nhiêu?"
+    },
+    "ef7bf41a278db64f130cc1fc42cef5f8": {
+      "return": "Xin lỗi, nhưng thông tin về tác giả Di Li không được ghi chú trong dữ liệu mà tôi có. Tất cả các cuốn sách được đề cập đều do các tác giả khác như Nikola A. Ostrovsky, Nguyễn Nhật Ánh, T.J. Klune, Châu Văn Văn và Nguyễn Tường Thiết viết. Bạn có thể cung cấp thêm thông tin về tác giả Di Li hay sách cụ thể bạn quan tâm không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách giảm giá mạnh nhất của tác giả Di Li là gì và giá hiện tại bao nhiêu?"
+    },
+    "d875d1d4e0a2692c865263f3af02cb7b": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"published by\", \"price\", \"category\"], \"low_level_keywords\": [\"du k\\u00fd\", \"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n Tr\\u1ebb\", \"150,000 VND\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có bao nhiêu sách du ký của Nhà Xuất Bản Trẻ dưới 150,000 VND?"
+    },
+    "9f64f31f6b5efb4a6a6e76d46c2646bf": {
+      "return": "Thông tin hiện tại không đề cập đến bất kỳ cuốn sách du ký nào của Nhà Xuất Bản Trẻ hoặc giá bán cụ thể của các cuốn sách. Để trả lời chính xác câu hỏi của bạn, chúng ta cần thêm thông tin về danh sách sách du ký của Nhà Xuất Bản Trẻ và giá bán của chúng.\n\nTuy nhiên, dựa trên thông tin có sẵn:\n\n- \"150 thuật ngữ văn học (bìa mềm) - tái bản\" do Nhà Xuất Bản Văn Học xuất bản, không phải Nhà Xuất Bản Trẻ.\n- \"Ông Tướng Tình Báo Bí Ẩn Và Những Điệp Vụ Siêu Hạng\" của Nhà Xuất Bản Tổng hợp TP.HCM.\n\nNếu bạn có thêm thông tin về sách du ký và giá bán từ Nhà Xuất Bản Trẻ, tôi sẽ giúp bạn kiểm tra.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có bao nhiêu sách du ký của Nhà Xuất Bản Trẻ dưới 150,000 VND?"
+    },
+    "764a1338298149275caaf8e66597da50": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\", \"published by\"], \"low_level_keywords\": [\"V\\u1ea1n D\\u1eb7m \\u0110\\u01b0\\u1eddng T\\u1eeb M\\u1ed9t B\\u01b0\\u1edbc Ch\\u00e2n\", \"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n Ph\\u1ee5 N\\u1eef Vi\\u1ec7t Nam\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Vạn Dặm Đường Từ Một Bước Chân' của Nhà Xuất Bản Phụ Nữ Việt Nam giá bao nhiêu?"
+    },
+    "5e279861c73e2f8694366b9aa9074ead": {
+      "return": "Cuốn \"Vạn Dặm Đường Từ Một Bước Chân\" hiện đang được bán với giá 118,000 VND tại Tiki. Giá gốc của cuốn sách là 159,000 VND, nên đã có một ưu đãi giảm giá 26%.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Vạn Dặm Đường Từ Một Bước Chân' của Nhà Xuất Bản Phụ Nữ Việt Nam giá bao nhiêu?"
+    },
+    "61dcf8ecf7c096719385aa284a0690c8": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"published by\", \"has price\", \"has rating\"], \"low_level_keywords\": [\"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n Th\\u1ebf Gi\\u1edbi\", \"du k\\u00fd\", \"<100,000 VND\", \"5.0\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Nhà Xuất Bản Thế Giới có sách du ký nào dưới 100,000 VND với rating 5.0 không?"
+    },
+    "2eb60071089d706b91c219a6c157ae1d": {
+      "return": "Dựa trên thông tin mới nhất mà tôi có, Nhà Xuất Bản Thế Giới không có bất kỳ cuốn sách du ký nào dưới 100,000 VND với rating 5.0. Cuốn sách duy nhất có rating 5.0 là \"Những bí ẩn trên thế giới chưa được giải đáp (Bìa cứng) - Tái bản\", nhưng giá của nó là 107,000 VND.\n\nTuy nhiên, nếu bạn quan tâm đến các cuốn sách du ký khác từ Nhà Xuất Bản Thế Giới, tôi có một số gợi ý:\n\n- \"HIMALAYA – Hành Trình Chạm Đến Trán Trời\" (không rõ giá)\n- \"Du hành cùng Herodotus\" (không rõ giá)\n- \"Saigon - The Lifestyle And The Food\" (giá 94,000 VND)\n\nTôi khuyên bạn nên kiểm tra lại các thông tin để tìm cuốn sách phù hợp với yêu cầu của mình.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Nhà Xuất Bản Thế Giới có sách du ký nào dưới 100,000 VND với rating 5.0 không?"
+    },
+    "e23f038a64a911fed7e98587bbf5033c": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"published by\", \"sold quantity\"], \"low_level_keywords\": [\"du k\\u00fd\", \"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n Lao \\u0110\\u1ed9ng\", \"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n Tr\\u1ebb\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá và số lượng bán của các sách du ký từ Nhà Xuất Bản Lao Động và Nhà Xuất Bản Trẻ."
+    },
+    "16446077f9e4e9769a29124062b23a31": {
+      "return": "Dựa trên thông tin đã cung cấp, có hai cuốn sách thuộc thể loại \"Du ký\" nhưng đều do nhà xuất bản khác nhau:\n\n1. **Những bí ẩn trên thế giới chưa được giải đáp (Bìa cứng) - Tái bản**\n   - Nhà Xuất Bản Dân Trí\n   - Giá hiện tại: 107,000 VND\n   - Số lượng đã bán: 11\n\n2. **Không Đến Một (Tái Bản - Bìa Cam)**\n   - NXB Trẻ\n   - Giá hiện tại: 67,700 VND\n   - Số lượng đã bán: 2,772\n\nSo sánh giữa hai cuốn sách:\n\n- **Giá Sách**: \"Không Đến Một (Tái Bản - Bìa Cam)\" của NXB Trẻ có giá thấp hơn so với \"Những bí ẩn trên thế giới chưa được giải đáp (Bìa cứng) - Tái bản\" của Nhà Xuất Bản Dân Trí.\n  \n- **Số Lượng Bán**: \"Không Đến Một (Tái Bản - Bìa Cam)\" đã bán được số lượng lớn hơn nhiều so với \"Những bí ẩn trên thế giới chưa được giải đáp (Bìa cứng) - Tái bản\". \n\nTrong đó, NXB Trẻ có cuốn sách \"Không Đến Một (Tái Bản - Bìa Cam)\" đang có sức hút mạnh mẽ về mặt số lượng bán.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá và số lượng bán của các sách du ký từ Nhà Xuất Bản Lao Động và Nhà Xuất Bản Trẻ."
+    },
+    "86f33294b0ec6e4aac6f9942f9e6ad64": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"published by\", \"has price\", \"has discount\"], \"low_level_keywords\": [\"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n D\\u00e2n Tr\\u00ed\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách rẻ nhất của Nhà Xuất Bản Dân Trí hiện nay là gì và có giảm giá không?"
+    },
+    "1a77ee5cfe1d9f490e9f17d2101e724e": {
+      "return": "Dựa trên thông tin mới nhất, cuốn sách có giá thấp nhất của Nhà Xuất Bản Dân Trí mà tôi có là \"Killer Across The Table - Bên Kia Chiến Tuyến\" với giá bán lẻ đề xuất (Original Price) là 102000 VND. \n\nTuy nhiên, hiện tại không có thông tin về việc giảm giá cuốn sách này. Để biết chính xác có giảm giá hay không và mức độ giảm giá, bạn nên kiểm tra trực tiếp trên website hoặc ứng dụng của Tiki hoặc trang web khác mà tôi đã cung cấp link.\n\nLink sản phẩm: <https://tiki.vn/the-killer-across-the-table-ben-kia-chien-tuyen-p31607692.html?spid=28840695>\n\nHy vọng thông tin này hữu ích cho bạn!",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách rẻ nhất của Nhà Xuất Bản Dân Trí hiện nay là gì và có giảm giá không?"
+    },
+    "24bfd04a49d5a7b9efc4dbe9173de26f": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has rating\", \"price\"], \"low_level_keywords\": [\"du k\\u00fd\", \"5.0\", \"120,000 VND\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn du ký nào có đánh giá trung bình 5.0 và giá dưới 120,000 VND?"
+    },
+    "1c35a98e69907fb09ec760416f910020": {
+      "return": "Trong danh sách các cuốn sách du ký mà tôi có thông tin, cuốn \"Vạn Dặm Đường Từ Một Bước Chân\" do Mavis ViVu Ký làm tác giả có đánh giá trung bình 5.0 và giá hiện tại là 118,000 VND, phù hợp với yêu cầu của bạn.\n\nThông tin chi tiết về cuốn sách:\n- Title: Vạn Dặm Đường Từ Một Bước Chân\n- Author: Mavis ViVu Ký\n- Publisher: Nhà Xuất Bản Phụ Nữ Việt Nam\n- Category: Du ký\n- Current Price: 118,000 VND\n- Rating: 5.0 stars\n- Quantity Sold: 56\n\nBạn có muốn biết thêm thông tin về cuốn sách này không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn du ký nào có đánh giá trung bình 5.0 và giá dưới 120,000 VND?"
+    },
+    "88ccc64c110db3a851502edbc995f274": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has rating\"], \"low_level_keywords\": [\"Walden M\\u1ed9t m\\u00ecnh s\\u1ed1ng trong r\\u1eebng\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Walden Một Mình Sống Trong Rừng' có đánh giá bao nhiêu?"
+    },
+    "b1a0e2cc903034e7581c1430dbeb2cdf": {
+      "return": "Cuốn sách \"Walden Một Mình Sống Trong Rừng (Ấn Bản Bỏ Túi) - Bản Quyền\" có đánh giá là 5.0 sao.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Walden Một Mình Sống Trong Rừng' có đánh giá bao nhiêu?"
+    },
+    "692adad1130ffe6410e20ca0153f647a": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has rating\", \"price\"], \"low_level_keywords\": [\"5.0\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Trong các sách rating 5.0, cuốn nào có giá thấp nhất?"
+    },
+    "5d6d4463caedb97b88a5fb8402afc81e": {
+      "return": "Dựa trên danh sách các sách có rating 5.0 mới nhất mà tôi có, cuốn sách có giá thấp nhất là \"Lý Quang Diệu - Người Cha Lập Quốc\" với giá hiện tại là 49600 VND. \n\nChi tiết:\n- Title: Lý Quang Diệu - Người Cha Lập Quốc\n- Current Price: 49600 VND\n\nSách này có rating 5.0 và được bán bởi Nhà sách Fahasa trên Tiki với mức giảm giá 20%.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Trong các sách rating 5.0, cuốn nào có giá thấp nhất?"
+    },
+    "0a713d64b075389a7555dbebb0a3626f": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has sold quantity\", \"has rating\"], \"low_level_keywords\": [\"Du K\\u00fd\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh số lượng bán của 3 cuốn du ký có rating 5.0 cao nhất."
+    },
+    "9dbd2a6eded48a9f8390a5f4c4d20e5d": {
+      "return": "Dựa trên thông tin đã được cung cấp, tôi sẽ so sánh số lượng bán của các cuốn du ký có rating 5.0 cao nhất:\n\n1. **Cuốn \"Đường Xa Nắng Mới - Nguyễn Tường Bách\"**:\n   - Rating: 5.0\n   - Số lượng đã bán: 18\n\n2. **Cuốn \"Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An\"**:\n   - Rating: 5.0\n   - Số lượng đã bán: 290\n\n3. **Cuốn \"Tuyển Tập Du Ký( Tặng kèm sổ tay)\"**: \n   - Rating: 4.0 (không phải 5.0)\n   - Do không có rating 5.0, cuốn này sẽ không được bao gồm trong so sánh.\n\nKết luận:\n- Cuốn \"Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An\" có số lượng bán cao nhất với 290 bản đã bán.\n- Cuốn \"Đường Xa Nắng Mới - Nguyễn Tường Bách\" xếp sau với 18 bản đã bán.\n\nKhông có cuốn du ký nào khác có rating là 5.0, vì vậy chúng tôi chỉ so sánh hai cuốn trên.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh số lượng bán của 3 cuốn du ký có rating 5.0 cao nhất."
+    },
+    "04f4484728d6a446e3df7b7d646772f4": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"has price\", \"has rating\"], \"low_level_keywords\": [\"Cu\\u1ed1n s\\u00e1ch\", \"Ryszard Kapu\\u015bci\\u0144ski\", \"150,000 VND\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách giá dưới 150,000 VND nào của tác giả Ryszard Kapuściński có rating cao nhất?"
+    },
+    "5ee27d029a3d3bd09b7a61a8a0646c67": {
+      "return": "Dựa trên thông tin hiện có, cuốn sách của Ryszard Kapuściński có giá thấp hơn 150.000 VND và có đánh giá cao nhất là:\n\n**Cuốn sách \"Gỗ mun\"**\n\n- **Tác giả:** Ryszard Kapuściński\n- **Giá hiện tại:** 106,134 VND (khoảng 106,134 VND)\n- **Đánh giá sao:** 4.5 sao\n\nNgoài ra, cuốn sách \"Hoàng Đế\" của Ryszard Kapuściński có giá thấp hơn nhưng đánh giá là 5.0 sao:\n\n- **Tác giả:** Ryszard KapuȘcinski\n- **Giá hiện tại:** 64,700 VND (khoảng 64,700 VND)\n- **Đánh giá sao:** 5.0 sao\n\nNhưng cuốn sách \"Hoàng Đế\" có giá cao hơn một chút so với yêu cầu (<150.000 VND). Do đó, cuốn sách \"Gỗ mun\" là lựa chọn phù hợp nhất mà vẫn có đánh giá cao.\n\nBạn muốn tôi tìm thông tin về cuốn sách nào nữa không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách giá dưới 150,000 VND nào của tác giả Ryszard Kapuściński có rating cao nhất?"
+    },
+    "a291287e88964e2d97a635d0f5feb632": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has sold quantity\", \"has price\"], \"low_level_keywords\": [\"du k\\u00fd\", \"500\", \"150,000 VND\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn du ký nào bán được trên 500 cuốn và giá dưới 150,000 VND?"
+    },
+    "7262cb118f1be1ab0c6b66c3c6efd454": {
+      "return": "Dựa trên thông tin mới nhất cung cấp, không có cuốn sách thuộc thể loại \"du ký\" nào vừa bán được trên 500 bản và giá dưới 150,000 VND. \n\nCuốn sách gần nhất đáp ứng điều kiện về số lượng bán là \"Hoa Vẫn Nở Mỗi Ngày\", đã bán được 5592 bản, nhưng giá của nó là 156,235 VND.\n\nTất cả các cuốn sách du ký khác trong danh sách đều không thỏa mãn yêu cầu này. Nếu bạn có thêm thông tin hoặc thể loại sách cụ thể hơn, tôi rất vui được hỗ trợ!",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn du ký nào bán được trên 500 cuốn và giá dưới 150,000 VND?"
+    },
+    "4c7d2a361e01e3e490892cd08137199a": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has sold quantity\"], \"low_level_keywords\": [\"Th\\u1ebf Gi\\u1edbi R\\u1ed9ng L\\u1edbn \\u0110\\u1eebng \\u0110i M\\u1ed9t M\\u00ecnh\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Thế Giới Rộng Lớn Đừng Đi Một Mình' đã bán được bao nhiêu cuốn?"
+    },
+    "4bac47089345012d1f72d49ea467d918": {
+      "return": "Cuốn sách \"'Thế Giới Rộng Lớn Đừng Đi Một Mình'\" đã bán được 3,256 bản.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Thế Giới Rộng Lớn Đừng Đi Một Mình' đã bán được bao nhiêu cuốn?"
+    },
+    "c129e4c61f69d1233fa9b351bb7c49df": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has sold quantity\", \"has price\"], \"low_level_keywords\": [\"s\\u00e1ch du k\\u00fd\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Trong các sách du ký bán trên 200 cuốn, cuốn nào rẻ nhất?"
+    },
+    "072b9fd0e4bba14b35a3abf463fff961": {
+      "return": "Dựa trên thông tin hiện có, không có sách du ký nào đã bán được hơn 200 cuốn. Tuy nhiên, để trả lời câu hỏi của bạn về sách du ký rẻ nhất:\n\n- Sách \"Vòng Quanh Châu Á – Nam Kỳ, Trung Kỳ, Bắc Kỳ\" của Jean Marie Albert Marcel Monnier đang được bán với giá 141,010 VND.\n\nĐây là cuốn du ký có giá thấp nhất trong danh sách, mặc dù số lượng đã bán chưa đạt trên 200 cuốn. Bạn có muốn tìm hiểu về sách khác không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Trong các sách du ký bán trên 200 cuốn, cuốn nào rẻ nhất?"
+    },
+    "d3213447f5e5ea7740932d698d942fc0": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\", \"has rating\", \"belongs to category\"], \"low_level_keywords\": [\"du k\\u00fd\", \"price\", \"rating\", \"sold\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá và rating của 3 cuốn du ký bán chạy nhất."
+    },
+    "c043425dcd92b4fb96744ee936967e30": {
+      "return": "Dựa trên thông tin mà bạn cung cấp, tôi sẽ so sánh giá và rating của 3 cuốn du ký bán chạy nhất:\n\n1. **Cô Đơn Trên Everest (Du Ký)**\n   - Giá: 88,200 VND\n   - Rating: 4.8 sao\n\n2. **Nửa Vòng Trái Đất Uống Một Ly Trà**\n   - Giá: 96,000 VND\n   - Rating: 4.8 sao\n\n3. **Du Ký Phan Quang - Tiếc Nuối Hoa Hồng**\n   - Giá: 342,000 VND\n   - Rating: 5.0 sao\n\nTừ so sánh:\n\n- Về giá:\n  - \"Cô Đơn Trên Everest (Du Ký)\" có giá thấp nhất là 88,200 VND.\n  - \"Nửa Vòng Trái Đất Uống Một Ly Trà\" và \"Du Ký Phan Quang - Tiếc Nuối Hoa Hồng\" có cùng mức giá cao hơn.\n\n- Về rating:\n  - \"Du Ký Phan Quang - Tiếc Nuối Hoa Hồng\" có rating cao nhất là 5.0 sao.\n  - \"Cô Đơn Trên Everest (Du Ký)\" và \"Nửa Vòng Trái Đất Uống Một Ly Trà\" đều có rating 4.8 sao, tương đương nhau.\n\nTrong ba cuốn du ký này, \"Du Ký Phan Quang - Tiếc Nuối Hoa Hồng\" có rating cao nhất nhưng giá cũng cao nhất, trong khi \"Cô Đơn Trên Everest (Du Ký)\" và \"Nửa Vòng Trái Đất Uống Một Ly Trà\" có cùng mức giá thấp hơn nhưng rating cũng tương đương nhau.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá và rating của 3 cuốn du ký bán chạy nhất."
+    },
+    "1fb995893cbc02d5a0278cc1ca9413d7": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has sold quantity\"], \"low_level_keywords\": [\"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n Lao \\u0110\\u1ed9ng\", \"b\\u00e1n \\u0111\\u01b0\\u1ee3c nhi\\u1ec1u nh\\u1ea5t\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách dưới 100,000 VND nào của Nhà Xuất Bản Lao Động bán được nhiều nhất?"
+    },
+    "352fccaaf6570e640ee29c3279e92f1c": {
+      "return": "Dựa trên thông tin cung cấp, không có cuốn sách của Nhà Xuất Bản Lao Động trong danh sách này. Tất cả các cuốn sách trong dữ liệu đều do các nhà xuất bản khác như Nhà Xuất Bản Thế Giới, Nhà Xuất Bản Dân Trí, Nhà Xuất Bản Tổng hợp TP.HCM, NXB Trẻ... xuất bản.\n\nNếu bạn muốn tìm cuốn sách bán được nhiều nhất của Nhà Xuất Bản Lao Động dưới 100,000 VND, tôi khuyên bạn nên truy cập trực tiếp website Tiki hoặc các cửa hàng sách uy tín để xem thông tin cập nhật mới nhất.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách dưới 100,000 VND nào của Nhà Xuất Bản Lao Động bán được nhiều nhất?"
+    },
+    "20a82a5bb80aab8395ec6f60ee198c7d": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"Henry David Thoreau\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Henry David Thoreau có trong danh sách?"
+    },
+    "5eb851d7d71e2e2a07bb114d86017ca5": {
+      "return": "Trong danh sách, cuốn sách của Henry David Thoreau là \"Walden - Một Mình Sống Trong Rừng\". Đây là một hồi tưởng đầy chiêm nghiệm suy tư về quãng đời \"hai năm hai tháng\" ông sống đơn sơ trong rừng. Bạn có muốn biết thêm thông tin về cuốn sách này không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Henry David Thoreau có trong danh sách?"
+    },
+    "5c5ee6c393da5f4089c571b42ff34edd": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"G\\u1ed7 mun\", \"Ryszard Kapu\\u015bci\\u0144ski\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Gỗ mun' của Ryszard Kapuściński nói về gì?"
+    },
+    "c3344b3f5c775b6de57545467975612c": {
+      "return": "Cuốn sách \"Gỗ mun\" của Ryszard Kapuściński là một cuốn sách không chỉ mở đầu sự nghiệp quốc tế của ông, mà còn đưa thể loại phóng sự lên tầm với văn học cao cấp. Tuy mô tả cụ thể về nội dung không được cung cấp trong dữ liệu hiện có, nhưng theo bản tóm tắt từ document chunks:\n\n\"Sơ lược về tác phẩmTrước hết là cái nhìn: Ryszard Kapuściński, đó là một cái nhìn luôn luôn độc đáo và thấu suốt, cho dù đối tượng sự quan sát của ông có là gì, và cho dù không mấy khi ông thích phân...\"\n\nNgoài ra, thông tin chi tiết hơn về cuốn sách có thể được tìm thấy từ liên kết sau: [https://tiki.vn/product-p210277378.html?spid=210277384](https://tiki.vn/product-p210277378.html?spid=210277384)\n\nĐể có cái nhìn đầy đủ về nội dung cụ thể của cuốn sách, bạn có thể tham khảo liên kết này.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Gỗ mun' của Ryszard Kapuściński nói về gì?"
+    },
+    "4b81a2c3fec917ecca0b67e592ba87a6": {
+      "return": "{\"high_level_keywords\": [\"authorship\", \"Books\"], \"low_level_keywords\": [\"t\\u00e1c gi\\u1ea3\", \"du k\\u00fd\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Tác giả nào có nhiều sách du ký nhất trong danh sách này?"
+    },
+    "f079f5b78bda0613785f7b778770cc61": {
+      "return": "Dựa trên thông tin được cung cấp, tất cả các tác phẩm đều là tập hợp của \"Nhiều tác giả\", không có thông tin về cá nhân cụ thể nào viết các cuốn sách du ký. Do đó, tôi không thể xác định được ai là tác giả có nhiều sách du ký nhất trong danh sách này.\n\nBạn có muốn tìm hiểu thêm thông tin về một tác phẩm cụ thể hay cần hỗ trợ với vấn đề khác không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Tác giả nào có nhiều sách du ký nhất trong danh sách này?"
+    },
+    "9945b84ec3a17162475421b8495f84a2": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has rating\", \"has price\"], \"low_level_keywords\": [\"s\\u00e1ch du k\\u00fd\", \"Di Li\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh rating và giá của các sách du ký của Di Li."
+    },
+    "4e2f4b46564b19e2692c6fcc5579cfa1": {
+      "return": "Dựa trên thông tin hiện có, tôi sẽ so sánh rating và giá của các sách du ký của Di Li:\n\n1. **Cô Đơn Trên Everest (Tái bản 2022)**:\n   - Giá: 105,000 VND\n   - Rating: 5.0 sao\n\n2. **Combo Sách Du Ký : HIMALAYA – Hành Trình Chạm Đến Trán Trời + Khơi Lửa Sông Nile + Đừng Chết Ở Ả Rập Xê Út**:\n   - Giá: 267,000 VND\n   - Rating: 2.0 sao\n\nSo sánh:\n- **Rating**: \"Cô Đơn Trên Everest\" có rating cao hơn \"Combo Sách Du Ký\" với 5.0 sao so với 2.0 sao.\n- **Giá**: \"Combo Sách Du Ký\" có giá cao hơn đáng kể so với \"Cô Đơn Trên Everest\".\n\nTóm lại, nếu bạn quan tâm đến rating cao, bạn nên chọn \"Cô Đơn Trên Everest\". Nếu bạn sẵn sàng chi trả một mức giá cao hơn và mong muốn trải nghiệm nhiều cuốn sách du ký trong một combo, thì \"Combo Sách Du Ký\" có thể là lựa chọn phù hợp.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh rating và giá của các sách du ký của Di Li."
+    },
+    "8d6c12c998c4411da39b1581de905a26": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"sold by\"], \"low_level_keywords\": [\"Nguy\\u1ec5n T\\u01b0\\u1eddng B\\u00e1ch\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Nguyễn Tường Bách có số lượng bán cao nhất và giá hiện tại là bao nhiêu?"
+    },
+    "f19f9893a6be796f9d307614586fdc2e": {
+      "return": "Theo thông tin được cung cấp, cuốn sách \"Đường Xa Nắng Mới - Nguyễn Tường Bách\" của tác giả Nguyễn Tường Bách đã bán được 18 bản. \n\nGiá hiện tại của cuốn sách này là 158,000 VND.\n\nBạn có muốn biết thêm thông tin chi tiết về cuốn sách này không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Nguyễn Tường Bách có số lượng bán cao nhất và giá hiện tại là bao nhiêu?"
+    },
+    "5051cc920f17c9b78ce6482fc7d1ee95": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"s\\u00e1ch du k\\u00fd\", \"T\\u00e2y T\\u1ea1ng\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có cuốn sách du ký nào nói về Tây Tạng không?"
+    },
+    "5b0eeb86473c9085f69f5e9932073ae6": {
+      "return": "Có, có một cuốn sách thuộc thể loại Du ký nói về Tây Tạng. Đó là \"Tây Tạng Huyền Bí & Nghệ Thuật Sinh Tử (Tái Bản 2020)\" của tác giả Đặng Hoàng Xa, được xuất bản bởi Nhà Xuất Bản Thế Giới.\n\nMột số thông tin về cuốn sách này:\n\n- Giá hiện tại: 118,800 VND\n- Giá gốc: 175,000 VND (Giảm 32%)\n- Đánh giá: 4.7 sao\n- Số lượng đã bán: 569 bản\n\nBạn có thể xem chi tiết và mua sách tại [đây](https://tiki.vn/product-p53545646.html?spid=53545647).",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có cuốn sách du ký nào nói về Tây Tạng không?"
+    },
+    "a04248aa47dc7abf6ec82c3ae04ffa40": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"describes\"], \"low_level_keywords\": [\"Con \\u0110\\u01b0\\u1eddng T\\u01a1 L\\u1ee5a\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Con Đường Tơ Lụa' mô tả những địa điểm nào?"
+    },
+    "2adcdca504e8b88dc810d05dbb4d41ca": {
+      "return": "Cuốn sách \"Con Đường Tơ Lụa\" do Trần Hồng Ngọc viết mô tả về các địa danh trên con đường tơ lụa. Tuy nhiên, thông tin chi tiết về các địa điểm cụ thể không được đề cập trong dữ liệu hiện có. Tuy nhiên, dựa vào tên của cuốn sách và nội dung tổng quát, có thể hiểu rằng nó sẽ nói về lịch trình dài dằng dặc từ Pakistan đến Tây An qua nhiều thành phố quan trọng trên con đường tơ lụa như Samarkand, Bukhara, Kashgar, và các thành phố khác. Để có thông tin chính xác hơn, bạn nên đọc nội dung sách hoặc tìm kiếm thêm thông tin chi tiết từ nhà xuất bản hoặc tác giả.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Con Đường Tơ Lụa' mô tả những địa điểm nào?"
+    },
+    "d416610a3d026ac2deebbd0955644be6": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"published by\", \"has rating\"], \"low_level_keywords\": [\"du k\\u00fd\", \"\\u1ea4n \\u0110\\u1ed9\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào về Ấn Độ có rating cao nhất?"
+    },
+    "9e0f6cbc011948245dc5e68ea8f4c0c6": {
+      "return": "Dựa trên thông tin hiện có, không có sách du ký cụ thể về Ấn Độ được liệt kê. Tuy nhiên, nếu bạn quan tâm đến các cuốn sách du ký có đánh giá cao và thuộc thể loại du ký nói chung, tôi có thể gợi ý một số cuốn sách khác. Ví dụ:\n\n- \"Đường Xa Nắng Mới\" của Nguyễn Tường Bách: Cuốn sách này không đề cập đến Ấn Độ nhưng là một tác phẩm du ký nổi tiếng với rating 5.0.\n\n- \"Đà Lạt, một thời hương xa - Du Khảo Văn Hóa Đà Lạt 1954 - 1975\" của Nguyễn Vĩnh Nguyên: Cuốn sách này thuộc thể loại du ký và có rating 4.0.\n\nNếu bạn cần thông tin chi tiết về một cuốn sách du ký cụ thể về Ấn Độ hoặc có thêm thông tin khác, hãy cho tôi biết nhé!",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào về Ấn Độ có rating cao nhất?"
+    },
+    "981cacd5f8887dec5025ab1dd6d77e35": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"ch\\u00e2u \\u00c2u\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung và giá của các sách về châu Âu trong danh sách."
+    },
+    "7f943d0dfc63cec4489fd48e2a0644fb": {
+      "return": "Trong danh sách cung cấp, có một cuốn sách liên quan đến châu Âu:\n\n1. **\"Châu Âu Vạn Dặm - Một Cuộc Đời Sống, Vạn Bước Chân Đi\"**:\n   - **Giá hiện tại**: 115,300 VNĐ\n   - **Mô tả**: Đây là một hành trình đầy màu sắc với những trải nghiệm độc đáo và sâu sắc của hai tác giả Miha Nguyễn và Nguyễn Hiếu.\n\nBạn không cung cấp thông tin về sách khác liên quan đến châu Âu. Nếu bạn muốn so sánh, vui lòng cung cấp thêm thông tin về cuốn sách khác mà bạn đang quan tâm để tôi có thể đưa ra so sánh chi tiết hơn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung và giá của các sách về châu Âu trong danh sách."
+    },
+    "38d4eaf7a18210484791b13f88e04040": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"published by\", \"has price\", \"has rating\"], \"low_level_keywords\": [\"Vi\\u1ec7t Nam\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về Việt Nam dưới 150,000 VND có đánh giá 5.0?"
+    },
+    "95f437d33bb47f983a3c1e2bc65f7534": {
+      "return": "Dựa trên thông tin mới nhất cung cấp, có hai cuốn sách phù hợp với yêu cầu của bạn:\n\n1. **\"Mẹ làm gì có ước mơ\"**:\n   - Giá: 65,000 VND\n   - Đánh giá: 5.0 sao\n\n2. **\"Thi Nhân Việt Nam\"**:\n   - Giá: 114,000 VND\n   - Đánh giá: 5.0 sao\n\nCả hai cuốn sách đều có đánh giá 5.0 và giá dưới 150,000 VND.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về Việt Nam dưới 150,000 VND có đánh giá 5.0?"
+    },
+    "4a1d0b3e3de1d226192f7374552bd75b": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"writing style\"], \"low_level_keywords\": [\"C\\u00f4 \\u0110\\u01a1n Tr\\u00ean Everest\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Cô Đơn Trên Everest' có phong cách viết như thế nào?"
+    },
+    "6b0a3ba4fc6035f44563ba42cdda49af": {
+      "return": "Theo mô tả, cuốn \"Cô Đơn Trên Everest (Du Ký)\" của tác giả Di Li có phong cách viết hấp dẫn và tỉ mỉ. Cụ thể:\n\n- Tác giả kể chuyện thủ thỉ như một người bạn, tạo cảm giác gần gũi với độc giả.\n- Cách viết ngập tràn thông tin mới lạ, làm nên những câu chuyện đầy cuốn hút.\n- Phong cách này đã góp phần vào sự thành công của tác phẩm, nhận được đánh giá cao từ cộng đồng độc giả.\n\nBạn có thể tham khảo trực tiếp nội dung sách để cảm nhận rõ nét hơn về phong cách viết độc đáo của Di Li.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Cô Đơn Trên Everest' có phong cách viết như thế nào?"
+    },
+    "91814730b3b4a8e7403a6c68c391bf5d": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"s\\u00e1ch du k\\u00fd\", \"t\\u1ef1 truy\\u1ec7n\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào được viết dưới dạng tự truyện không?"
+    },
+    "9b923d47a4a97996927c9eb07de13c0f": {
+      "return": "Có, trong danh sách thông tin mới nhất có một cuốn sách thuộc thể loại \"Bút Ký - Tự Truyện\" và cũng được ghi nhận là tự truyện. Đó là:\n\n**\"Hồi Ký. Từ U Minh Đến Cần Thơ…”**\n\n- **Tác giả:** Sơn Nam\n- **Nhà Xuất Bản:** NXB Trẻ\n- **Giá hiện tại:** 104,000 VND\n- **Đánh giá:** 4.6 sao\n\nCuốn sách này là tổng hợp từ 4 tập hồi ký của tác giả Sơn Nam và đã được xuất bản từ năm 2000 đến 2005.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào được viết dưới dạng tự truyện không?"
+    },
+    "9d5d5be69c93b4536d0dc8c74bdf8de3": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"has price\", \"genre\"], \"low_level_keywords\": [\"du k\\u00fd\", \"h\\u00e0i h\\u01b0\\u1edbc\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào có phong cách kể chuyện hài hước và giá dưới 120,000 VND?"
+    },
+    "fe16e108efd4f36408405db686412834": {
+      "return": "Trong danh sách sách du ký hiện có, cuốn \"Đường Xa Nắng Mới - Nguyễn Tường Bách\" thuộc thể loại Du ký và có giá là 158,000 VND, nhưng không phù hợp với yêu cầu về phong cách kể chuyện hài hước. \n\nHiện tại không có sách du ký nào trong danh sách có phong cách kể chuyện hài hước và giá dưới 120,000 VND. Bạn có muốn tìm kiếm thêm thông tin hay có câu hỏi khác không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào có phong cách kể chuyện hài hước và giá dưới 120,000 VND?"
+    },
+    "1439f0162e724558c87da48c7c5133b8": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"Du K\\u00fd Phan Quang\", \"M\\u00f9i H\\u01b0\\u01a1ng Tr\\u1ea7m\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh phong cách viết của 'Du Ký Phan Quang' và 'Mùi Hương Trầm'."
+    },
+    "f10c4faf662912cad2b30f3905198e86": {
+      "return": "Để so sánh phong cách viết giữa \"Du Ký Phan Quang\" và \"Mùi Hương Trầm\", chúng ta cần xem xét thông tin mà bạn đã cung cấp về cuốn sách \"Mùi Hương Trầm\":\n\n### Cuốn Sách \"Mùi Hương Trầm\":\n- **Tóm tắt**: \"Trải dài từ Ấn Độ, Nepal, Tây Tạng, Trung Hoa,... trên thực địa, với núi Linh Thứu, vườn Lộc Uyển, Lâm-tì-ni, Lhasa, thành phố Varanasi,... mỗi dấu chân du hành không mang lấy cái chộn rộn của xu thế ....\"\n- **Phong cách viết**: Dựa vào tóm tắt này, có thể thấy phong cách viết của cuốn sách \"Mùi Hương Trầm\" mô tả một cách chi tiết về những chuyến đi du lịch qua nhiều địa danh nổi tiếng trên thế giới. Giao diện văn bản mang đậm tính miêu tả và gợi nhớ đến sự lãng mạn, huyền bí khi khám phá các địa danh.\n\n### Phong Cách Viết của \"Du Ký Phan Quang\":\n- **\"Du Ký Phan Quang\"** là một cuốn sách du ký nổi tiếng viết bởi nhà văn Phan Quang. Tuy không có thông tin trực tiếp về nội dung cụ thể, nhưng phong cách của Phan Quang thường được biết đến với:\n  - **Tính chất tự sự và trữ tình**: Phan Quang thường sử dụng ngôn ngữ giàu cảm xúc và tự sự để chia sẻ trải nghiệm du lịch.\n  - **Miêu tả sinh động**: Ông có khả năng miêu tả chi tiết về địa lý, văn hóa, con người ở các nơi đến.\n  - **Bình luận xã hội**: Phan Quang thường kết hợp việc miêu tả cảnh quan với những bình luận sâu sắc về xã hội và con người.\n\n### So sánh Phong Cách Viết:\n- **Tính Chi Tiết và Mô Tả**: Cả hai cuốn sách đều có tính chi tiết cao khi mô tả cảnh quan, nhưng \"Mùi Hương Trầm\" dường như tập trung nhiều hơn vào việc gợi nhớ về những trải nghiệm du lịch qua các địa danh huyền bí.\n- **Cảm Xúc và Trữ Tình**: Phong cách của cả hai đều có sự pha trộn giữa cảm xúc trữ tình và miêu tả sinh động. Tuy nhiên, \"Du Ký Phan Quang\" có thể sử dụng nhiều hơn những bình luận xã hội và phân tích văn hóa.\n- **Phong Cách Viết**: \"Mùi Hương Trầm\" có vẻ như mang tính mô tả và gợi nhớ nhiều hơn, trong khi \"Du Ký Phan Quang\" thường kết hợp giữa miêu tả với bình luận sâu sắc về xã hội.\n\n### Tóm lại:\n- **\"Mùi Hương Trầm\"** tập trung vào việc khám phá các địa danh huyền bí trên thế giới thông qua những trải nghiệm du lịch.\n- **\"Du Ký Phan Quang\"** mang nhiều cảm xúc trữ tình và bình luận sâu sắc về văn hóa, xã hội.\n\nNhư vậy, cả hai cuốn sách đều có phong cách viết rất riêng và độc đáo, phù hợp với mục đích và nội dung của chúng.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh phong cách viết của 'Du Ký Phan Quang' và 'Mùi Hương Trầm'."
+    },
+    "eeed7745b9b2df5e833efb03f2fcb74d": {
+      "return": "{\"high_level_keywords\": [\"authorship\", \"Books\"], \"low_level_keywords\": [\"t\\u00e1c gi\\u1ea3 Vi\\u1ec7t Nam\", \"phong c\\u00e1ch chi\\u00eam nghi\\u1ec7m\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của tác giả Việt Nam có phong cách chiêm nghiệm sâu sắc nhất?"
+    },
+    "9470786c202e6a9d507cf178b01d3f5c": {
+      "return": "Dựa trên thông tin bạn đã cung cấp, cuốn sách \"Tác Phẩm Bảo Vật Quốc Gia - Hồ Chí Minh (Hộp 5 Cuốn)\" được mô tả là một trong những tác phẩm quan trọng của Chủ tịch Hồ Chí Minh, không chỉ về tư tưởng mà còn quyết định vận mệnh của dân tộc Việt Nam và cách mạng Việt Nam. Đây có thể coi là một cuốn sách mang phong cách chiêm nghiệm sâu sắc do chính Người đã trải qua và viết.\n\nThông tin chi tiết:\n- Tác giả: Hồ Chí Minh\n- Nhà Xuất bản: NXB Trẻ\n- Thể loại: Sách tiếng Việt\n\nNgoài ra, \"Truyện Kiều Chú Giải\" cũng là một tác phẩm kinh điển của văn học Việt Nam do Nguyễn Du sáng tác. Đây là bản chú giải và phân tích sâu sắc về tác phẩm nổi tiếng \"Truyện Kiều\".\n\nBạn có thể chọn bất kỳ cuốn sách nào trong hai cuốn trên tùy thuộc vào quan điểm và nhu cầu tìm hiểu của bạn!",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của tác giả Việt Nam có phong cách chiêm nghiệm sâu sắc nhất?"
+    },
+    "2a0275e198cd2e94babbc2a0cfb59f77": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"published by\"], \"low_level_keywords\": [\"T\\u00e2y T\\u1ea1ng Huy\\u1ec1n B\\u00ed & Ngh\\u1ec7 Thu\\u1eadt Sinh T\\u1eed\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Tây Tạng Huyền Bí & Nghệ Thuật Sinh Tử' tái bản năm nào?"
+    },
+    "df05323ae01bff1e2e26012d7818c7a1": {
+      "return": "Theo thông tin mà tôi có, cuốn sách \"Tây Tạng Huyền Bí & Nghệ Thuật Sinh Tử (Tái Bản 2020)\" đã được tái bản vào năm 2020.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Tây Tạng Huyền Bí & Nghệ Thuật Sinh Tử' tái bản năm nào?"
+    },
+    "33dc9b3e5fced5c75f2496658d9dc4bf": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"publishing\"], \"low_level_keywords\": [\"du k\\u00fd\", \"reprinted\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào tái bản trong năm 2023 không?"
+    },
+    "5c681ef24aa472f007a5f457a7137a14": {
+      "return": "Dựa trên thông tin mới nhất mà tôi có, không có sách du ký cụ thể được ghi rõ là tái bản vào năm 2023. Tuy nhiên, dưới đây là một số cuốn sách du ký đang bán trên Tiki:\n\n1. **Đường Xa Nắng Mới - Nguyễn Tường Bách**\n   - Loại: Du ký\n   - Nhà Xuất Bản: Nhà Xuất Bản Hội Nhà Văn\n\n2. **Tuyển Tập Du Ký( Tặng kèm sổ tay)**\n   - Loại: Du ký\n   - Nhà Xuất Bản: Nhà Xuất Bản Tri Thức\n\n3. **Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An**\n   - Loại: Du ký\n   - Nhà Xuất Bản: Nhà Xuất Bản Lao Động\n\n4. **Cô Đơn Trên Everest (Du Ký)**\n   - Loại: Du ký\n   - Nhà Xuất Bản: Nhà Xuất Bản Hội Nhà Văn\n\n5. **Vòng Quanh Châu Á – Nam Kỳ, Trung Kỳ, Bắc Kỳ**\n   - Loại: Du ký\n   - Nhà Xuất Bản: Nhà Xuất Bản Dân Trí\n\nNếu bạn cần thông tin về sách du ký tái bản vào năm 2023, tôi khuyên bạn nên theo dõi các trang web sách trực tuyến như Tiki hoặc Fahasa để cập nhật thông tin mới nhất.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào tái bản trong năm 2023 không?"
+    },
+    "d0b10c65178912d085ee60690bc5c6a9": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"reprinted books\", \"sales quantity\"], \"low_level_keywords\": [\"s\\u1ed1 l\\u01b0\\u1ee3ng b\\u00e1n\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách tái bản nào có số lượng bán cao nhất?"
+    },
+    "0408aeb565879e48d78797dc14fa2c03": {
+      "return": "Dựa trên thông tin được cung cấp, sách \"Đam Mê - Bí Quyết Tạo Thành Công (Tái Bản 2019)\" của tác giả Stephen R. Covey có số lượng đã bán là 793 bản, đứng đầu về số lượng bán trong danh sách các quyển sách tái bản.\n\nSơ lược về cuốn sách này:\n- Giá hiện tại: 49,400 VND\n- Khuyến mãi: 35%\n- Đánh giá: 4.7 sao\n\nBạn có muốn biết thêm thông tin chi tiết về cuốn sách này không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách tái bản nào có số lượng bán cao nhất?"
+    },
+    "ab237a42306274932d69a2e02f75bf10": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"published by\", \"has price\", \"has rating\"], \"low_level_keywords\": [\"du k\\u00fd\", \"reprint\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá và rating của các sách du ký tái bản trong danh sách."
+    },
+    "bf849ea77a743e477b229330ce307b40": {
+      "return": "Dưới đây là thông tin về các cuốn sách du ký đang được liệt kê, bao gồm giá và đánh giá (rating):\n\n1. **\"Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An\"**\n   - Giá: 90400 VND\n   - Rating: 5.0 sao\n\n2. **\"Vàng Son Một Thuở Ba Tư - Tập Du Ký\"**\n   - Giá: 90000 VND\n   - Rating: 3.0 sao\n\n3. **\"Tuyển Tập Du Ký( Tặng kèm sổ tay)\"**\n   - Giá: 125000 VND\n   - Rating: 4.0 sao\n\n4. **\"Vòng Quanh Châu Á – Nam Kỳ, Trung Kỳ, Bắc Kỳ\"**\n   - Giá: 141010 VND\n   - Rating: 4.0 sao\n\nTừ những thông tin trên:\n\n- Cuốn \"Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An\" có giá thấp nhất (90400 VND) và có rating cao nhất (5.0 sao).\n- Cuốn \"Vàng Son Một Thuở Ba Tư - Tập Du Ký\" có giá thấp thứ hai (90000 VND), nhưng rating chỉ 3.0 sao, thấp hơn nhiều so với các cuốn khác.\n- Cuốn \"Tuyển Tập Du Ký( Tặng kèm sổ tay)\" và \"Vòng Quanh Châu Á – Nam Kỳ, Trung Kỳ, Bắc Kỳ\" có cùng giá (141010 VND) nhưng rating của chúng là 4.0 sao.\n\nNếu bạn muốn chọn một cuốn sách với mức giá phù hợp và chất lượng cao, **\"Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An\"** có thể là lựa chọn tốt nhất.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá và rating của các sách du ký tái bản trong danh sách."
+    },
+    "64b4a4e3c03bb031a0056cfe2c88c592": {
+      "return": "{\"high_level_keywords\": [\"Reprints\", \"Publishing\", \"Value for Money\"], \"low_level_keywords\": [\"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n Tr\\u1ebb\", \"150,000 VND\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách tái bản nào của Nhà Xuất Bản Trẻ dưới 150,000 VND đáng đọc nhất?"
+    },
+    "a7fc8d1388a8ef644944a28169e4aaa6": {
+      "return": "Dựa vào thông tin hiện có, không có cuốn sách của Nhà Xuất Bản Trẻ trong danh sách. Tuy nhiên, tôi có thể đưa ra một số gợi ý từ các cuốn sách khác dưới 150,000 VND:\n\n1. **\"150 thuật ngữ văn học (bìa mềm) - tái bản\"**\n   - Giá bán: 90,100 VND\n   - Mô tả: Cuốn sách này cung cấp hơn 150 mục từ về thuật ngữ văn học và chưa thể bao quát toàn bộ các khía cạnh của văn học.\n\n2. **\"Ông Tướng Tình Báo Bí Ẩn Và Những Điệp Vụ Siêu Hạng\"**\n   - Giá bán: 86,000 VND\n   - Mô tả: Một cuốn sách về tình báo và những điệp vụ siêu hạng.\n\n3. **\"Dịch Hạch (Nobel Văn Chương 1957)\"**\n   - Giá bán: 81,915 VND\n   - Mô tả: Cuốn tiểu thuyết nổi tiếng của Albert Camus, tác phẩm đã gây tiếng vang lớn khi vừa ra mắt.\n\n4. **\"Vật Chủ (Tiểu Thuyết Khoa Học Viễn Tưởng) - Tái Bản\"**\n   - Giá bán: 148,800 VND\n   - Mô tả: Một tiểu thuyết khoa học viễn tưởng về cuộc sống bị trùm chủ.\n\n5. **\"Tôi Đã Kiếm 1 Triệu Đô Đầu Tiên Trên Internet Như Thế Nào Và Bạn Cũng Có Thể Làm Như Thế (Tái Bản)\"**\n   - Giá bán: 131,000 VND\n   - Mô tả: Cuốn sách hướng dẫn về kinh doanh online.\n\nTrong số các cuốn sách này, \"Dịch Hạch (Nobel Văn Chương 1957)\" của Albert Camus có thể được đánh giá cao từ nhiều khía cạnh như chất lượng nội dung và sự phổ biến.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách tái bản nào của Nhà Xuất Bản Trẻ dưới 150,000 VND đáng đọc nhất?"
+    },
+    "a7f087d1b3cb5ba5f8fb1287a219f0a2": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"C\\u01a1m nh\\u00e0 x\\u1ee9 Qu\\u1ea3ng\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Cơm nhà xứ Quảng' tặng kèm gì?"
+    },
+    "89410d1fb1a74abe0f2ff67732a619ef": {
+      "return": "Cuốn sách \"Cơm nhà xứ Quảng (Tặng kèm 1 bộ postcard 6 tấm có gửi hình kèm theo)\" sẽ tặng kèm 1 bộ postcard 6 tấm và có thể bao gồm hình ảnh gửi kèm theo như mô tả.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Cơm nhà xứ Quảng' tặng kèm gì?"
+    },
+    "92c056318a9bf57c0eb3071041694e97": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"du k\\u00fd\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào tặng kèm bookmark không?"
+    },
+    "b13dc6a0ea442b2d709d8e020189a48d": {
+      "return": "Dựa trên thông tin hiện có, chưa có sách du ký cụ thể nào được đề cập đến việc tặng kèm bookmark. Tuy nhiên, bạn có thể cân nhắc mua \"Tuyển Tập Du Ký( Tặng kèm sổ tay)\" của Nhà Xuất Bản Tri Thức, mặc dù nó tặng kèm sổ tay thay vì bookmark.\n\nNếu bạn muốn tìm sách tặng kèm bookmark cụ thể, bạn có thể thử kiểm tra thêm tại các nhà sách trực tuyến hoặc cửa hàng sách địa phương để có thông tin chính xác hơn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào tặng kèm bookmark không?"
+    },
+    "f2445492cdb06c8491c5298086bd4dfe": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\", \"has gift\"], \"low_level_keywords\": [\"qu\\u00e0 t\\u1eb7ng k\\u00e8m\", \"<130,000 VND\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách nào có quà tặng kèm và giá dưới 130,000 VND?"
+    },
+    "76f6c8ce7c7d92be96eac6cfc7062ea7": {
+      "return": "Dựa trên thông tin mới nhất cung cấp, có một số cuốn sách có quà tặng kèm với giá thấp hơn 130,000 VND:\n\n1. **Lôi Thần Và Nhân Viên Văn Phòng (Tập 3)**:\n   - Giá: 41,000 VND\n   - Mô tả: Cuốn sách này có giá dưới 130,000 VND và tặng kèm.\n\n2. **Làm Bạn Với Bầu Trời (Bìa Mềm) (Tặng Kèm Khung Ảnh Số Lượng Có Hạn)**:\n   - Giá: 85,900 VND\n   - Mô tả: Cuốn sách này có giá dưới 130,000 VND và tặng kèm khung ảnh số lượng có hạn.\n\nCả hai cuốn sách này đều đáp ứng điều kiện bạn yêu cầu về quà tặng kèm và giá thấp hơn 130,000 VND.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách nào có quà tặng kèm và giá dưới 130,000 VND?"
+    },
+    "585f37a8b5306a1d250d175b42f3d24e": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"discounts\", \"content\", \"gifts\"], \"low_level_keywords\": [\"du k\\u00fd\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá và nội dung của các sách du ký có quà tặng kèm."
+    },
+    "1df23af8e15ccd3b7f76db1582635cea": {
+      "return": "Dựa trên thông tin bạn cung cấp, tôi sẽ so sánh giá và nội dung của các cuốn sách du ký có quà tặng kèm:\n\n1. **Tuyển Tập Du Ký( Tặng kèm sổ tay)**\n   - Giá: 125,000 VND (giảm 4%)\n   - Quà tặng: Sổ tay\n   - Mô tả: \n     > \"Tuyển tập Du ký1. Học giả, nhà báo, nhà hoạt động xã hội Đặng Xuân Viện (1880-1958), tục danh Bốn Đễ, các bút danh Phục Ba, Thiện Đình, Đặng Nguyên Khu, Đặng Viết Nhiêu; quê tại làng Hành Thiện (nay thuộc huyện Hoằng Hóa, tỉnh Thanh Hóa).\"\n\n2. **Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An**\n   - Giá: 90,400 VND (giảm 30%)\n   - Quà tặng: Không có\n   - Mô tả:\n     > \"Con đường tơ lụa là một trong những tuyến đường giao thương quan trọng và vĩ đại của nhân loại trong suốt hơn 1.500 năm lịch sử. Đặt chân tới những địa danh trên con đường tơ lụa có lẽ là mơ ước của nhiều người.\"\n\nSo sánh:\n- Về giá: \"Tuyển Tập Du Ký\" có giá cao hơn so với \"Con Đường Tơ Lụa\", tuy nhiên lại đi kèm quà tặng (sổ tay).\n- Về nội dung: Cả hai cuốn sách đều thuộc thể loại du ký, nhưng \"Tuyển Tập Du Ký\" tập trung vào các học giả lịch sử, trong khi \"Con Đường Tơ Lụa\" mang tính thông tin về tuyến đường thương mại quan trọng này.\n\nLựa chọn sẽ phụ thuộc vào mục đích đọc và mong muốn có quà tặng kèm của bạn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá và nội dung của các sách du ký có quà tặng kèm."
+    },
+    "031bfbdac10f78c18fadfbb33a569c67": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"has gift\", \"has rating\"], \"low_level_keywords\": [\"Cu\\u1ed1n s\\u00e1ch c\\u1ee7a L\\u00fd Th\\u00e0nh C\\u01a1\", \"L\\u00fd Th\\u00e0nh C\\u01a1\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Lý Thành Cơ có quà tặng kèm và rating bao nhiêu?"
+    },
+    "830d250d84707fb4a064cf1b42c3234d": {
+      "return": "Không có thông tin về cuốn sách của Lý Thành Cơ trong tập dữ liệu hiện tại. Tất cả các cuốn sách được liệt kê đều là tác giả khác, như Ron Kaufman, Whitney Johnson, Chris Zook, Tom Siebel, Đại Sư Huynh và Kevin Allen. Bạn có thể cung cấp thêm thông tin hoặc kiểm tra lại tên tác giả không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Lý Thành Cơ có quà tặng kèm và rating bao nhiêu?"
+    },
+    "164ad5d3e138343655ec0dbab887b454": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"Con \\u0110\\u01b0\\u1eddng T\\u01a1 L\\u1ee5a\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Con Đường Tơ Lụa' nói về những tuyến đường nào?"
+    },
+    "f4595a93089f5a9763a6101588b4c5d0": {
+      "return": "Cuốn sách \"Con Đường Tơ Lụa\" do Trần Hồng Ngọc viết, miêu tả về một trong những tuyến đường giao thương quan trọng và vĩ đại của nhân loại trong suốt hơn 1.500 năm lịch sử. Cụ thể, sách này đi qua:\n\n- Từ Pakistan\n- Đến Tây An\n\nĐây là hai điểm cực kỳ quan trọng trên con đường Tơ lụa cổ điển, được coi là một phần quan trọng của hành trình khám phá và chia sẻ văn hóa, nghệ thuật, khoa học kỹ thuật giữa các nền văn minh khác nhau trong lịch sử nhân loại.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Con Đường Tơ Lụa' nói về những tuyến đường nào?"
+    },
+    "eb91ecc17301d1291159c470e978fa6a": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"publishing\", \"travel\"], \"low_level_keywords\": [\" h\\u00e0nh tr\\u00ecnh t\\u1eeb \\u1ea4n \\u0110\\u1ed9 sang ch\\u00e2u \\u00c2u\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào đề cập đến hành trình từ Ấn Độ sang châu Âu không?"
+    },
+    "aafc2645456ab9f6703d9467bbfebfbf": {
+      "return": "Dựa trên thông tin mà tôi có, không có sách nào trong danh sách đề cập trực tiếp đến hành trình từ Ấn Độ sang châu Âu. Danh sách bao gồm các thể loại sách như văn học kinh điển, truyện ngắn - tản văn, sách kỹ năng làm việc, và một số cuốn khác nhưng không có thông tin liên quan đến lịch sử hoặc hành trình cụ thể giữa Ấn Độ và châu Âu.\n\nNếu bạn quan tâm đến chủ đề này, tôi có thể giúp tìm kiếm thêm thông tin từ nguồn khác. Bạn muốn thử với nguồn nào?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào đề cập đến hành trình từ Ấn Độ sang châu Âu không?"
+    },
+    "3cafc3ed035a0bd3a7ba9a468cc0a65e": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has sold quantity\"], \"low_level_keywords\": [\"du k\\u00fd\", \"tuy\\u1ebfn \\u0111\\u01b0\\u1eddng c\\u1ed5\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào về các tuyến đường cổ có số lượng bán cao nhất?"
+    },
+    "571fcd2a240a29583e02b5f9364b7f08": {
+      "return": "Dựa trên thông tin được cung cấp, sách \"Đường Xa Nắng Mới - Nguyễn Tường Bách\" thuộc thể loại Du ký và là cuốn sách duy nhất trong danh sách này. Tuy nhiên, để xác định liệu nó có số lượng bán cao nhất hay không, chúng tôi cần xem xét thêm thông tin về doanh số bán của các sách khác.\n\nTrong tập hợp dữ liệu hiện tại, số lượng đã bán của \"Đường Xa Nắng Mới - Nguyễn Tường Bách\" là 18 bản. Để có câu trả lời chính xác nhất, cần kiểm tra doanh số bán của các cuốn sách du ký khác trong thư viện hoặc trực tuyến.\n\nTuy nhiên, dựa trên thông tin hiện có, không thể xác định chắc chắn rằng \"Đường Xa Nắng Mới - Nguyễn Tường Bách\" là cuốn du ký về các tuyến đường cổ có số lượng bán cao nhất.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào về các tuyến đường cổ có số lượng bán cao nhất?"
+    },
+    "3a62b10387029eae0253b949e55f64bd": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"content\"], \"low_level_keywords\": [\"Con \\u0110\\u01b0\\u1eddng T\\u01a1 L\\u1ee5a\", \"\\u0110\\u1ea1p Xe V\\u00ec T\\u00ecnh T\\u1eeb \\u1ea4n Sang \\u00c2u\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'Con Đường Tơ Lụa' và 'Đạp Xe Vì Tình Từ Ấn Sang Âu'."
+    },
+    "b28ab13301915e3dfb607420f5ebc685": {
+      "return": "Hiện tại, tôi chỉ có thông tin về cuốn sách \"Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An\" trong cơ sở dữ liệu. Đối với cuốn sách \"Đạp Xe Vì Tình Từ Ấn Sang Âu\", tôi không tìm thấy bất kỳ thông tin chi tiết nào. \n\nNếu bạn có thể cung cấp thêm thông tin về nội dung của cuốn sách \"Đạp Xe Vì Tình Từ Ấn Sang Âu\", tôi sẽ giúp so sánh nó với cuốn sách \"Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An\". Hoặc nếu bạn muốn biết thêm thông tin về một trong hai cuốn sách này, vui lòng cho tôi biết.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'Con Đường Tơ Lụa' và 'Đạp Xe Vì Tình Từ Ấn Sang Âu'."
+    },
+    "5a4a2d444af8771a46322e086d6e8277": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\", \"has price\", \"has rating\"], \"low_level_keywords\": [\"tuy\\u1ebfn \\u0111\\u01b0\\u1eddng l\\u1ecbch s\\u1eed\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về tuyến đường lịch sử dưới 150,000 VND có rating 5.0?"
+    },
+    "2f0cf9ba25f467d9dd2efe3cace29cd0": {
+      "return": "Cuốn sách \"Con Đường Tơ Lụa - Vạn Dặm Xa Từ Pakistan Tới Tây An\" của tác giả Trần Hồng Ngọc thuộc thể loại Du ký có giá hiện tại là 90,400 VND và có đánh giá 5.0 sao, phù hợp với yêu cầu của bạn về giá dưới 150,000 VND và rating 5.0.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về tuyến đường lịch sử dưới 150,000 VND có rating 5.0?"
+    },
+    "9e2c40efd6b977ad22fad4aff9429c9b": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"V\\u00f2ng Quanh Ch\\u00e2u \\u00c1\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Vòng Quanh Châu Á' nói về những nền văn hóa nào?"
+    },
+    "437f17a5674a9d5f616840c9697bcbb3": {
+      "return": "Theo thông tin được cung cấp, cuốn \"Vòng Quanh Châu Á – Nam Kỳ, Trung Kỳ, Bắc Kỳ\" của Marcel Monnier viết về hành trình du ký đến nhiều quốc gia tại châu Á, trong đó có An Nam (nay là Việt Nam), thời điểm đó là một thuộc địa của Pháp. Tuy không được nêu explicitly các nền văn hóa cụ thể trong cuốn sách này, nhưng dựa vào nội dung đề cập đến các quốc gia ở khu vực Đông Nam Á và Đông Dương, chúng ta có thể đoán rằng cuốn sách sẽ nói về các nền văn hóa như:\n\n1. Văn hóa Việt Nam: Bao gồm cả Nam Kỳ (nay là miền Nam Việt Nam), Trung Kỳ (nay là miền Trung Việt Nam) và Bắc Kỳ (nay là miền Bắc Việt Nam).\n\n2. Văn hóa Đông Dương: Phổ biến ở khu vực này, kết hợp giữa ảnh hưởng của Pháp và các nền văn hóa bản địa.\n\n3. Các nền văn hóa khác ở châu Á: Dựa trên hành trình vòng quanh châu Á, cuốn sách cũng có thể nói về văn hóa của một số quốc gia khác như Thái Lan, Malaysia, Campuchia, v.v...\n\nTuy nhiên, để biết chi tiết hơn về các nền văn hóa được đề cập trong cuốn sách này, bạn nên tham khảo trực tiếp nội dung của nó.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Vòng Quanh Châu Á' nói về những nền văn hóa nào?"
+    },
+    "d2a3fb4c483f449806d9bad27b9d1bd5": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\", \"authorship\"], \"low_level_keywords\": [\"du k\\u00fd\", \"v\\u0103n h\\u00f3a Vi\\u1ec7t Nam\", \"tr\\u01b0\\u1edbc 1975\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào về văn hóa Việt Nam từ trước 1975 không?"
+    },
+    "bed86ab5f8d0394ca807102a39268ee5": {
+      "return": " Có một cuốn sách du ký về văn hóa Đà Lạt từ năm 1954 đến 1975, mang tên \"Đà Lạt, một thời hương xa - Du Khảo Văn Hóa Đà Lạt 1954 - 1975\" do Nguyễn Vĩnh Nguyên viết. Cuốn sách này thuộc thể loại du ký và được xuất bản bởi NXB Trẻ.\n\nMột số thông tin về cuốn sách:\n- Giá hiện tại: 157,000 VND\n- Giá gốc: 195,000 VND\n- Khuyến mãi: 19%\n- Đánh giá: 4.0 sao\n- Số lượng đã bán: 49\n\nNội dung của cuốn sách khám phá văn hóa Đà Lạt trong giai đoạn từ năm 1954 đến 1975, thể hiện sự phát triển và những nét đặc trưng văn hóa của thành phố này qua các chuyến du hành văn hóa.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào về văn hóa Việt Nam từ trước 1975 không?"
+    },
+    "1f109fbc0c8eded21024062f16af27be": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has rating\", \"categories\"], \"low_level_keywords\": [\"v\\u0103n h\\u00f3a ch\\u00e2u \\u00c1\", \"gi\\u00e1 d\\u01b0\\u1edbi 200,000 VND\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách nào về văn hóa châu Á có đánh giá cao nhất và giá dưới 200,000 VND?"
+    },
+    "3fadd4509ad14c4ff95fa0f630c9b6a5": {
+      "return": "Trong danh sách thông tin mới nhất, có một cuốn sách phù hợp với yêu cầu của bạn:\n\n- **\"Tư Duy Của Người Giàu Gốc Á - Một Ấn Phẩm Về Nghĩ Giàu Và Làm Giàu\"**\n  - Tác giả: John C. Shin\n  - Nhà Xuất Bản: Nhà Xuất Bản Dân Trí\n  - Giá bán: 110,000 VND (dưới 200,000 VND)\n  - Đánh giá: 5.0 sao\n\nĐây là cuốn sách có đánh giá cao nhất và nằm trong phạm vi giá bạn yêu cầu.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách nào về văn hóa châu Á có đánh giá cao nhất và giá dưới 200,000 VND?"
+    },
+    "135237c2d52ecee56a649c8c589e656f": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has description\"], \"low_level_keywords\": [\"Du K\\u00fd Vi\\u1ec7t Nam tr\\u00ean Nam Phong t\\u1ea1p ch\\u00ed\", \"\\u0110\\u00e0 L\\u1ea1t, m\\u1ed9t th\\u1eddi h\\u01b0\\u01a1ng xa\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'Du Ký Việt Nam trên Nam Phong tạp chí' và 'Đà Lạt, một thời hương xa'."
+    },
+    "83a2b28f3f7082dfff00d24d9bd8b333": {
+      "return": "Xin lỗi, nhưng theo thông tin tôi có, không có cuốn sách mang tiêu đề \"Đà Lạt, một thời hương xa\". Tuy nhiên, tôi có thể so sánh nội dung của \"Du Ký Việt Nam trên Nam Phong tạp chí (Hộp 2 cuốn)\" với các cuốn sách khác trong danh sách mà bạn đã cung cấp. Bạn muốn so sánh về khía cạnh nào? Ví dụ như nội dung chủ đề, tác giả, mục đích xuất bản, hoặc thông tin khác?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'Du Ký Việt Nam trên Nam Phong tạp chí' và 'Đà Lạt, một thời hương xa'."
+    },
+    "094df66e0a18f6c87725910a98c1ff8d": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"sold by\"], \"low_level_keywords\": [\"t\\u00e1c gi\\u1ea3 Vi\\u1ec7t Nam\", \"v\\u0103n h\\u00f3a ch\\u00e2u \\u00c1\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của tác giả Việt Nam viết về văn hóa châu Á bán chạy nhất?"
+    },
+    "6f0f1b4bb5e4b94f5a29af01625627da": {
+      "return": "Dựa trên thông tin tôi có, cuốn sách \"Tôi Thấy Hoa Vàng Trên Cỏ Xanh\" của Nguyễn Nhật Ánh có lượng bán rất cao với 7398 bản đã bán. Tuy nhiên, để xác định chính xác cuốn sách nào bán chạy nhất về văn hóa châu Á của tác giả Việt Nam, cần thêm thông tin chi tiết hơn về nội dung và thể loại của từng cuốn sách.\n\nSách \"Tôi Thấy Hoa Vàng Trên Cỏ Xanh\" thuộc thể loại \"Tác Phẩm Kinh Điển Việt Nam\". Nếu bạn cần thông tin cụ thể hơn về các cuốn sách khác như \"Thép Đã Tôi Thế Đấy\", \"Động Hoa Vàng\", hay \"Ma Quỷ Dân Gian Ký Tập 2\", tôi có thể cung cấp thêm.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của tác giả Việt Nam viết về văn hóa châu Á bán chạy nhất?"
+    },
+    "c30d7f27a23df6cb11b4c8c3daf30f8b": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"Du K\\u00fd Phan Quang - Ti\\u1ebfc Nu\\u1ed1i Hoa H\\u1ed3ng\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Du Ký Phan Quang - Tiếc Nuối Hoa Hồng' được viết bởi ai?"
+    },
+    "e257927932f7dfa6f032bfb96009a68b": {
+      "return": "Cuốn sách 'Du Ký Phan Quang - Tiếc Nuối Hoa Hồng' được viết bởi Phan Quang.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Du Ký Phan Quang - Tiếc Nuối Hoa Hồng' được viết bởi ai?"
+    },
+    "c27a36e506ea1be277589e8cb0e7ecbb": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"s\\u00e1ch du k\\u00fd\", \"nh\\u00e0 b\\u00e1o L\\u01b0u \\u0110\\u00ecnh Tri\\u1ec1u\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào của nhà báo Lưu Đình Triều không?"
+    },
+    "96547db28261c77faed421e22396aec5": {
+      "return": "Dựa trên thông tin hiện có, chưa tìm thấy sách du ký của nhà báo Lưu Đình Triều. Các cuốn sách được liệt kê chủ yếu là về quản trị nhân sự, tài chính, kinh tế học và tiểu thuyết. Bạn có muốn tìm hiểu thêm về một chủ đề khác hay cần hỗ trợ gì khác không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào của nhà báo Lưu Đình Triều không?"
+    },
+    "3b3aff1015077b6df44b95eda39213fe": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"published by\", \"sold quantity\"], \"low_level_keywords\": [\"du k\\u00fd\", \"nh\\u00e0 b\\u00e1o\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào của nhà báo có số lượng bán cao nhất?"
+    },
+    "93cef68ba887264b083efb6a4c7b0b19": {
+      "return": "Sách du ký được đề cập trong danh sách và có số lượng bán cao nhất là \"Đường Xa Nắng Mới - Nguyễn Tường Bách\". Chi tiết như sau:\n\n- **Title:** Đường Xa Nắng Mới - Nguyễn Tường Bách\n- **Author:** Nguyễn Tường Bách\n- **Publisher:** Nhà Xuất Bản Hội Nhà Văn\n- **Category:** Du ký\n- **Current Price:** 158,000 VND\n- **Original Price:** 223,000 VND\n- **Discount Rate:** 29%\n- **Rating:** 5.0 stars\n- **Quantity Sold:** 18\n\nSách này thuộc thể loại du ký và có số lượng đã bán là 18 bản.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào của nhà báo có số lượng bán cao nhất?"
+    },
+    "9ac3de5b21b2975e23d5253d822471ac": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"Phan Quang\", \"Nguy\\u1ec5n Ph\\u01b0\\u01a1ng Mai\", \"Du K\\u00fd\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh phong cách viết của Phan Quang và Nguyễn Phương Mai trong du ký."
+    },
+    "3acb69ced082b970db35d1bf0aff5fab": {
+      "return": "Dựa trên thông tin được cung cấp, chúng tôi có thể so sánh một số đặc điểm phong cách viết của hai tác giả này:\n\nPhan Quang:\n- Du Ký Phan Quang - Tiếc Nuối Hoa Hồng: Là tuyển tập các bài du ký được viết sau những chuyến đi công tác nước ngoài. Nội dung bao gồm sự ghi nhận về văn hóa, con người và phong cảnh của nhiều quốc gia.\n- Văn phong có thể mang tính chất tư duy phản biện, phê phán xã hội đương đại thông qua trải nghiệm cá nhân.\n\nNguyễn Phương Mai:\n- Tôi Là Một Con Lừa - Nguyễn Phương Mai - (bìa mềm): Đây là một tác phẩm hồi ký với nội dung kể lại những trải nghiệm trong cuộc sống của người viết.\n- Thể loại tiểu sử – hồi ký cho thấy phong cách viết có thể mang tính tự thuật, chân thực, miêu tả cảm xúc cá nhân.\n\nTuy nhiên, do thiếu thông tin cụ thể về văn phong của cả hai tác giả, chúng tôi chỉ dựa vào mô tả chung. Để phân tích sâu hơn về phong cách viết, cần xem xét các đoạn trích từ bài viết, sử dụng từ ngữ, cấu trúc câu, lối diễn đạt… của cả hai tác giả.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh phong cách viết của Phan Quang và Nguyễn Phương Mai trong du ký."
+    },
+    "11d644ac9f13b48241553be1c939e934": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"has price\", \"sales success\"], \"low_level_keywords\": [\"s\\u00e1ch c\\u1ee7a nh\\u00e0 b\\u00e1o\", \"< 150,000 VND\", \"rating > 4.5\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của nhà báo dưới 150,000 VND có rating trên 4.5?"
+    },
+    "38e132666f4c83c7c0723ec0544e274d": {
+      "return": "Dựa vào thông tin đã được cung cấp, không có cuốn sách trong danh sách phù hợp với yêu cầu của bạn (sách của nhà báo và giá dưới 150,000 VND cùng rating trên 4.5).\n\nTuy nhiên, có một số cuốn sách khác trong danh sách có mức giá dưới 150,000 VND:\n\n- **\"7 Bước Xây Dựng Văn Hóa Doanh Nghiệp\"** (Rating: 4.5, Giá: 90,400 VND)\n- **\"Giải Pháp Đặc Biệt Nâng Cao Chất Lượng Nguồn Nhân Lực Và Phát Triển Hệ Thống Khách Hàng Cho Các Doanh Nghiệp Việt Nam\"** (Rating: 4.8, Giá: 204,500 VND - không phù hợp vì vượt quá giá mong muốn)\n- **\"Series Địch Công Kỳ Án Tập 16 - Quảng Châu Án\"** (Rating: 3.9, Giá: 86,900 VND)\n\nTrong số này, cuốn sách \"7 Bước Xây Dựng Văn Hóa Doanh Nghiệp\" là cuốn duy nhất có rating trên 4.5 và nằm trong khoảng giá bạn yêu cầu (dưới 150,000 VND).",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của nhà báo dưới 150,000 VND có rating trên 4.5?"
+    },
+    "be522a78fb6edfa357e3e0659e8f004d": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has description\"], \"low_level_keywords\": [\"Tinh Hoa Du K\\u00fd Tr\\u00ean Tri T\\u00e2n T\\u1ea1p Ch\\u00ed\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Tinh Hoa Du Ký Trên Tri Tân Tạp Chí' có nội dung gì?"
+    },
+    "d72a1ec53358356538526f94fb370608": {
+      "return": "Cuốn sách \"Tinh Hoa Du Ký Trên Tri Tân Tạp Chí (1941-1945)\" cung cấp các tư liệu giá trị cho những người yêu thích văn hóa, văn học, du lịch, địa phương học, nhân học và liên ngành khoa học xã hội. Tạp chí Tri Tân là một Tuần báo do Nguyễn Tường Phượng làm chủ bút.\n\nNội dung chính của cuốn sách này không được đề cập chi tiết trong thông tin hiện có, nhưng bạn có thể tham khảo trang bán hàng tại [đây](https://tiki.vn/product-p103511951.html?spid=103511952) để tìm hiểu thêm về nội dung cụ thể.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Tinh Hoa Du Ký Trên Tri Tân Tạp Chí' có nội dung gì?"
+    },
+    "583380082564eac42990963bc6ab12d5": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"philosophy\"], \"low_level_keywords\": [\"du k\\u00fd\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào đề cập đến tư tưởng triết học không?"
+    },
+    "27171060d01396fd0a0e3e49465c29ce": {
+      "return": "Theo thông tin hiện có, các sách du ký được liệt kê chủ yếu tập trung vào trải nghiệm cá nhân và chuyến đi của tác giả. Tuy nhiên, tôi không thấy có sách nào cụ thể đề cập đến tư tưởng triết học trong danh sách này.\n\nNgoài ra, bạn có thể tìm kiếm thêm thông tin về các cuốn sách du ký khác ngoài danh sách đã cung cấp để xem liệu có cuốn nào phù hợp với yêu cầu của bạn hay không. Nếu bạn quan tâm đến du ký mang tính triết học hoặc tư duy phản biện cao, bạn có thể chú ý đến những tác giả nổi tiếng như Nguyễn Tuân, Vũ Trọng Phụng hoặc các nhà văn khác có uy tín trong lĩnh vực này.\n\nNếu bạn muốn tìm hiểu sâu hơn, tôi có thể giúp bạn mở rộng tìm kiếm hoặc cung cấp thêm thông tin từ nguồn khác.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào đề cập đến tư tưởng triết học không?"
+    },
+    "c504e9e0d64a705dd7b5d022d95ec384": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has rating\", \"has sold quantity\"], \"low_level_keywords\": [\"du k\\u00fd\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào có giá trị học thuật cao nhất dựa trên rating và số lượng bán?"
+    },
+    "01251bd8bbfcde37ba75313bb7c41527": {
+      "return": "Dựa trên thông tin được cung cấp, sách \"Cô Đơn Trên Everest (Du Ký)\" của tác giả Di Li có rating là 4.8 sao và đã bán được 412 bản, đây là một trong những cuốn sách du ký có giá trị học thuật cao về cả rating lẫn số lượng bán.\n\nNgoài ra, \"Dự Án Kỳ Lân\" cũng có rating rất tốt với 4.8 sao nhưng thuộc thể loại Sách kỹ năng làm việc thay vì Du ký. Do đó, nếu chỉ xét sách du ký thì \"Cô Đơn Trên Everest (Du Ký)\" là lựa chọn phù hợp nhất theo tiêu chí bạn đưa ra.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào có giá trị học thuật cao nhất dựa trên rating và số lượng bán?"
+    },
+    "e1d0973e9af01131ac274d469fbeaa76": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"Du K\\u00fd Vi\\u1ec7t Nam tr\\u00ean Nam Phong t\\u1ea1p ch\\u00ed\", \"M\\u00f9i H\\u01b0\\u01a1ng Tr\\u1ea7m\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh mức độ học thuật của 'Du Ký Việt Nam trên Nam Phong tạp chí' và 'Mùi Hương Trầm'."
+    },
+    "a244ce6728046b57590f431843a9dc42": {
+      "return": "Dựa trên thông tin được cung cấp, chúng ta không có nhiều dữ liệu trực tiếp về cuốn sách \"Mùi Hương Trầm\" để so sánh mức độ học thuật với \"Du Ký Việt Nam trên Nam Phong tạp chí (Hộp 2 cuốn)\". Tuy nhiên, tôi có thể phân tích mức độ học thuật của cuốn sách đầu tiên dựa trên thông tin đã có:\n\n1. **\"Du Ký Việt Nam trên Nam Phong tạp chí (Hộp 2 cuốn)\"**:\n   - Loại sách: Du ký.\n   - Có chứa những đóng góp quan trọng về văn hóa và lịch sử Việt Nam từ Tạp chí Nam Phong (1917-1934).\n   - Mô tả chi tiết về các tư tưởng triết học, khoa học, văn chương, lịch sử của cả Á và Âu.\n   - Được xuất bản dưới dạng một tập hợp của nhiều tác giả.\n\n2. **\"Mùi Hương Trầm\"**:\n   - Thông tin không được cung cấp trong dữ liệu hiện có.\n\nDo đó, dựa trên mô tả, \"Du Ký Việt Nam trên Nam Phong tạp chí (Hộp 2 cuốn)\" dường như có mức độ học thuật cao hơn vì nó bao gồm nhiều thông tin chi tiết về văn hóa và lịch sử từ một thời kỳ cụ thể trong lịch sử Việt Nam. Tuy nhiên, để đánh giá chính xác hơn, chúng ta cần thêm thông tin về \"Mùi Hương Trầm\".\n\nNếu bạn có thêm thông tin về \"Mùi Hương Trầm\", tôi sẽ rất vui được giúp đỡ tiếp theo!",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh mức độ học thuật của 'Du Ký Việt Nam trên Nam Phong tạp chí' và 'Mùi Hương Trầm'."
+    },
+    "dfd146a90499d90c984b1c9e95778b16": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"published by\", \"has price\", \"research value\"], \"low_level_keywords\": [\"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n Thanh Ni\\u00ean\", \"200,000 VND\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào dưới 200,000 VND của Nhà Xuất Bản Thanh Niên có giá trị nghiên cứu cao?"
+    },
+    "51a1ecf1759e1813bc439278b3fedc9a": {
+      "return": "Dựa trên thông tin hiện có, không có cuốn sách cụ thể của Nhà Xuất Bản Thanh Niên trong danh sách các sách được đề cập mà có giá bán dưới 200,000 VND. Tuy nhiên, nếu bạn cần tìm kiếm thêm thông tin về các cuốn sách khác từ nhà xuất bản này hoặc có yêu cầu chi tiết hơn về loại sách bạn quan tâm (như thể loại, tác giả,...), tôi sẽ rất vui lòng giúp bạn!",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào dưới 200,000 VND của Nhà Xuất Bản Thanh Niên có giá trị nghiên cứu cao?"
+    },
+    "ed0ce15290d234ab03fd08242bf1a102": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has description\"], \"low_level_keywords\": [\"1111 - Nh\\u1eadt K\\u00fd S\\u00e1u V\\u1ea1n D\\u1eb7m Tr\\u00ean Y\\u00ean Xe C\\u00e0 T\\u00e0ng\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn '1111 - Nhật Ký Sáu Vạn Dặm Trên Yên Xe Cà Tàng' kể về trải nghiệm gì?"
+    },
+    "3a0e327ddcbd25c4312e39cddfa753ba": {
+      "return": "Cuốn sách \"1111 - Nhật Ký Sáu Vạn Dặm Trên Yên Xe Cà Tàng\" do Trần Đặng Đăng Khoa viết, kể về hành trình vạn dặm vòng quanh thế giới của tác giả.具体来说，这本书讲述了作者从2017年6月1日开始，驾驶一辆越南车牌的100cc摩托车在长达1111天的时间里环游世界的经历。不过，根据提供的信息，书的具体内容描述如下：\n\n从木 Bài（西宁）口岸出发，以这本书记载了作者在1000多天里骑着一台100cc越南车牌的摩托车环游世界的故事。这本书被归类为旅游文学作品。\n\n如果您需要更详细的内容或有其他问题，请告诉我！",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn '1111 - Nhật Ký Sáu Vạn Dặm Trên Yên Xe Cà Tàng' kể về trải nghiệm gì?"
+    },
+    "bb41848aed4f8981ef99914a420991be": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"h\\u00e0nh tr\\u00ecnh \\u0111i b\\u1ed9 xuy\\u00ean Vi\\u1ec7t\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào viết về hành trình đi bộ xuyên Việt không?"
+    },
+    "e433258b710a516bc70ab3fe53491355": {
+      "return": "Dựa trên thông tin hiện có, không có sách nào trực tiếp đề cập đến chủ đề \"hành trình đi bộ xuyên Việt\". Tuy nhiên, có một số cuốn sách khác thể loại tương tự mà bạn có thể quan tâm:\n\n1. **\"Đi Thật Xa Trên Một Chiếc Camper\"** - mặc dù tên sách không đề cập đến đi bộ, nhưng nó nói về hành trình phiêu lưu và các trải nghiệm thú vị trên con đường dài. Cuốn sách này có thể cung cấp nhiều thông tin hữu ích về việc lên kế hoạch cho một chuyến đi dài.\n\n2. **\"Sự Thật Ta Nắm Giữ - Một Hành Trình Xuyên Nước Mỹ\"** - mặc dù là hành trình xuyên qua Hoa Kỳ, nhưng nó có thể mang đến nhiều bài học về hành trình và trải nghiệm cá nhân mà bạn có thể áp dụng cho các chuyến đi dài.\n\nBạn có muốn tìm hiểu thêm về một trong số những cuốn sách này hay cần thông tin về sách khác?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào viết về hành trình đi bộ xuyên Việt không?"
+    },
+    "688618a8d8824d61e6356d213f7086c9": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"travel experiences\", \"has rating\"], \"low_level_keywords\": [\"Du K\\u00fd\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào về trải nghiệm cá nhân có rating cao nhất?"
+    },
+    "a37bed37cc56a4d5961c0cbda964af59": {
+      "return": "Theo thông tin mới nhất, sách du ký \"Cô Đơn Trên Everest (Du Ký)\" do Di Li viết có rating cao nhất là 4.8 sao và thuộc thể loại du ký. Đây là lựa chọn phù hợp cho bạn nếu muốn tìm đọc về trải nghiệm cá nhân với một rating cao.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào về trải nghiệm cá nhân có rating cao nhất?"
+    },
+    "8598da4e519a534b85941eea9ae7408f": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"travel literature\"], \"low_level_keywords\": [\"\\u0110i B\\u1ed9 Xuy\\u00ean Vi\\u1ec7t V\\u1edbi C\\u00e2y \\u0110\\u00e0n Guitar\", \"Th\\u1ebf Gi\\u1edbi R\\u1ed9ng L\\u1edbn \\u0110\\u1eebng \\u0110i M\\u1ed9t M\\u00ecnh\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh trải nghiệm trong 'Đi Bộ Xuyên Việt Với Cây Đàn Guitar' và 'Thế Giới Rộng Lớn Đừng Đi Một Mình'."
+    },
+    "e92a0bbb4b3770536ee2794a19014df7": {
+      "return": "Trong cuốn sách \"Đi Bộ Xuyên Việt Với Cây Đàn Guitar\" của Hồ Nhật Hà, tác giả chia sẻ về hành trình đi bộ xuyên Việt với cây đàn guitar như một phương tiện để khám phá và hiểu thêm về đất nước Việt Nam. Dù không có đồng tiền trong túi, nhưng đây là một quyết định dũng cảm, thể hiện sự kiên trì và lòng yêu mến văn hóa truyền thống của Hồ Nhật Hà.\n\nTrong khi đó, \"Thế Giới Rộng Lớn Đừng Đi Một Mình\" do Lý Thành Cơ viết, mang lại cho độc giả góc nhìn về hành trình khám phá thế giới thông qua việc đi du lịch một mình. Tác phẩm này không chỉ là lời khuyên và kinh nghiệm du lịch, mà còn truyền tải thông điệp về lòng can đảm và tự lập của những người trẻ tuổi khi đối mặt với sự thách thức.\n\nCả hai cuốn sách đều mang tính trải nghiệm cá nhân cao, nhưng \"Đi Bộ Xuyên Việt Với Cây Đàn Guitar\" tập trung vào khám phá văn hóa địa phương và bản thân, trong khi \"Thế Giới Rộng Lớn Đừng Đi Một Mình\" nhấn mạnh vào tự do, tự lập và khám phá thế giới qua việc đi du lịch một mình.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh trải nghiệm trong 'Đi Bộ Xuyên Việt Với Cây Đàn Guitar' và 'Thế Giới Rộng Lớn Đừng Đi Một Mình'."
+    },
+    "7326ae25c1f15c6e69833e564aa0b115": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\", \"sold by\", \"sales quantities\"], \"low_level_keywords\": [\"tr\\u1ea3i nghi\\u1ec7m c\\u00e1 nh\\u00e2n\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về trải nghiệm cá nhân dưới 150,000 VND bán chạy nhất?"
+    },
+    "b8b171cd32a11f2d94a893a4e9222b91": {
+      "return": "Dựa trên thông tin đã cung cấp, cuốn sách \"Những Ngã Tư Và Những Cột Đèn\" của Trần Dần được đánh giá cao với số lượng bán ra là 1,060册，这本书的价格是133,640越盾，在150,000越盾以内，并且销量较高。所以如果按照您的要求寻找价格低于150,000越盾的书籍，“Những Ngã Tư Và Những Cột Đèn”是一个不错的选择。\n\n但是根据提供的数据，实际上没有完全符合您要求（即价格低于150,000越盾）且销量最高的书籍。\"Những Ngã Tư Và Những Cột Đèn\"的价格是133,640越盾，并且虽然销量较高，但仍然略高于150,000越盾的预算。\n\n如果我们将价格范围稍微放宽或考虑其他因素（如评分等），那么“Những Ngã Tư Và Những Cột Đè灯”仍然是一个值得推荐的选择。它获得了4.8星的好评，并且销量也不错。\n\n是否有其他特定的需求或者您可以考虑调整价格上限吗？",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về trải nghiệm cá nhân dưới 150,000 VND bán chạy nhất?"
+    },
+    "3d082b50423396dde253b249ab8f0647": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"C\\u00f4 \\u0110\\u01a1n Tr\\u00ean Everest\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Cô Đơn Trên Everest' kể về hành trình gì?"
+    },
+    "34259afc7f09e2e21e9d28c67a1ac05c": {
+      "return": "Cuốn \"Cô Đơn Trên Everest (Du Ký)\" của tác giả Di Li mô tả một hành trình phiêu lưu và trải nghiệm đáng nhớ trên đỉnh núi Everest. Cuốn sách này không chỉ là một bản ghi nhớ hành trình mà còn chia sẻ những câu chuyện hấp dẫn, tỉ mỉ và chân thật về những thách thức, khó khăn cũng như cảm xúc khi đứng trước nguy hiểm trên núi cao nhất thế giới.\n\nMột điểm nhấn khác của cuốn sách này là việc tác giả miêu tả chi tiết thông tin mới lạ và thú vị, khiến cho câu chuyện trở nên sống động hơn. Cuốn sách \"Cô Đơn Trên Everest (Tái bản 2022)\" cũng chia sẻ những trải nghiệm tương tự nhưng có thể đã được cập nhật hoặc chỉnh sửa để phù hợp với lần tái bản này.\n\nNếu bạn muốn tìm hiểu thêm về nội dung cụ thể của cuốn sách, có thể tham khảo liên kết mua sách tại Tiki:\n\n- Cuốn \"Cô Đơn Trên Everest (Du Ký)\": [Liên kết](https://tiki.vn/product-p76106026.html?spid=76262768)\n- Cuốn \"Cô Đơn Trên Everest (Tái bản 2022)\": [Liên kết](https://tiki.vn/product-p225170585.html?spid=225170586)\n\nTrên các trang này, bạn sẽ tìm thấy thêm thông tin như giá sách, đánh giá từ độc giả và có thể mua sách trực tuyến.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Cô Đơn Trên Everest' kể về hành trình gì?"
+    },
+    "195d51560e55db73c9d6c423d36f7d71": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"travel\"], \"low_level_keywords\": [\"h\\u00e0nh tr\\u00ecnh \\u0111\\u1ea1p xe v\\u00f2ng quanh th\\u1ebf gi\\u1edbi\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào nói về hành trình đạp xe vòng quanh thế giới không?"
+    },
+    "cf588b57f562f157fa41b4c91d31ac53": {
+      "return": "Xin lỗi, trong dữ liệu hiện có của tôi không có thông tin về bất kỳ cuốn sách nào liên quan đến hành trình đạp xe vòng quanh thế giới. Dữ liệu chỉ bao gồm các thông tin về một số cuốn sách quản trị doanh nghiệp và lãnh đạo. Bạn có muốn tìm hiểu thêm về những cuốn sách khác trong danh mục đó không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào nói về hành trình đạp xe vòng quanh thế giới không?"
+    },
+    "269ed9187cf849d98f9a0f1af04bff0e": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\", \"has sold quantity\"], \"low_level_keywords\": [\"du k\\u00fd\", \"h\\u00e0nh tr\\u00ecnh m\\u1ea1o hi\\u1ec3m\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào về hành trình mạo hiểm có số lượng bán cao nhất?"
+    },
+    "1716fbefc02db8c63b09c05e7d89a073": {
+      "return": "Dựa trên thông tin hiện có, không có sách du ký cụ thể trong danh sách. Danh sách bao gồm các cuốn sách về triết lý kinh doanh và quản trị doanh nghiệp. Để tìm sách du ký có số lượng bán cao nhất, chúng ta cần thêm thông tin về các loại sách du ký hoặc các cuốn sách liên quan đến chủ đề du ký trong danh sách. Bạn có thể cung cấp thêm thông tin về những cuốn sách du ký mà bạn đang quan tâm không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào về hành trình mạo hiểm có số lượng bán cao nhất?"
+    },
+    "8f3b72772b5c3e23962474b7eb5a8e28": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"plot\"], \"low_level_keywords\": [\"\\u0110\\u1ea1p Xe V\\u00ec T\\u00ecnh T\\u1eeb \\u1ea4n Sang \\u00c2u\", \"1111 - Nh\\u1eadt K\\u00fd S\\u00e1u V\\u1ea1n D\\u1eb7m\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh độ kịch tính của 'Đạp Xe Vì Tình Từ Ấn Sang Âu' và '1111 - Nhật Ký Sáu Vạn Dặm'."
+    },
+    "06353d7dd4589fd5536c18ad18a2f66d": {
+      "return": "Để so sánh độ kịch tính giữa hai cuốn sách \"Đạp Xe Vì Tình Từ Ấn Sang Âu\" và \"1111 - Nhật Ký Sáu Vạn Dặm Trên Yên Xe Cà Tàng\", chúng ta cần xem xét một số yếu tố như:\n\n### \"Đạp Xe Vì Tình Từ Ấn Sang Âu\":\n- **Cốt truyện**: Chàng trai trẻ Mahanandia bắt đầu hành trình từ Delhi, Ấn Độ đến thị trấn Boras vào ngày 22 tháng 1 năm 1977. Hành trình này kéo dài 4 tháng với xe đạp.\n- **Độ thử thách**: Có thể giả định rằng hành trình qua nhiều vùng đất không đồng đều về địa lý và văn hóa sẽ mang tính thử thách cao, đòi hỏi sự kiên trì và sức mạnh tinh thần của người đi.\n- **Kịch tính**: Hành trình xuyên qua nhiều khu vực khác nhau có thể tạo nên các tình huống kịch tính như gặp gỡ những người dân địa phương, vượt qua khó khăn trên con đường, hoặc thách thức về thời tiết.\n\n### \"1111 - Nhật Ký Sáu Vạn Dặm Trên Yên Xe Cà Tàng\":\n- **Cốt truyện**: Trần Đặng Đăng Khoa bắt đầu hành trình vòng quanh thế giới từ ngày 01/06/2017 tại cửa khẩu Mộc Bài (Tây Ninh). Hành trình kéo dài 1.111 ngày với chiếc xe 100cc mang biển số Việt Nam.\n- **Độ thử thách**: Hành trình này cũng đòi hỏi sự kiên trì và sức mạnh tinh thần, nhưng do di chuyển bằng xe máy nhỏ gọn hơn so với xe đạp nên có thể ít gặp phải các tình huống khắc nghiệt về địa hình.\n- **Kịch tính**: Có thể thấy rằng hành trình dài 1.111 ngày cũng mang nhiều thách thức như gặp gỡ người dân địa phương, đối mặt với vấn đề pháp lý khi di chuyển qua nhiều quốc gia, hoặc quản lý nguồn cung cấp nhiên liệu.\n\n### So sánh:\n- **Thử thách và kịch tính**:\n  - Cả hai hành trình đều đòi hỏi sự kiên trì và sức mạnh tinh thần của người đi.\n  - Hành trình \"Đạp Xe Vì Tình Từ Ấn Sang Âu\" có thể tạo ra nhiều tình huống kịch tính do đường đi qua nhiều khu vực địa lý khác nhau, trong khi \"1111 - Nhật Ký Sáu Vạn Dặm Trên Yên Xe Cà Tàng\" cũng không kém phần kịch tính nhờ thời gian hành trình dài và đa dạng về các vùng đất.\n\n- **Độ khắc nghiệt**:\n  - Hành trình bằng xe đạp có thể gặp nhiều thử thách về địa hình và điều kiện thời tiết hơn so với di chuyển bằng xe máy.\n  - Tuy nhiên, cả hai hành trình đều mang tính chất hành trình dài và đòi hỏi sự chuẩn bị kỹ lưỡng.\n\nKết luận: Cả hai cuốn sách đều mang yếu tố kịch tính cao do hành trình của chúng trải qua nhiều thách thức. Tuy nhiên, \"Đạp Xe Vì Tình Từ Ấn Sang Âu\" có thể tạo ra nhiều tình huống kịch tính hơn do di chuyển qua nhiều khu vực địa lý khác nhau.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh độ kịch tính của 'Đạp Xe Vì Tình Từ Ấn Sang Âu' và '1111 - Nhật Ký Sáu Vạn Dặm'."
+    },
+    "791a34febe67cd153ebe6ad5c607a1fe": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"adventure\", \"Vietnamese authors\", \"has rating\"], \"low_level_keywords\": [\"h\\u00e0nh tr\\u00ecnh m\\u1ea1o hi\\u1ec3m c\\u1ee7a t\\u00e1c gi\\u1ea3 Vi\\u1ec7t Nam\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về hành trình mạo hiểm của tác giả Việt Nam có rating 5.0?"
+    },
+    "77b3cbb1f92f08f3ebdf611cb9e83840": {
+      "return": "Theo thông tin tôi có, không có cuốn sách cụ thể về hành trình mạo hiểm của tác giả Việt Nam có rating là 5.0. Cuốn sách \"Trên Đỉnh Namsan Ngắm Mặt Trời\" được đánh giá 4.0 sao bởi Hoài Thanh, nhưng đây không phải là một cuốn sách về hành trình mạo hiểm. \n\nNếu bạn quan tâm đến những cuốn sách có rating cao, dưới đây là một số gợi ý:\n\n- \"Truyện Kiều Chú Giải\" có rating 4.8 sao.\n- \"Ma Qủy Dân Gian Ký Tập 2\" cũng được đánh giá rất cao với 4.8 sao.\n\nNếu bạn muốn tìm kiếm thêm về sách hành trình mạo hiểm, tôi có thể cung cấp thông tin từ những cuốn khác hoặc các nguồn uy tín hơn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về hành trình mạo hiểm của tác giả Việt Nam có rating 5.0?"
+    },
+    "8240ecbe511e176e03363e807617ac4e": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"T\\u1eeb R\\u1eebng Th\\u1eb3m Amazon \\u0110\\u1ebfn Qu\\u00ea H\\u01b0\\u01a1ng Bolero\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Từ Rừng Thẳm Amazon Đến Quê Hương Bolero' nói về khu vực nào?"
+    },
+    "8d98b5d228f390ff66976f352e5035ba": {
+      "return": "Cuốn \"Từ Rừng Thẳm Amazon Đến Quê Hương Bolero\" bao gồm 4 phần, mỗi phần đề cập đến một khu vực khác nhau:\n\n1. **Amazon**: Phần này mô tả cuộc hành trình trong rừng thẳm Amazon.\n2. **Mexico**: Phần này kể về Xứ sở của những chiếc đầu lâu pha lê.\n3. **Peru**: Phần này viết về Bay trên thành phố đá.\n4. **Cuba**: Phần này miêu tả Lang thang trên quê hương Bolero.\n\nNhững phần này thể hiện sự trải nghiệm du ký bụi bặm và đa dạng của tác giả Nguyễn Tập khi thực hiện chuyến đi vòng quanh thế giới.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Từ Rừng Thẳm Amazon Đến Quê Hương Bolero' nói về khu vực nào?"
+    },
+    "86e9ca103c17b09b3654b03ad2a5a74a": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"du k\\u00fd\", \"Himalaya\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào về Himalaya không?"
+    },
+    "81d20383ba4e35dd56cdb83fb0bca86a": {
+      "return": "Có một cuốn sách du ký về Himalaya được đề cập trong dữ liệu mới nhất:\n\n- **Tên sách**: HIMALAYA – Hành Trình Chạm Đến Trán Trời\n- **Tác giả**: Nhiều Tác Giả\n- **Nhà xuất bản**: Nhà Xuất Bản Thế Giới\n- **Mô tả**: Cuốn sách này được viết khi tác giả và người bạn đồng hành đang trên đường trở về Salleri – điểm gần với Vườn quốc gia Sagarmatha nhất có thể đến được bằng ô tô. \n\nNếu bạn quan tâm, cuốn sách này hiện đang bán với giá 267,000 VND tại Tiki.\n\nBạn có muốn biết thêm thông tin chi tiết không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách du ký nào về Himalaya không?"
+    },
+    "59ef7a7b3b951b8cb2366aff359356ff": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has rating\"], \"low_level_keywords\": [\"v\\u00f9ng \\u0111\\u1ea5t hoang d\\u00e3\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách nào về vùng đất hoang dã có đánh giá trung bình cao nhất?"
+    },
+    "b4b940e593dca0ddd6e5c3527a229b31": {
+      "return": "Dựa trên thông tin mà tôi có, không có sách cụ thể nào được đề cập là về vùng đất hoang dã. Tuy nhiên, nếu bạn quan tâm đến các cuốn sách có đánh giá trung bình cao và thuộc thể loại du ký hoặc khám phá, cuốn \"Vắt Qua Những Ngàn Mây\" của Đỗ Quang Tuấn Hoàng có rating 4.8 sao, mặc dù nó không mô tả rõ ràng là về vùng đất hoang dã.\n\nNgoài ra, cuốn sách \"Quản Lý Công Việc Linh Hoạt Theo Phương Pháp Agile\" cũng có đánh giá rất cao (5.0 sao) nhưng đây là một cuốn sách quản lý dự án, không liên quan đến vùng đất hoang dã.\n\nBạn có thể tìm kiếm thêm thông tin về các cuốn sách du ký hoặc khám phá để có được lựa chọn phù hợp hơn với yêu cầu của mình!",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách nào về vùng đất hoang dã có đánh giá trung bình cao nhất?"
+    },
+    "b6051733ae482804b998e162b10e5697": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"content\"], \"low_level_keywords\": [\"HIMALAYA \\u2013 H\\u00e0nh Tr\\u00ecnh Ch\\u1ea1m \\u0110\\u1ebfn Tr\\u00e1n Tr\\u1eddi\", \"T\\u00e2y T\\u1ea1ng Huy\\u1ec1n B\\u00ed\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'HIMALAYA – Hành Trình Chạm Đến Trán Trời' và 'Tây Tạng Huyền Bí'."
+    },
+    "893c982ec6e0cc31046c8498936eeaad": {
+      "return": "Để so sánh nội dung giữa hai cuốn sách \"HIMALAYA – Hành Trình Chạm Đến Trán Trời\" và \"Tây Tạng Huyền Bí\", chúng ta sẽ dựa vào mô tả được cung cấp:\n\n1. **Cuốn sách 'HIMALAYA – Hành Trình Chạm Đến Trán Trời':**\n   - Đây là một cuốn du ký viết về hành trình của tác giả Mai Lan khi đang trở về Salleri, gần với Vườn quốc gia Sagarmatha nhất có thể đến được bằng ô tô.\n   - Nó miêu tả trải nghiệm và những gì tác giả đã thấy hoặc trải qua trong chuyến đi này.\n\n2. **Cuốn sách 'Tây Tạng Huyền Bí':**\n   - Đây là một cuốn du ký/đọc về văn hóa, lịch sử, và các nền tảng tâm linh của Tây Tạng.\n   - Cuốn sách do tác giả Đặng Hoàng Xa viết, cung cấp thông tin chi tiết về Tây Tạng từ nhiều khía cạnh khác nhau.\n\n### So sánh Chi tiết:\n- **Nội dung Trải nghiệm cá nhân vs Thông tin Tổng quan:**\n  - \"HIMALAYA – Hành Trình Chạm Đến Trán Trời\" tập trung vào trải nghiệm và suy nghĩ cá nhân của tác giả Mai Lan trong chuyến đi.\n  - \"Tây Tạng Huyền Bí\" cung cấp thông tin tổng quan về Tây Tạng, bao gồm lịch sử, văn hóa, và các yếu tố tâm linh.\n\n- **Mục đích:**\n  - Cuốn sách đầu tiên được viết với mục đích chia sẻ trải nghiệm du lịch cá nhân.\n  - Cuốn sách thứ hai được viết để cung cấp kiến thức về một khu vực địa lý cụ thể.\n\n- **Nguyên tác và phiên bản tái bản:**\n  - \"HIMALAYA – Hành Trình Chạm Đến Trán Trời\" chỉ có một phiên bản (kể cả cuốn độc lập).\n  - \"Tây Tạng Huyền Bí\" hiện tại có hai phiên bản khác nhau, bao gồm phiên bản gốc và tái bản 2020.\n\n### Kết luận:\nCuốn sách \"HIMALAYA – Hành Trình Chạm Đến Trán Trời\" mang tính chất cá nhân và du ký, tập trung vào trải nghiệm cụ thể trong một chuyến đi. Trong khi đó, \"Tây Tạng Huyền Bí\" cung cấp thông tin đa dạng về Tây Tạng từ góc độ văn hóa, lịch sử, và tâm linh.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'HIMALAYA – Hành Trình Chạm Đến Trán Trời' và 'Tây Tạng Huyền Bí'."
+    },
+    "5d0199e2f9afec59168dc6b0117796c0": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\", \"sold by\"], \"low_level_keywords\": [\"v\\u00f9ng \\u0111\\u1ea5t hoang d\\u00e3\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về vùng đất hoang dã dưới 200,000 VND bán chạy nhất?"
+    },
+    "a49b373a6b0ba899bc63808faed8629b": {
+      "return": "Dựa trên thông tin hiện có, cuốn sách \"Tổng Tập Văn Học Các Dân Tộc Thiểu Số Việt Nam (Trọn Bộ 6 Cuốn)\" của Trung Tâm Khoa Học Xã Hội Và Nhân Văn, xuất bản bởi Nhà Xuất Bản Đà Nẵng, có giá khoảng 1.495.000 VND nhưng đang được giảm giá 35%, khiến tổng giá hiện tại thấp hơn 200.000 VND so với giá gốc và đã bán được 6 bản.\n\nTuy nhiên, cuốn sách này không tập trung vào \"vùng đất hoang dã\" như yêu cầu của bạn. Cuốn sách có mô tả về văn học dân tộc thiểu số ở Việt Nam, nhưng không đặc biệt nhấn mạnh vào khía cạnh địa lý hoang dã.\n\nMột lựa chọn gần với yêu cầu của bạn là cuốn \"Vắt Qua Những Ngàn Mây\" của Đỗ Quang Tuấn Hoàng, có giá 63.100 VND và đã bán được 92 bản. Cuốn sách này không tập trung vào vùng đất hoang dã, nhưng nó là một trong những lựa chọn dưới 200.000 VND và đã bán chạy.\n\nNếu bạn cần thông tin chính xác về cuốn sách liên quan đến vùng đất hoang dã, có thể cần thêm tìm kiếm hoặc cung cấp thông tin cụ thể hơn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về vùng đất hoang dã dưới 200,000 VND bán chạy nhất?"
+    },
+    "6f95489d3210751fdcec0b6c95f2e091": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"\\u0110i B\\u1ed9 Xuy\\u00ean Vi\\u1ec7t V\\u1edbi C\\u00e2y \\u0110\\u00e0n Guitar\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Đi Bộ Xuyên Việt Với Cây Đàn Guitar' kể về phương tiện gì?"
+    },
+    "4062f7399c03d761f94eed9de60ceca8": {
+      "return": "Cuốn sách 'Đi Bộ Xuyên Việt Với Cây Đàn Guitar' được mô tả là một hành trình xuyên Việt với cây đàn guitar làm hành trang và không có tiền trong túi. Do đó, phương tiện chính trong hành trình này là bộ chân của tác giả cùng với cây đàn guitar.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Đi Bộ Xuyên Việt Với Cây Đàn Guitar' kể về phương tiện gì?"
+    },
+    "40a036220cbedffeddab4e4a2cf16108": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"publishing\"], \"low_level_keywords\": [\"h\\u00e0nh tr\\u00ecnh b\\u1eb1ng xe \\u0111\\u1ea1p\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào nói về hành trình bằng xe đạp không?"
+    },
+    "f33c063223e7d9b84fac1b6e99ec8e87": {
+      "return": "Hiện tại, trong danh sách thông tin mới nhất không có sách cụ thể đề cập đến \"hành trình bằng xe đạp\". Tuy nhiên, có một số cuốn sách khác mà bạn có thể quan tâm:\n\n1. **HÀNH TRÌNH BÁNH XE Y HỌC“** - Đây là cuốn sách của tác giả chưa được nêu tên, xuất bản bởi Nhà Xuất Bản Thông Tin và Truyền Thông, thuộc loại Tiểu sử - Hồi ký. Tuy không đề cập trực tiếp đến \"xe đạp\", nhưng nội dung có thể liên quan đến hành trình cá nhân hoặc hành trình tâm lý.\n\n2. **Quản Trị Công Ty Hiện Đại** - Cuốn sách này của Martin Hilb tập trung vào quản trị doanh nghiệp, có thể chứa nhiều ví dụ về hành trình thành công trong kinh doanh.\n\nNếu bạn cần thông tin chi tiết hơn hoặc muốn tìm kiếm một cuốn sách cụ thể về \"hành trình bằng xe đạp\", vui lòng cung cấp thêm thông tin để tôi có thể giúp đỡ tốt hơn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào nói về hành trình bằng xe đạp không?"
+    },
+    "b63720db8f45a9923ae14dc42e608815": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\", \"has sold quantity\"], \"low_level_keywords\": [\"Du K\\u00fd\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào về phương tiện độc đáo có số lượng bán cao nhất?"
+    },
+    "facce5bb675c2fe83d0eebcfb3a2bac3": {
+      "return": "Dựa trên thông tin cung cấp, cuốn sách du ký có phương tiện độc đáo với số lượng bán cao nhất là \"Cô Đơn Trên Everest (Du Ký)\" của tác giả Di Li. Cuốn này thuộc thể loại Du ký và đã bán được 412 bản.\n\nMột số chi tiết về cuốn sách:\n- Nhà xuất bản: Nhà Xuất Bản Hội Nhà Văn\n- Giá hiện tại: 88,200 VND\n- Giá gốc: 126,000 VND\n- Chiết khấu: 30%\n- Xếp hạng đánh giá: 4.8 sao\n\nCuốn sách kể về trải nghiệm phiêu lưu của tác giả trên đỉnh núi Everest, mang lại cho độc giả những câu chuyện hấp dẫn và chi tiết mới lạ về cuộc hành trình này.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách du ký nào về phương tiện độc đáo có số lượng bán cao nhất?"
+    },
+    "4fa60cd4584a13566d87f996f6e45e4d": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"reading experience\"], \"low_level_keywords\": [\"\\u0110\\u1ea1p Xe V\\u00ec T\\u00ecnh T\\u1eeb \\u1ea4n Sang \\u00c2u\", \"\\u0110i Th\\u1eadt Xa Tr\\u00ean M\\u1ed9t Chi\\u1ebfc Camper\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh trải nghiệm trong 'Đạp Xe Vì Tình Từ Ấn Sang Âu' và 'Đi Thật Xa Trên Một Chiếc Camper'."
+    },
+    "432156dc9439db52a32939e2d9a003cf": {
+      "return": "Xin lỗi, nhưng sách \"Đạp Xe Vì Tình Từ Ấn Sang Âu\" không xuất hiện trong danh sách thông tin mới nhất bạn cung cấp. Tuy nhiên, tôi có thể so sánh hai cuốn sách đã được liệt kê:\n\n1. **Đi Thật Xa Trên Một Chiếc Camper**\n   - Loại sách: Sách tiếng Việt\n   - Mô tả: Khi bạn đọc cuốn sách đầy cảm hứng này, có thể tác giả vẫn đang dấn bước trên một cung đường xa xôi. Ở Khải Đơn, mỗi cuốn sách sẽ vẽ ra một hành trình và hứa hẹn một hành trình tiếp nối.\n   - Giá bán: 110,000 VND\n   - Mức giảm giá: 36%\n   - Đánh giá: 4.8 sao\n\n2. **Giết Con Chim Nhại (Tái Bản)**\n   - Loại sách: Sách tiếng Việt\n   - Mô tả: Cuốn sách này kể về bố Atticus, một ông bố luật sư có cách riêng để nuôi dạy con cái cứng cáp và vững vàng hơn.\n   - Giá bán: 96,817 VND\n   - Mức giảm giá: 33%\n   - Đánh giá: 4.8 sao\n\nNếu bạn muốn so sánh giữa \"Đi Thật Xa Trên Một Chiếc Camper\" và một cuốn sách khác hoặc cần thông tin về \"Đạp Xe Vì Tình Từ Ấn Sang Âu\", vui lòng cung cấp thêm chi tiết để tôi có thể hỗ trợ tốt hơn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh trải nghiệm trong 'Đạp Xe Vì Tình Từ Ấn Sang Âu' và 'Đi Thật Xa Trên Một Chiếc Camper'."
+    },
+    "8a1dbc0d29c06ba151ba3e222ef2eef7": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\", \"has rating\"], \"low_level_keywords\": [\"ph\\u01b0\\u01a1ng ti\\u1ec7n \\u0111\\u1ed9c \\u0111\\u00e1o\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về phương tiện độc đáo dưới 150,000 VND có rating trên 4.5?"
+    },
+    "0eb229609d3b2a5005e6dc131ef13731": {
+      "return": "Dựa vào danh sách thông tin mới nhất mà bạn đã cung cấp, tôi không tìm thấy cuốn sách nào phù hợp với yêu cầu của bạn (nguyên giá < 150,000 VND và đánh giá > 4.5). Cuốn \"Truyện Tranh Cười Dân Gian Việt Nam (Bìa Mềm)\" gần nhất đạt được tiêu chí này nhưng vẫn không đủ rating trên 4.5.\n\nTuy nhiên, có một số cuốn sách khác có rating cao mà bạn có thể quan tâm:\n\n1. **Cuộc Dịch Chuyển Đại Dương Xanh - Blue Ocean Shift**: Rating: 4.3, Giá hiện tại: 143,000 VND\n2. **Quản Lý Công Việc Linh Hoạt Theo Phương Pháp Agile**: Rating: 5.0, Giá hiện tại: 74,500 VND (nguyên giá > 150,000 VND)\n3. **Đạo Đức Kinh**: Rating: 5.0, Giá hiện tại: 73,300 VND\n\nTrong số này, cuốn \"Quản Lý Công Việc Linh Hoạt Theo Phương Pháp Agile\" có rating là 5.0 và giá hiện tại là 74,500 VND, phù hợp với yêu cầu của bạn về đánh giá nhưng không đủ điều kiện về giá.\n\nHy vọng thông tin trên hữu ích cho bạn!",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về phương tiện độc đáo dưới 150,000 VND có rating trên 4.5?"
+    },
+    "57d03845919adb9c3323ac1e649fb2d8": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"\\u0110\\u1eebng Ch\\u1ebft \\u1ede \\u1ea2 R\\u1eadp X\\u00ea \\u00dat\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Đừng Chết Ở Ả Rập Xê Út' kể về thử thách gì?"
+    },
+    "caa9da66db5fe9e3c9e92f1ca656abeb": {
+      "return": "\"Đừng Chết Ở Ả Rập Xê Út\" là tự truyện của một người phụ nữ đi xuất khẩu lao động tại Ả Rập Xê Út với mong muốn đổi đời, nhưng khi cô đặt chân đến đất nước này, cô mới nhận ra mình đã bị lừa. Cuốn sách không chỉ kể về hành trình xuất khẩu lao động mà còn phản ánh những thách thức và áp lực mà người lao động gặp phải trong quá trình làm việc ở Ả Rập Xê Út.\n\nTóm lại, thử thách chính trong cuốn tự truyện này là cuộc sống khó khăn, bị lừa dối của tác giả khi đi xuất khẩu lao động tại Ả Rập Xê Út.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Đừng Chết Ở Ả Rập Xê Út' kể về thử thách gì?"
+    },
+    "8dda0d5783ecc236fa3abe5a08c0410d": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"h\\u00e0nh tr\\u00ecnh m\\u1ed9t m\\u00ecnh qua sa m\\u1ea1c\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào viết về hành trình một mình qua sa mạc không?"
+    },
+    "bf26c1303fa74d02f1906800aadea8e5": {
+      "return": "Trong danh sách thông tin hiện tại không có sách nào đề cập trực tiếp đến chủ đề là hành trình một mình qua sa mạc. Tuy nhiên, nếu bạn quan tâm đến các cuốn sách liên quan đến hành trình hoặc trải nghiệm cá nhân, có thể xem xét \"Trên Đỉnh Namsan Ngắm Mặt Trời\" của Hoài Thanh - đây là trải nghiệm của tác giả khi du lịch một mình ở Hàn Quốc. \n\nNếu bạn muốn tìm kiếm sách về hành trình qua sa mạc cụ thể hơn, tôi có thể giúp bạn tìm thêm thông tin từ các nguồn khác hoặc dựa trên tiêu chí tương tự. Bạn có muốn thử không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào viết về hành trình một mình qua sa mạc không?"
+    },
+    "d2125d35a9a49e58a4c22fd113d86a93": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has rating\"], \"low_level_keywords\": [\"h\\u00e0nh tr\\u00ecnh th\\u1eed th\\u00e1ch c\\u00e1 nh\\u00e2n\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách nào về hành trình thử thách cá nhân có rating cao nhất?"
+    },
+    "14c221094bfa7d67fcf07da8dbca6721": {
+      "return": "Dựa trên thông tin đã cung cấp, cuốn sách \"Trên Đỉnh Namsan Ngắm Mặt Trời\" của tác giả Hoài Thanh được đánh giá cao với 4.0 sao và lượng bán hàng là 140 quyển. Cuốn sách này miêu tả hành trình trải nghiệm, khám phá đất nước Hàn Quốc của một cô gái không biết tiếng Hàn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách nào về hành trình thử thách cá nhân có rating cao nhất?"
+    },
+    "08099164ca18af24dc839ef601f320e5": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"Walden M\\u1ed9t m\\u00ecnh s\\u1ed1ng trong r\\u1eebng\", \"C\\u00f4 \\u0111\\u01a1n tr\\u00ean Everest\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh thử thách trong 'Walden Một Mình Sống Trong Rừng' và 'Cô Đơn Trên Everest'."
+    },
+    "5884cb3d6ed3e0da0f27bfd25c92fd12": {
+      "return": "Để so sánh thử thách trong \"Walden - Một Mình Sống Trong Rừng\" của Henry David Thoreau và \"Cô Đơn Trên Everest (Tái bản 2022)\" của Di Li, chúng ta sẽ phân tích từng cuốn sách dựa trên thông tin đã có.\n\n### **Walden - Một Mình Sống Trong Rừng:**\n1. **Địa điểm**: Thoreau sống một mình trong đầm Walden, Massachusetts, Mỹ.\n2. **Thử thách**:\n   - **Sự cô đơn và tự lập**: Đời sống đơn độc và việc tự túc về mặt vật chất và tinh thần.\n   - **Nỗ lực cân bằng giữa cuộc sống hàn lâm và thực tế**: Thoreau tìm kiếm sự bình yên thông qua việc lao động chân tay và suy ngẫm về thế giới xung quanh.\n   - **Sự phản kháng xã hội và chế độ**: Thoreau chống đối nhiều khía cạnh của xã hội đương thời, như nghĩa vụ quân sự và độc quyền chính trị.\n\n### **Cô Đơn Trên Everest:**\n1. **Địa điểm**: Di Li đã trải qua chuyến đi leo núi lên đỉnh Everest, Nepal.\n2. **Thử thách**:\n   - **Vật lý học cực đoan**: Chuyến đi đòi hỏi sức khỏe thể chất và tinh thần xuất sắc để đối mặt với điều kiện khắc nghiệt trên đỉnh núi.\n   - **Thử thách về tâm lý và sự cô đơn**: Đôi khi phải đối mặt với sự cô đơn và sợ hãi, đặc biệt là trong những tình huống nguy hiểm như bão tuyết, mất liên lạc...\n   - **Sự thử thách về ý chí và quyết tâm**: Di Li đã thể hiện sức mạnh tinh thần qua việc vượt qua nhiều trở ngại để hoàn thành hành trình.\n\n### **So sánh:**\n- **Loại thử thách**:\n  - \"Walden\" tập trung vào các thử thách trong cuộc sống hàn lâm và ý thức về tự lập, còn \"Cô Đơn Trên Everest\" bao gồm cả thử thách vật lý lẫn tinh thần.\n- **Môi trường**: \n  - Thoreau trải qua thử thách trong một môi trường tự nhiên yên bình nhưng có thể không thuận tiện.\n  - Di Li đối mặt với môi trường khắc nghiệt và nguy hiểm ở vùng núi cao.\n- **Tác động cá nhân**:\n  - Thoreau tìm kiếm sự hòa mình vào thiên nhiên và suy ngẫm về ý nghĩa của cuộc sống.\n  - Di Li thể hiện sự can đảm, nghị lực và tinh thần đồng đội qua việc đối mặt với thử thách.\n\nMặc dù môi trường và loại thử thách khác nhau, cả hai tác phẩm đều nhấn mạnh sức mạnh tinh thần và quyết tâm trong việc vượt qua khó khăn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh thử thách trong 'Walden Một Mình Sống Trong Rừng' và 'Cô Đơn Trên Everest'."
+    },
+    "de94ca1174f9f7eb04e6bc476cd49836": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"published by\", \"sold quantity\", \"price\"], \"low_level_keywords\": [\"h\\u00e0nh tr\\u00ecnh th\\u1eed th\\u00e1ch\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về hành trình thử thách dưới 120,000 VND bán được trên 300 cuốn?"
+    },
+    "72ca46b30d1b7a75a72756e4d4db9378": {
+      "return": "Dựa trên thông tin được cung cấp, không có cuốn sách nào về \"hành trình thử thách\" với giá bán dưới 120,000 VND và đã bán được hơn 300 cuốn. Tuy nhiên, có một cuốn sách khác liên quan đến hành trình mà bạn có thể quan tâm:\n\n- **\"Một Ý Niệm An Nhiên\"**:\n  - Giá bán: 37,200 VND\n  - Số lượng đã bán: 297\n\nCuốn \"Một Ý Niệm An Nhiên\" không phải là về hành trình thử thách, nhưng nó có số lượng bán khá cao và giá cả hợp lý. Bạn có thể xem xét cuốn sách này nếu bạn muốn tìm một cuốn sách với nội dung liên quan đến hành trình và đã được nhiều người mua.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về hành trình thử thách dưới 120,000 VND bán được trên 300 cuốn?"
+    },
+    "424f40e1bfec39179f969dc337964ffe": {
+      "return": "{\"high_level_keywords\": [\"authorship\", \"Books\"], \"low_level_keywords\": [\"Tr\\u1ea7n \\u0110\\u1eb7ng \\u0110\\u0103ng Khoa\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Trần Đặng Đăng Khoa có trong danh sách?"
+    },
+    "bcafc2432bfb77b8fc83ce4463ad90cd": {
+      "return": "Trong danh sách, có một cuốn sách của Trần Đặng Đăng Khoa là:\n\n- **1111 - Nhật Ký Sáu Vạn Dặm Trên Yên Xe Cà Tàng**  \n  Loại sách: Du ký  \n  Nhà xuất bản: NXB Trẻ  \n  Liên kết mua sắm: [Tiki](https://tiki.vn/product-p204317934.html?spid=226923791)  \n\nCuốn sách này mô tả hành trình vòng quanh thế giới của tác giả Trần Đặng Đăng Khoa với chiếc xe 100cc trong 1.111 ngày.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Trần Đặng Đăng Khoa có trong danh sách?"
+    },
+    "c1f4f255405a6f83fb8b4d3039938b15": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"Di Li\", \"h\\u00e0nh tr\\u00ecnh m\\u1ea1o hi\\u1ec3m\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Tác giả Di Li có sách nào về hành trình mạo hiểm không?"
+    },
+    "bcff9359b26e53ff90f8ca574602fb45": {
+      "return": "Dựa trên thông tin hiện có, không có sách nào thuộc thể loại hành trình mạo hiểm được liệt kê dưới dạng tác giả là Di Li. Các cuốn sách trong tập dữ liệu của tôi đều do các tác giả khác nhau như Jayadevan P.K., Colleen Houck, Chu Hồng Y và Mine tạo ra.\n\nNếu bạn cần tìm thông tin về một tác giả cụ thể là Di Li, có thể bạn muốn kiểm tra lại tên tác giả hoặc thể loại sách. Tôi sẽ rất vui được giúp bạn nếu bạn cung cấp thêm thông tin!",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Tác giả Di Li có sách nào về hành trình mạo hiểm không?"
+    },
+    "24dba5b3093a3e902178419ae7afac70": {
+      "return": "{\"high_level_keywords\": [\"authorship\", \"Books\"], \"low_level_keywords\": [\"t\\u00e1c gi\\u1ea3 phi\\u00eau l\\u01b0u\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Tác giả phiêu lưu nào có sách bán chạy nhất trong danh sách?"
+    },
+    "bedd40b5187f43a470d349e0308cea54": {
+      "return": "Trong danh sách cung cấp, không có thông tin về các tác giả phiêu lưu và sách nào bán chạy nhất. Các sách được liệt kê bao gồm \"Thép đã tôi thế đấy\", \"PHONG THẦN DIỄN NGHĨA (Trọn bộ 3 cuốn)\", \"Truyện Kiều Chú Giải\", \"Tôi Là Một Con Lừa\" và \"Ma Qủy Dân Gian Ký Tập 2\". Nếu bạn cần thông tin cụ thể về sách bán chạy nhất, có thể bạn cần xem số lượng đã bán của từng sách. Hiện tại, số lượng đã bán được cung cấp cho các sách như sau:\n\n- Thép Đã Tôi Thế Đấy: 72 cuốn\n- PHONG THẦN DIỄN NGHĨA (Trọn bộ 3 cuốn): 372 cuốn\n- Truyện Kiều Chú Giải: 334 cuốn\n- Tôi Là Một Con Lừa: 239 cuốn\n- Ma Qủy Dân Gian Ký Tập 2: 320 cuốn\n\nSách \"Ma Quỷ Dân Gian Ký Tập 2\" có số lượng đã bán cao nhất là 320 cuốn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Tác giả phiêu lưu nào có sách bán chạy nhất trong danh sách?"
+    },
+    "16c195b04e62a6cbff7a99cb64b4db58": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"content comparison\", \"rating\"], \"low_level_keywords\": [\"phi\\u00eau l\\u01b0u\", \"Nguy\\u1ec5n T\\u1eadp\", \"L\\u00fd Th\\u00e0nh C\\u01a1\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung và rating của các sách phiêu lưu của Nguyễn Tập và Lý Thành Cơ."
+    },
+    "e800adbcf9d46cdbd20fea69cd1b4035": {
+      "return": "Xin lỗi, nhưng trong danh sách thông tin bạn cung cấp không có sách nào thuộc thể loại phiêu lưu của tác giả Nguyễn Tập hoặc Lý Thành Cơ. Tất cả những cuốn sách được liệt kê đều thuộc các thể loại khác nhau như tiểu thuyết, thơ, truyện chữ đam mỹ, thần thoại Hy Lạp và kinh doanh.\n\nNếu bạn có thông tin cụ thể về tên sách hoặc tác giả mà bạn muốn so sánh, vui lòng cung cấp thêm để tôi có thể hỗ trợ tốt hơn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung và rating của các sách phiêu lưu của Nguyễn Tập và Lý Thành Cơ."
+    },
+    "387337310af1a905a2915821579a71a5": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"has price\"], \"low_level_keywords\": [\"Ryszard Kapu\\u015bci\\u0144ski\", \"phi\\u00eau l\\u01b0u\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Ryszard Kapuściński về phiêu lưu có giá dưới 150,000 VND?"
+    },
+    "f9ed2fe241e3498647c5a9d1729e75f4": {
+      "return": "Dựa trên thông tin hiện có, tôi không tìm thấy cuốn sách của Ryszard Kapuściński có giá dưới 150,000 VND. Cuốn sách \"Hoàng Đế\" có giá 64,700 VND và \"Gỗ mun\" có giá 106,134 VND, đều cao hơn ngưỡng bạn đề cập. Bạn có muốn tìm kiếm trong phạm vi khác hoặc cuốn sách khác của tác giả không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Ryszard Kapuściński về phiêu lưu có giá dưới 150,000 VND?"
+    },
+    "ca1462035e9dc2408c790aa43fcdeaa7": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"L\\u00e3nh \\u0110\\u1ea1o T\\u1ec9nh Th\\u1ee9c\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Lãnh Đạo Tỉnh Thức' nói về điều gì?"
+    },
+    "5471023dc4b193da8e23e3deff5443eb": {
+      "return": "Cuốn sách \"Lãnh Đạo Tỉnh Thức (The Mindful Leader)\" do Michael Bunting viết cho thấy rằng chúng ta có thể đồng thời là nhà lãnh đạo doanh nghiệp thành công và con người hiểu biết, đầy lòng trắc ẩn. Cuốn sách này nhấn mạnh tầm quan trọng của việc lãnh đạo tỉnh thức trong một môi trường làm việc hiện đại để đạt được sự cân bằng giữa thành công nghề nghiệp và sự phát triển cá nhân.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Lãnh Đạo Tỉnh Thức' nói về điều gì?"
+    },
+    "b7115d25f2b5d7544d34bbf8b8d6771f": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"l\\u00e3nh \\u0111\\u1ea1o\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào về lãnh đạo không dùng quyền lực không?"
+    },
+    "666e35cf3fc48b5c208b55e681d81dbf": {
+      "return": "Dựa trên thông tin mà bạn đã cung cấp, có một số cuốn sách liên quan đến chủ đề lãnh đạo không sử dụng quyền lực:\n\n1. **\"Nhà Lãnh Đạo Không Chức Danh\" - Robin Sharma**:\n   - Đây là một cuốn sách nổi tiếng về lãnh đạo phi truyền thống, tập trung vào việc trở thành một nhà lãnh đạo thực sự mà không cần chức vụ.\n   - Trích đoạn: \"Suốt hơn 15 năm, Robin Sharma đã thầm lặng chia sẻ với những công ty trong danh sách Fortune 500 và nhiều người siêu giàu khác một công thức thành công đã giúp ông trở thành một trong những nhà cố vấn...\"\n\n2. **\"Nhà Lãnh Đạo Không Chức Danh (Tái Bản)\" - Robin Sharma**:\n   --Version tái bản của cuốn sách trên, cũng tập trung vào cách lãnh đạo mà không cần quyền lực.\n\nNgoài ra, có thể xem xét các cuốn sách khác như:\n\n- **\"Những Thách Thức Của Nhà Lãnh Đạo\" - James M. Kouzes và Barry Z. Posner**: Mặc dù tập trung nhiều vào kỹ năng lãnh đạo truyền thống, nhưng vẫn chứa đựng những nguyên tắc về cách thức trở thành một nhà lãnh đạo mạnh mẽ mà không nhất thiết cần sử dụng quyền lực.\n\n- **\"Dám Lãnh Đạo\" - Brene Brown**: Cuốn sách này cũng đề cập đến việc tạo ra môi trường nơi mọi người cảm thấy an toàn và có thể phát triển, điều này thường đòi hỏi sự lãnh đạo mạnh mẽ nhưng không dựa trên áp đặt quyền lực.\n\nCả hai cuốn sách \"Nhà Lãnh Đạo Không Chức Danh\" đều sẽ cung cấp cho bạn những góc nhìn sâu sắc về việc trở thành một nhà lãnh đạo thực sự mà không cần sử dụng quyền lực truyền thống.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào về lãnh đạo không dùng quyền lực không?"
+    },
+    "1c47d6a319c1f4470aa90e16e6468ea5": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has rating\", \"has price\"], \"low_level_keywords\": [\"l\\u00e3nh \\u0111\\u1ea1o\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách lãnh đạo nào có rating cao nhất và giá dưới 150,000 VND?"
+    },
+    "b47cb19d151e7db3efd3583149f246a2": {
+      "return": "Trong danh sách thông tin mới nhất cung cấp, sách \"Nhà Lãnh Đạo Không Chức Danh\" của Robin Sharma là cuốn có rating cao nhất (5.0 sao) và nằm trong khoảng giá dưới 150,000 VND:\n\n- Giá: 86,200 VND\n- Rating: 5.0 sao\n\nThông tin về sách này bao gồm:\n- Tác giả: Robin Sharma\n- Nhà xuất bản: NXB Trẻ\n- Thể loại: Sách quản trị, lãnh đạo\n- Link sản phẩm: [Tiki](https://tiki.vn/product-p186286187.html?spid=186286189)\n\nSách này là lựa chọn phù hợp cho bạn nếu bạn đang tìm kiếm một cuốn sách về lãnh đạo có đánh giá cao và giá cả phải chăng.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách lãnh đạo nào có rating cao nhất và giá dưới 150,000 VND?"
+    },
+    "e658c7e931a51dca73cd5d7c54e523cb": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"L\\u00e3nh \\u0110\\u1ea1o Ph\\u1ee5c V\\u1ee5\", \"L\\u00e3nh \\u0110\\u1ea1o Chuy\\u1ec3n H\\u00f3a\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'Lãnh Đạo Phục Vụ' và 'Lãnh Đạo Chuyển Hóa'."
+    },
+    "6d0cecc3816be8a20faa3f8641579be3": {
+      "return": "Cả hai cuốn sách \"Lãnh Đạo Phục Vụ\" và \"Lãnh Đạo Chuyển Hóa\" đều hướng dẫn về các nguyên tắc và kỹ năng lãnh đạo hiệu quả, nhưng chúng tập trung vào những khía cạnh khác nhau:\n\n### Lãnh Đạo Phục Vụ (Servant Leadership)\n- **Tác giả**: Robert K. Greenleaf\n- **Nội dung chính**:\n  - Lãnh đạo phục vụ đề cao sự quan tâm và chăm sóc đối với người khác, đặc biệt là những người trong tổ chức.\n  - Các nhà lãnh đạo phải đặt lợi ích của nhân viên và cộng đồng lên hàng đầu.\n  - Sách này nhấn mạnh vai trò của lòng trắc ẩn, sự can đảm, sự cam kết, công bằng, và sức mạnh tinh thần trong quá trình lãnh đạo.\n- **Những điểm nổi bật**:\n  - Nền tảng phục vụ: Nhà lãnh đạo cần trở thành người phục vụ để tạo ra môi trường làm việc tích cực.\n  - Mô hình lãnh đạo cấp tiến: Tăng cường sự hợp tác và khả năng giải quyết vấn đề của đội ngũ.\n\n### Lãnh Đạo Chuyển Hóa\n- **Tác giả**: John C. Maxwell\n- **Nội dung chính**:\n  - Lãnh đạo chuyển hóa tập trung vào việc tạo ra thay đổi tích cực trong tổ chức thông qua sự sáng suốt, tầm nhìn và khả năng truyền cảm hứng.\n  - Sách này nhấn mạnh tầm quan trọng của việc phát triển bản thân, xây dựng đội ngũ lãnh đạo mới, và thực hiện các chiến lược dài hạn để cải thiện hiệu suất tổng thể.\n- **Những điểm nổi bật**:\n  - Tầm nhìn và sứ mệnh: Nhà lãnh đạo cần có một tầm nhìn rõ ràng và tạo ra sự cam kết từ mọi người trong tổ chức.\n  - Phát triển bản thân và đội ngũ: Đầu tư vào sự phát triển cá nhân và nhóm để nâng cao hiệu suất và năng lực.\n\n### So sánh\n- **Chủ đề**: \n  - \"Lãnh Đạo Phục Vụ\" tập trung vào cách thức lãnh đạo thông qua việc phục vụ người khác, trong khi \"Lãnh Đạo Chuyển Hóa\" nhấn mạnh tầm nhìn và khả năng tạo ra thay đổi tích cực.\n  \n- **Phong cách**:\n  - Lãnh đạo Phục vụ: Tôn trọng, chăm sóc và trao quyền cho nhân viên.\n  - Lãnh đạo Chuyển hóa: Hướng dẫn, truyền cảm hứng và xây dựng tương lai.\n\n- **Ứng dụng thực tế**:\n  - \"Lãnh Đạo Phục Vụ\" có thể hữu ích trong các tổ chức muốn tạo ra môi trường làm việc thân thiện và đồng lòng.\n  - \"Lãnh Đạo Chuyển Hóa\" phù hợp cho những nhà lãnh đạo muốn hướng dẫn tổ chức vượt qua thách thức hiện tại để đạt được thành công dài hạn.\n\n### Kết luận\nCả hai cuốn sách đều cung cấp các khía cạnh quan trọng của lãnh đạo, nhưng mỗi cuốn có tập trung vào một mục tiêu cụ thể. \"Lãnh Đạo Phục Vụ\" khuyến nghị cách tiếp cận thông qua sự phục vụ và chăm sóc, trong khi \"Lãnh Đạo Chuyển Hóa\" nhấn mạnh tầm nhìn và khả năng tạo ra thay đổi tích cực.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'Lãnh Đạo Phục Vụ' và 'Lãnh Đạo Chuyển Hóa'."
+    },
+    "0e2a83a4e62cce9b969a2fb1ec7754ec": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"published by\", \"sold by\"], \"low_level_keywords\": [\"PACE Books\", \"leadership\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của PACE Books về lãnh đạo bán chạy nhất?"
+    },
+    "3c9f778883a29c60b7fa28d33218fc12": {
+      "return": "Dựa trên thông tin tôi có, cuộển sách \"Lãnh Đạo Tỉnh Thức (The Mindful Leader) - Michael Bunting - PACE Books\" đã bán được 888 cuốn, là số lượng bán chạy nhất trong danh sách những cuốn sách về lãnh đạo của PACE Books mà tôi có thông tin.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của PACE Books về lãnh đạo bán chạy nhất?"
+    },
+    "28d17ea69e09e5b4d2101fd05ee0aa10": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has description\"], \"low_level_keywords\": [\"Qu\\u1ea3n Tr\\u1ecb Nh\\u00e2n S\\u1ef1 \\u0110\\u00fang\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Quản Trị Nhân Sự Đúng' có nội dung gì?"
+    },
+    "e0043df807a79391e7a609227d39bf62": {
+      "return": "Cuốn sách \"Quản Trị Nhân Sự Đúng\" tập trung vào việc quản lý con người - một lĩnh vực mà theo tác giả, là phần khó khăn nhất đối với mỗi người lãnh đạo. Đặc biệt trong bối cảnh xã hội luôn biến động như hiện nay, công việc này còn trở nên khó khăn hơn nhiều.\n\nSách này sẽ cung cấp cho độc giả những giải pháp và kỹ năng cần thiết để quản trị nhân sự hiệu quả, giúp các nhà quản lý vượt qua thách thức và tạo ra môi trường làm việc tích cực.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Quản Trị Nhân Sự Đúng' có nội dung gì?"
+    },
+    "d169184c1b18477448dd9a62891b95f2": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"qu\\u1ea3n tr\\u1ecb KPI\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào về quản trị KPI không?"
+    },
+    "b45e64f56250f8f48d68672dbddd09a2": {
+      "return": " Có sách \"Quản Trị KPI - Công Cụ Vận Hành Tổ Chức Và Nhân Sự Một Cách Hiệu Quả\" dành cho bạn. Đây là thông tin chi tiết về cuốn sách:\n\n- Tác giả: Kazuya Kusumoto\n- Nhà xuất bản: Nhà Xuất Bản Hồng Đức\n- Giá hiện tại: 101,000 VND\n- Mức giảm giá: 28%\n- Điểm đánh giá: 4.5 sao\n- Số lượng đã bán: 76\n\nThông tin về nội dung sách: Theo tác giả Kusumoto Kazuya, quản trị KPI không chỉ đo lường hiệu suất cá nhân và tổ chức thông qua các chỉ số mà còn xác nhận các hoạt động nhằm nâng cao chính những chỉ số đó đang được thực hiện tốt như thế nào.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào về quản trị KPI không?"
+    },
+    "0534f25d7b46a560624a73c175a3fa05": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has sold quantity\"], \"low_level_keywords\": [\"qu\\u1ea3n tr\\u1ecb nh\\u00e2n s\\u1ef1\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách quản trị nhân sự nào có số lượng bán cao nhất?"
+    },
+    "c415a90fefcdd4a7682001eb31881179": {
+      "return": "Theo thông tin mới nhất, sách \"Quản Trị Nhân Sự Đúng\" có số lượng bán cao nhất với 1696 bản đã được bán. Đây là chi tiết về cuốn sách:\n\n- **Tên Sách**: Quản Trị Nhân Sự Đúng\n- **Tác Giả**: Barbara Mitchell\n- **Nhà Xuất Bản**: Không rõ\n- **Giá Hiện Tại**: 1,894,000 VND\n- **Giá Ban Đầu**: 2,790,000 VND\n- **Khuyến Mãi**: 32%\n- **Đánh Giá**: 4.8 sao\n- **Số Lượng Bán**: 1,696 bản\n\nThông tin này được thu thập từ trang web Tiki.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách quản trị nhân sự nào có số lượng bán cao nhất?"
+    },
+    "fd8a097f270d87cfd8e73936e9acbf7d": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\", \"has description\"], \"low_level_keywords\": [\"K\\u1ef9 N\\u0103ng Qu\\u1ea3n L\\u00fd Nh\\u00e2n S\\u1ef1 Chuy\\u00ean Nghi\\u1ec7p\", \"Qu\\u1ea3n Tr\\u1ecb KPI\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá và nội dung của 'Kỹ Năng Quản Lý Nhân Sự Chuyên Nghiệp' và 'Quản Trị KPI'."
+    },
+    "3cf067d9f9671fb134aa7634f5e8494e": {
+      "return": "### So Sánh Giá và Nội Dung giữa \"Kỹ Năng Quản Lý Nhân Sự Chuyên Nghiệp\" và \"Quản Trị KPI - Công Cụ Vận Hành Tổ Chức Và Nhân Sự Một Cách Hiệu Quả\"\n\n#### **1. Thông Tin Chi Tiết**\n\n**Book Name: Kỹ Năng Quản Lý Nhân Sự Chuyên Nghiệp**\n- Giá hiện tại: 106,000 VND\n- Nhà xuất bản: Nhà Xuất Bản Lao Động\n\n**Book Name: Quản Trị KPI - Công Cụ Vận Hành Tổ Chức Và Nhân Sự Một Cách Hiệu Quả**\n- Giá hiện tại: 101,000 VND\n- Nhà xuất bản: Nhà Xuất Bản Hồng Đức\n\n#### **2. Nội Dung Tóm tắt**\n\n**\"Kỹ Năng Quản Lý Nhân Sự Chuyên Nghiệp\" (Whitney Johnson)**\n- \"Kỹ năng quản lý nhân sự chuyên nghiệp\" là một cuốn sách quan trọng dành cho các nhà quản lý muốn giúp thành viên trong nhóm học hỏi, phát triển và nhận ra tiềm năng của họ.\n- Trong cuốn sách này, Whitney Johnson chia sẻ về các kỹ năng cần thiết để lãnh đạo hiệu quả.\n\n**\"Quản Trị KPI - Công Cụ Vận Hành Tổ Chức Và Nhân Sự Một Cách Hiệu Quả\" (Kusumoto Kazuya)**\n- Theo tác giả Kusumoto Kazuya, quản trị KPI không chỉ đo lường hiệu suất cá nhân và tổ chức thông qua các chỉ số mà còn xác nhận xem các hoạt động nhằm nâng cao chỉ số đó có đang được thực hiện tốt hay không.\n\n#### **3. So Sánh Chi Tiết**\n\n- **Giá cả**: \n  - \"Kỹ Năng Quản Lý Nhân Sự Chuyên Nghiệp\": 106,000 VND\n  - \"Quản Trị KPI - Công Cụ Vận Hành Tổ Chức Và Nhân Sự Một Cách Hiệu Quả\": 101,000 VND\n\n- **Nội dung**: \n  - \"Kỹ Năng Quản Lý Nhân Sự Chuyên Nghiệp\" tập trung vào việc giúp nhà quản lý phát triển và khai thác tiềm năng nhân sự.\n  - \"Quản Trị KPI - Công Cụ Vận Hành Tổ Chức Và Nhân Sự Một Cách Hiệu Quả\" cung cấp thông tin về quản trị hiệu suất thông qua các chỉ số KPI.\n\n- **Nhà xuất bản**: \n  - \"Kỹ Năng Quản Lý Nhân Sự Chuyên Nghiệp\": Nhà Xuất Bản Lao Động\n  - \"Quản Trị KPI - Công Cụ Vận Hành Tổ Chức Và Nhân Sự Một Cách Hiệu Quả\": Nhà Xuất Bản Hồng Đức\n\nTóm lại, cả hai cuốn sách đều cung cấp thông tin hữu ích về quản lý nhân sự và hiệu suất tổ chức nhưng tập trung vào các khía cạnh khác nhau. \"Kỹ Năng Quản Lý Nhân Sự Chuyên Nghiệp\" nhấn mạnh phát triển nhân lực, còn \"Quản Trị KPI - Công Cụ Vận Hành Tổ Chức Và Nhân Sự Một Cách Hiệu Quả\" tập trung vào việc đo lường và cải thiện hiệu suất thông qua các chỉ số KPI.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh giá và nội dung của 'Kỹ Năng Quản Lý Nhân Sự Chuyên Nghiệp' và 'Quản Trị KPI'."
+    },
+    "aa7b7a73d66ceedde04f6f0018007b94": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"publishing\", \"sales\"], \"low_level_keywords\": [\"nh\\u00e2n s\\u1ef1\", \"150,000 VND\", \"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n C\\u00f4ng Th\\u01b0\\u01a1ng\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về nhân sự dưới 150,000 VND của Nhà Xuất Bản Công Thương đáng đọc?"
+    },
+    "adb52c181c54692014cfc6215e9cd5ba": {
+      "return": "Dựa trên thông tin bạn đã cung cấp, không có cuốn sách cụ thể về nhân sự được xuất bản bởi Nhà Xuất Bản Công Thương trong phạm vi giá bán dưới 150.000 VND. Tuy nhiên, nếu bạn quan tâm đến các cuốn sách liên quan đến nhân sự và có mức giá phù hợp hơn, tôi có thể đề xuất một số gợi ý từ danh sách hiện có:\n\n1. **\"Đam Mê - Bí Quyết Tạo Thành Công (Tái Bản 2019)\"** của Stephen R. Covey:\n   - Giá bán: 49,400 VND\n   - Mô tả: Cuốn sách này giúp bạn nắm bắt những bí quyết để tạo thành công trong thời đại hiện nay.\n\n2. **\"Ông Tướng Tình Báo Bí Ẩn Và Những Điệp Vụ Siêu Hạng\"** của Hoàng Hải Vân, Tấn Tú:\n   - Giá bán: 86,000 VND\n   - Mô tả: Cuốn sách kể về những câu chuyện bí ẩn và điệp vụ siêu hạng trong lĩnh vực tình báo.\n\nMặc dù không có cuốn sách trực tiếp về nhân sự, nhưng cả hai cuốn trên đều mang lại kiến thức hữu ích cho bạn. Bạn có muốn tôi tìm kiếm thêm thông tin hay gợi ý khác không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về nhân sự dưới 150,000 VND của Nhà Xuất Bản Công Thương đáng đọc?"
+    },
+    "734eb16130be495887c638fd534cd57e": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"Digital Transformation - Chuy\\u1ec3n \\u0110\\u1ed5i S\\u1ed1\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Digital Transformation - Chuyển Đổi Số' nói về gì?"
+    },
+    "3c4271c03e45a6b324603cb404754f21": {
+      "return": "Cuốn sách \"Digital Transformation - Chuyển Đổi Số\" tập trung vào các vấn đề và chiến lược liên quan đến quá trình chuyển đổi số của tổ chức. Cụ thể, nó thảo luận về:\n\n1. Những thay đổi lớn từ bên ngoài mà bất kỳ tổ chức nào cũng phải đối mặt trong tiến trình chuyển đổi số.\n2. Cách tổ chức có thể bắt đầu quá trình này.\n3. Phương pháp xác định nguồn lực phù hợp cho việc chuyển đổi số.\n\nNó giúp lãnh đạo doanh nghiệp và các nhà quản lý hiểu rõ hơn về cách ứng dụng công nghệ số vào hoạt động của tổ chức để nâng cao hiệu quả và cạnh tranh thị trường.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'Digital Transformation - Chuyển Đổi Số' nói về gì?"
+    },
+    "be087d82486256aee3aa5c3e67afbac6": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\"], \"low_level_keywords\": [\"chuy\\u1ec3n \\u0111\\u1ed5i s\\u1ed1\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào về chuyển đổi số giá dưới 150,000 VND không?"
+    },
+    "9f1ff03c0af55507fa4ede5aa8d21c8a": {
+      "return": "Dựa trên thông tin mới nhất, tôi chưa tìm thấy sách nào về chuyển đổi số có giá dưới 150,000 VND. Sách \"Chuyển Đổi Số (Digital Transformation)(Tái Bản)\" của Nhà Xuất Bản Tổng hợp TP.HCM đang bán với giá 132,000 VND và \"Chuyển Đổi Số (Digital Transformation) - Thomas Siebel\" có giá 125,000 VND. \n\nBạn có muốn tôi tìm thông tin về các cuốn sách khác không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào về chuyển đổi số giá dưới 150,000 VND không?"
+    },
+    "067c5db28ac90421d73c5535d88654c9": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has rating\"], \"low_level_keywords\": [\"Chuy\\u1ec3n \\u0111\\u1ed5i s\\u1ed1\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách về chuyển đổi số nào có đánh giá trung bình cao nhất?"
+    },
+    "2cdcb6d17cecea55102a4840c52c128d": {
+      "return": "Sách \"Chuyển Đổi Số (Digital Transformation)(Tái Bản)\" do Tom Siebel xuất bản có đánh giá trung bình là 5.0 sao, đây là đánh giá cao nhất trong các sách về chuyển đổi số được liệt kê. Sách \"Digital Transformation - Chuyển Đổi Số\" cũng thuộc thể loại này và có đánh giá trung bình là 4.6 sao.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách về chuyển đổi số nào có đánh giá trung bình cao nhất?"
+    },
+    "f1ef6c90d187f7606dfd06a73b23e83b": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"content\"], \"low_level_keywords\": [\"Chuy\\u1ec3n \\u0110\\u1ed5i S\\u1ed1\", \"\\u0110\\u1ed5i M\\u1edbi T\\u1eeb C\\u1ed1t L\\u00f5i\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'Chuyển Đổi Số' và 'Đổi Mới Từ Cốt Lõi'."
+    },
+    "2ae679e8ec95fcc1e8ed06784b62bb49": {
+      "return": "Bộ sách \"Chuyển Đổi Số (Digital Transformation)(Tái Bản)\" của Tom Siebel và cuốn \"Đổi Mới Từ Cốt Lõi, Thay Đổi Để Dẫn Đầu\" của Natalie Turner đều tập trung vào chủ đề chuyển đổi số nhưng có những điểm khác biệt đáng chú ý:\n\n### 1. **Mục tiêu chính:**\n   - **\"Chuyển Đổi Số (Digital Transformation)(Tái Bản)\":** Tom Siebel, người đã từng là CEO của CNET và co-founder of Siebel Systems, viết cuốn sách này như một lời khuyên chân thành dành cho lãnh đạo doanh nghiệp và chính phủ. Mục tiêu chính của Siebel là cung cấp một hướng dẫn thực tế về cách các tổ chức có thể chuyển đổi số để trở nên linh hoạt và cạnh tranh hơn trong thời đại công nghệ số.\n   \n   - **\"Đổi Mới Từ Cốt Lõi, Thay Đổi Để Dẫn Đầu\":** Natalie Turner tập trung vào việc thảo luận về sự cần thiết của việc thực hiện các thay đổi sâu sắc từ bên trong tổ chức để đảm bảo rằng chuyển đổi số không chỉ là một cuộc cách mạng công nghệ mà còn phải liên quan đến văn hóa và phương pháp làm việc.\n\n### 2. **Nội dung chính:**\n   - **\"Chuyển Đổi Số (Digital Transformation)(Tái Bản)\":** Cuốn sách này cung cấp các ví dụ thực tế về cách các doanh nghiệp đã thành công trong việc chuyển đổi số, cùng với chiến lược và kế hoạch cụ thể để áp dụng công nghệ một cách hiệu quả. Siebel nhấn mạnh vào tầm quan trọng của việc thiết lập hạ tầng kỹ thuật số phù hợp, xây dựng đội ngũ nhân viên có kinh nghiệm về công nghệ, và tạo ra môi trường thúc đẩy đổi mới.\n\n   - **\"Đổi Mới Từ Cốt Lõi, Thay Đổi Để Dẫn Đầu\":** Turner đi sâu vào việc phân tích các yếu tố cấu trúc của một doanh nghiệp và cách chúng cần được thay đổi để tận dụng công nghệ. Cô thảo luận về tầm quan trọng của việc đào tạo nhân viên, cải thiện hệ thống quản lý thông tin, và xây dựng văn hóa tổ chức dựa trên sự linh hoạt và sáng tạo.\n\n### 3. **Phong cách viết:**\n   - **\"Chuyển Đổi Số (Digital Transformation)(Tái Bản)\":** Siebel thường sử dụng ngôn ngữ kỹ thuật và cụ thể khi giải thích các chiến lược công nghệ, mang lại cho người đọc cảm giác như đang được hướng dẫn từng bước.\n\n   - **\"Đổi Mới Từ Cốt Lõi, Thay Đổi Để Dẫn Đầu\":** Turner có phong cách viết linh hoạt hơn, kết hợp giữa phân tích lý thuyết và ví dụ thực tế. Cô thường tập trung vào các khía cạnh của văn hóa tổ chức và nhân tố con người.\n\n### 4. **Đối tượng độc giả:**\n   - **\"Chuyển Đổi Số (Digital Transformation)(Tái Bản)\":** Cuốn sách này phù hợp cho lãnh đạo cấp cao, quản lý IT, và những người quan tâm đến việc áp dụng công nghệ một cách hiệu quả vào các quy trình kinh doanh.\n\n   - **\"Đổi Mới Từ Cốt Lõi, Thay Đổi Để Dẫn Đầu\":** Turner hướng đến những người muốn khám phá sâu hơn về các yếu tố cốt lõi cần thay đổi để thực hiện chuyển đổi số thành công. Đối tượng này có thể bao gồm lãnh đạo cấp cao, quản lý nhân sự, và chuyên gia văn hóa tổ chức.\n\nTóm lại, cả hai cuốn sách đều quan trọng trong việc thảo luận về chuyển đổi số nhưng từ các góc độ khác nhau: một tập trung vào kỹ thuật và áp dụng công nghệ, còn một khác tập trung vào con người và văn hóa tổ chức.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'Chuyển Đổi Số' và 'Đổi Mới Từ Cốt Lõi'."
+    },
+    "e7a608efcaae40a5eb024587fe69e870": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has sold quantity\"], \"low_level_keywords\": [\"chuy\\u1ec3n \\u0111\\u1ed5i s\\u1ed1\", \"PACE Books\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về chuyển đổi số của PACE Books có số lượng bán trên 300 cuốn?"
+    },
+    "9031ff8af7d8c27b48622017e273b656": {
+      "return": "Cuốn sách \"Chuyển Đổi Số (Digital Transformation) - Thomas Siebel - PACE Books\" của nhà xuất bản PACE Books đã bán được 308 bản, phù hợp với yêu cầu bạn đề cập.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về chuyển đổi số của PACE Books có số lượng bán trên 300 cuốn?"
+    },
+    "3b70e7224ec1d2062d59675352b6f5fb": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"John C. Maxwell\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của John C. Maxwell có trong danh sách?"
+    },
+    "9df819326fb2d24ed32f82f57ee19ff1": {
+      "return": "Trong danh sách thông tin mới nhất, có hai cuốn sách của John C. Maxwell:\n\n1. **\"Lãnh Đạo Giỏi Hỏi Câu Hỏi Hay (Tái Bản)\"**\n   - Thông tin chi tiết:\n     - Tác giả: John C. Maxwell\n     - Nhà xuất bản: Nhà Xuất Bản Lao Động\n     - Mô tả: Cuốn sách này hướng dẫn lãnh đạo và nhân viên đặt câu hỏi hiệu quả, đồng thời chia sẻ những bí quyết giải quyết vấn đề.\n\n2. **\"21 Nguyên Tắc Vàng Của Nghệ Thuật Lãnh Đạo\"**\n   - Thông tin chi tiết:\n     - Tác giả: John C. Maxwell\n     - Nhà xuất bản: Nhà Xuất Bản Lao Động\n     - Mô tả: Cuốn sách này khám phá những phẩm chất lãnh đạo và 21 nguyên tắc vàng giúp phát huy và vận dụng chúng một cách hiệu quả.\n\nCả hai cuốn sách đều thuộc thể loại Sách quản trị nhân lực.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của John C. Maxwell có trong danh sách?"
+    },
+    "3a216bc98dce9f16fbb3b3cb20e61ec4": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"Phan V\\u0103n Tr\\u01b0\\u1eddng\", \"qu\\u1ea3n tr\\u1ecb\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Tác giả Phan Văn Trường có sách nào về quản trị không?"
+    },
+    "56be71f143aaeb4781ee6faa3e072b5a": {
+      "return": "Có, tác giả Phan Văn Trường đã viết cuốn sách \"Một Đời Quản Trị - Giáo Sư Phan Văn Trường\" thuộc thể loại sách quản trị nhân lực. Đây là một số thông tin chi tiết về cuốn sách này:\n\n- **Tên sách**: Một Đời Quản Trị - Giáo Sư Phan Văn Trường\n- **Loại sách**: Sách quản trị nhân lực\n- **Tác giả**: Phan Văn Trường\n- **Nhà xuất bản**: NXB Trẻ\n- **Giá hiện tại**: 168,000 VND\n- **Giá gốc**: 200,000 VND\n- **Khuyến mãi**: Giảm giá 16%\n- **Xếp hạng**: 5.0 sao\n- **Số lượng đã bán**: 3 bản\n\nNgoài ra, tác giả Phan Văn Trường cũng có một số tác phẩm khác như \"Công Dân Toàn Cầu - Công Dân Vũ Trụ\" và \"Một Đời Quản Trị (Tái Bản)\", nhưng không phải là về quản trị.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Tác giả Phan Văn Trường có sách nào về quản trị không?"
+    },
+    "a270e0cb3cd92c80c7fc1fac14f6f855": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"published by\", \"sold by\"], \"low_level_keywords\": [\"t\\u00e1c gi\\u1ea3 qu\\u1ea3n tr\\u1ecb\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Tác giả quản trị nào có sách bán chạy nhất trong danh sách?"
+    },
+    "5f2ad3761762dcc3791a17b33a4e3d91": {
+      "return": "Dựa trên thông tin cung cấp, tôi sẽ phân tích số lượng đã bán của các cuốn sách về quản trị:\n\n1. Quản Trị Học_KT - 4 bản đã bán\n2. Quản Trị Công Ty Hiện Đại - 28 bản đã bán\n3. Thép Đã Tôi Thế Đấy - 72 bản đã bán\n4. Ma Qủy Dân Gian Ký Tập 2 - 320 bản đã bán \n5. Ti Nam - Nữ hải tặc - 50 bản đã bán\n\nCuốn sách \"Ma Qủy Dân Gian Ký Tập 2\" có số lượng đã bán nhiều nhất là 320 bản, do vậy tác giả của cuốn này (Duy Văn) có thể được coi là tác giả quản trị có sách bán chạy nhất trong danh sách.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Tác giả quản trị nào có sách bán chạy nhất trong danh sách?"
+    },
+    "d5b46fa18fe98300b917ed3318520510": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"rating\", \"price\"], \"low_level_keywords\": [\"Robert S. Kaplan\", \"David Parmenter\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh rating và giá của các sách của Robert S. Kaplan và David Parmenter."
+    },
+    "8a7339556553c773423296acbce7d2a9": {
+      "return": "Dựa trên thông tin đã có, tôi sẽ so sánh rating và giá của các sách được viết bởi Robert S. Kaplan và David Parmenter:\n\n### 1. Robert S. Kaplan\n- **Sách: Thẻ Điểm Cân Bằng - The Balanced Scorecard**\n  - Giá hiện tại: 146,250 VND\n  - Đánh giá sao: 5.0 ngôi sao\n\n- **Sách: Thực Thi Xuất Sắc (The Execution Premium)**\n  - Giá hiện tại: 140,250 VND\n  - Đánh giá sao: 5.0 ngôi sao\n\n### 2. David Parmenter\n- **Sách: KPI Thước Đo Mục Tiêu Trọng Yếu (Key Performance Indicators)**\n  - Giá hiện tại: 153,000 VND\n  - Đánh giá sao: 4.8 ngôi sao\n\n### Kết luận:\n- **Rating**: Cả hai tác giả đều có sách đạt 5.0 ngôi sao, cho thấy chất lượng nội dung của cả hai đều rất tốt.\n- **Giá tiền**: \n  - Sách \"Thẻ Điểm Cân Bằng\" và \"Thực Thi Xuất Sắc (The Execution Premium)\" của Robert S. Kaplan đều có giá tương đương nhau là 140,250 VND.\n  - Sách \"KPI Thước Đo Mục Tiêu Trọng Yếu\" của David Parmenter có giá cao hơn một chút ở mức 153,000 VND.\n\nTrên tổng thể, cả hai tác giả đều được đánh giá cao về chất lượng nội dung và có sách đạt 5.0 ngôi sao. Tuy nhiên, khi cân nhắc giữa rating và giá, các sách của Robert S. Kaplan có một chút lợi thế về giá thấp hơn so với David Parmenter.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh rating và giá của các sách của Robert S. Kaplan và David Parmenter."
+    },
+    "cc65d70201af39983ef5f4deb609906a": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\", \"has price\", \"has rating\"], \"low_level_keywords\": [\"Michael Bunting\", \"150,000 VND\", \"5.0\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Michael Bunting dưới 150,000 VND có rating 5.0?"
+    },
+    "2162ec2f40712f215cad2d94f7e00386": {
+      "return": "Dựa trên thông tin hiện có, cuốn sách \"Lãnh Đạo Tỉnh Thức (The Mindful Leader) - Michael Bunting - PACE Books\" do Michael Bunting viết có các đặc điểm sau:\n\n- Giá bán hiện tại: 108,000 VND (< 150,000 VND)\n- Rating: 5.0 sao\n\nTuy nhiên, giá sách này cao hơn 108,000 VND so với yêu cầu của bạn (dưới 150,000 VND). Do đó, không có cuốn sách của Michael Bunting nào đáp ứng cả hai điều kiện: dưới 150,000 VND và rating là 5.0.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào của Michael Bunting dưới 150,000 VND có rating 5.0?"
+    },
+    "4dd18b68a1a26695e4a49ec7ad970c9b": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"The Culture Code\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'The Culture Code' nói về điều gì?"
+    },
+    "c8de3beca6f5f3b5c030e7430a71447e": {
+      "return": "'The Culture Code: Khám Phá Sức Mạnh Văn Hóa Đội Nhóm' của tác giả Daniel Coyle khám phá những bí mật đằng sau sự thành công của các nhóm vô cùng hiệu quả. Cuốn sách này cung cấp cho các nhà lãnh đạo tương lai các khái niệm và chiến lược để xây dựng một văn hóa đội nhóm mạnh mẽ, đồng thời nâng cao năng suất và hiệu quả làm việc của tập thể.\n\nNội dung chính của cuốn sách bao gồm:\n\n- Những yếu tố cấu tạo nên văn hóa teamwork thành công.\n- Các kỹ thuật xây dựng lòng tin và sự hợp tác trong đội nhóm.\n- Phương pháp quản lý để thúc đẩy sự sáng tạo và đổi mới.\n- Cách thức tạo ra môi trường làm việc tích cực, hỗ trợ sự phát triển cá nhân và tổ chức.\n\nCuốn sách này rất hữu ích cho những ai muốn cải thiện hiệu suất của các nhóm công việc hoặc tìm hiểu về cách văn hóa doanh nghiệp có thể ảnh hưởng đến kết quả kinh doanh.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn 'The Culture Code' nói về điều gì?"
+    },
+    "ad2cb2807b513d72849324d9af514133": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"belongs to category\"], \"low_level_keywords\": [\"x\\u00e2y d\\u1ef1ng v\\u0103n h\\u00f3a doanh nghi\\u1ec7p\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào về xây dựng văn hóa doanh nghiệp không?"
+    },
+    "fbeaedc4bfe9137476c5376784021cec": {
+      "return": "Trong danh sách thông tin mới nhất mà tôi có, chưa có sách cụ thể đề cập trực tiếp đến chủ đề \"xây dựng văn hóa doanh nghiệp\". Tuy nhiên, một số cuốn sách có nội dung liên quan hoặc có thể hữu ích trong việc xây dựng và phát triển văn hóa công ty bao gồm:\n\n1. **\"Để Xây Dựng Doanh Nghiệp Hiệu Quả\" (The E-Myth Revisited)** - Michael E. Gerber: Cuốn sách này không chỉ tập trung vào quản lý doanh nghiệp mà còn đề cập đến việc xây dựng và duy trì một văn hóa doanh nghiệp hiệu quả.\n\n2. **\"Hơn Cả Khởi Nghiệp 2.0: Xây Dựng Công Ty Từ Khởi Nghiệp Đến Vĩ Đại Trường Tồn\" (Built to Last)** - Jim Collins: Cuốn sách này đề cập đến việc xây dựng văn hóa doanh nghiệp bền vững và các yếu tố quan trọng để tạo ra một công ty vĩ đại.\n\n3. **\"Xây Dựng Kế Hoạch Kinh Doanh Và Marketing Cho Người Mới Bắt Đầu\" (Building a Business Plan and Marketing for Beginners)** - Brian Tracy: Cuốn sách này có thể giúp bạn hiểu rõ hơn về cách xây dựng kế hoạch kinh doanh và marketing, từ đó góp phần vào việc xây dựng văn hóa doanh nghiệp.\n\nNếu bạn cần thông tin cụ thể hơn hoặc muốn tìm kiếm thêm các lựa chọn khác, vui lòng cho tôi biết!",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Có sách nào về xây dựng văn hóa doanh nghiệp không?"
+    },
+    "5e2bdffb9a5244fa11d9fd62ff4d8d05": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has sold quantity\"], \"low_level_keywords\": [\"v\\u0103n h\\u00f3a doanh nghi\\u1ec7p\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách về văn hóa doanh nghiệp nào có số lượng bán cao nhất?"
+    },
+    "4c1b15cb03039c00c19e2e5ddb60916a": {
+      "return": "Theo thông tin mới cập nhật, sách \"Sức Mạnh Của Văn Hóa Doanh Nghiệp\" của Chris Dyer đã bán được 188 bản. Đây là số lượng bán cao nhất trong danh sách các sách về văn hóa doanh nghiệp mà chúng tôi có.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách về văn hóa doanh nghiệp nào có số lượng bán cao nhất?"
+    },
+    "55b23077a881bff046d7703f895be567": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has description\"], \"low_level_keywords\": [\"L\\u00e3nh \\u0110\\u1ea1o V\\u00e0 V\\u0103n H\\u00f3a Doanh Nghi\\u1ec7p\", \"7 B\\u01b0\\u1edbc X\\u00e2y D\\u1ef1ng V\\u0103n H\\u00f3a Doanh Nghi\\u1ec7p\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'Lãnh Đạo Và Văn Hóa Doanh Nghiệp' và '7 Bước Xây Dựng Văn Hóa Doanh Nghiệp'."
+    },
+    "d9104df9e4a3ba6987a165fa2878e5b8": {
+      "return": "### So sánh Nội Dung Của \"Lãnh Đạo Và Văn Hóa Doanh Nghiệp\" và \"7 Bước Xây Dựng Văn Hóa Doanh Nghiệp\"\n\n1. **Tiêu Đề:**\n   - **Lãnh Đạo Và Văn Hóa Doanh Nghiệp:** Focused on leadership and creating a corporate culture to enhance employee satisfaction and productivity.\n   - **7 Bước Xây Dựng Văn Hóa Doanh Nghiệp:** Emphasizes the steps to build a company culture when business leaders or entrepreneurs find themselves in a difficult situation.\n\n2. **Nội Dung Cốt Lõi:**\n   - **Lãnh Đạo Và Văn Hóa Doanh Nghiệp (by Edgar H. Schein, Peter Schein):** \n     - Focuses on the importance of understanding and developing an organizational culture to improve employee engagement and performance.\n     - Discusses the historical context and theoretical framework of organizational culture development.\n   \n   - **7 Bước Xây Dựng Văn Hóa Doanh Nghiệp (by Patrick Gentempo):**\n     - Provides practical steps for leaders to create or reinvigorate their company’s culture in times of crisis.\n     - Addresses common challenges that business leaders face and offers actionable solutions.\n\n3. **Nhấn Động:**\n   - **Lãnh Đạo Và Văn Hóa Doanh Nghiệp:** Highlights the long-term implications of organizational culture on business success, emphasizing the role of leadership in shaping a positive work environment.\n   - **7 Bước Xây Dựng Văn Hóa Doanh Nghiệp:** Encourages a proactive approach to managing and adapting company culture during uncertain times.\n\n4. **Đối tượng Mục Tiêu:**\n   - **Lãnh Đạo Và Văn Hóa Doanh Nghiệp:** Suitable for executives, managers, and anyone interested in understanding the foundational elements of organizational culture.\n   - **7 Bước Xây Dựng Văn Hóa Doanh Nghiệp:** Targeted towards leaders who are experiencing challenges and seeking strategies to improve their company’s cultural environment.\n\n5. **Phương Pháp Học:**\n   - **Lãnh Đạo Và Văn Hóa Doanh Nghiệp:** Offers a theoretical approach with case studies and examples.\n   - **7 Bước Xây Dựng Văn Hóa Doanh Nghiệp:** Provides clear, step-by-step guidance for practical implementation.\n\nTóm lại, \"Lãnh Đạo Và Văn Hóa Doanh Nghiệp\" tập trung vào việc xây dựng văn hóa doanh nghiệp từ góc độ lý thuyết và lịch sử, trong khi \"7 Bước Xây Dựng Văn Hóa Doanh Nghiệp\" cung cấp các phương pháp thực tế để giải quyết các vấn đề về văn hóa doanh nghiệp trong thời kỳ khó khăn.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "So sánh nội dung của 'Lãnh Đạo Và Văn Hóa Doanh Nghiệp' và '7 Bước Xây Dựng Văn Hóa Doanh Nghiệp'."
+    },
+    "8dc5e84674babf86b9666dc341419fc0": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"publishing\", \"sales\"], \"low_level_keywords\": [\"v\\u0103n h\\u00f3a doanh nghi\\u1ec7p\", \"Nh\\u00e0 Xu\\u1ea5t B\\u1ea3n Th\\u1ebf Gi\\u1edbi\", \"<150,000 VND\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về văn hóa doanh nghiệp dưới 150,000 VND của Nhà Xuất Bản Thế Giới đáng đọc?"
+    },
+    "ef6775efa8ddb7fd088b26564a0128f5": {
+      "return": "Dựa trên thông tin hiện có, cuốn sách \"Đổi Mới Từ Cốt Lõi, Thay Đổi Để Dẫn Đầu\" của tác giả Natalie Turner do Nhà Xuất Bản Thế Giới xuất bản đang được bán với giá 93,000 VND (đã giảm giá), phù hợp dưới 150,000 VND và có đánh giá cao về chất lượng.\n\nThông tin chi tiết:\n- **Tên Sách**: Đổi Mới Từ Cốt Lõi, Thay Đổi Để Dẫn Đầu\n- **Tác Giả**: Natalie Turner\n- **Nhà Xuất Bản**: Nhà Xuất Bản Thế Giới\n- **Giá Hiện Tích**: 93,000 VND (giảm từ 150,000 VND)\n- **Số lượng bán được**: 126 bản\n\nNội dung sách thảo luận về cách thức thay đổi và cải tiến từ cốt lõi để dẫn đầu trong thế giới kinh doanh hiện đại. Đây có thể là cuốn sách đáng đọc nếu bạn quan tâm đến văn hóa doanh nghiệp.\n\nBạn có muốn biết thêm thông tin chi tiết về nội dung hay cần hỗ trợ gì nữa không?",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Cuốn sách nào về văn hóa doanh nghiệp dưới 150,000 VND của Nhà Xuất Bản Thế Giới đáng đọc?"
+    }
+  },
+  "global": {
+    "95c9406af369ff3927d4241c0da5300b": {
+      "return": "Trong danh sách cung cấp, không có bất kỳ cuốn sách nào đang được giảm giá hơn 50%. Cụ thể:\n\n- \"1Q84 - Tập 3\" giảm 33%\n- \"1Q84 - Tập 2\" giảm 33%\n- \"0852\" giảm 17%\n- \"Vụ Án\" giảm 34%\n- \"17 âm 1\" giảm 21%\n- \"Trắng\" giảm 39%\n\nTất cả các cuốn sách đều chỉ đang được giảm từ 17% đến 50%, không có cuốn nào giảm hơn 50%.",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Sách nào trong danh sách đang giảm giá trên 50%?"
+    }
+  },
+  "local": {
+    "2e603e0f9ef76f38faccd4d7f5289d64": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"has price\"], \"low_level_keywords\": [\"Walden M\\u1ed9t M\\u00ecnh S\\u1ed1ng Trong R\\u1eebng\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Nói cho tôi giá của sách Walden Một Mình Sống Trong Rừng"
+    },
+    "ca450ea6ae0c965399a1d78f5f53a863": {
+      "return": "Sách 'Walden - Một Mình Sống Trong Rừng' hiện đang có giá 156000. <|im_end|>",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Nói cho tôi giá của sách Walden Một Mình Sống Trong Rừng"
+    },
+    "671c518acb21b02abd414b3ab1f0f6ea": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"family\", \"skin allergy\"], \"low_level_keywords\": [\"gia \\u0111\\u00ecnh g\\u00e3i ng\\u1ee9a\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "cho tôi thông tin sách gia đình gãi ngứa"
+    },
+    "e619bd037155c09e21d615cc508cce60": {
+      "return": "Bạn có muốn biết thêm thông tin về \"Gia Đình Gãi Ngứa\" không? \n\nĐể cung cấp thông tin chính xác nhất, bạn có thể cho mình biết:\n\n* **Bạn muốn biết thông tin gì cụ thể về sách \"Gia Đình Gãi Ngứa\"?**  Ví dụ như nội dung chính, tác giả, publisher...\n* **Bạn đang tìm kiếm sách này ở đâu?** Ví dụ như tại Tiki, Sendo, Amazon.\n\n\nCàng nhiều chi tiết bạn cung cấp, mình càng có thể giúp bạn tốt hơn! 😊 \n",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "cho tôi thông tin sách gia đình gãi ngứa"
+    },
+    "41046dc4e3cf844a55d3231b901c67ca": {
+      "return": "{\"high_level_keywords\": [\"Books\", \"authorship\"], \"low_level_keywords\": [\"Th\\u1ebf L\\u01b0\\u1ee1ng Nan\", \"Nh\\u00e0 L\\u00e3nh \\u0110\\u1ea1o\"]}",
+      "cache_type": "keywords",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "cho tôi thông tin sách Thế Lưỡng Nan Của Nhà Lãnh Đạo"
+    },
+    "d543039158c1f7ed0359db391af9d8fd": {
+      "return": "## Thông tin về cuốn sách: \"Thế Lưỡng Nan Của Nhà Lãnh Đạo\"\n\n**Tên sách:**  Thế Lưỡng Nan Của Nhà Lãnh Đạo\n**Thể loại:** Sách quản trị, lãnh đạo\n**Tác giả:** Không rõ, cần xác minh. \n**Hãng xuất bản:** Tiki Trading (Nguồn: https://tiki.vn/product-p168234718.html)\n\n**Thông tin chi tiết:**\n*  Sách này có thể được bán trên Tiki, và người đọc có thể tìm thấy thông tin về sách từ trang web này. \n\n**Lưu ý:** \n\n* Mọi thông tin khác về cuốn sách cần được xác minh.\n* Không rõ tác giả. \n\n",
+      "cache_type": "query",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "cho tôi thông tin sách Thế Lưỡng Nan Của Nhà Lãnh Đạo"
+    }
+  }
+}
